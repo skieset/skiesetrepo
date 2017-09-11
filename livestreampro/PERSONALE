@@ -34,7 +34,7 @@
 <item>
 <title>[B][COLOR white]->  [COLOR blue] FILM [/COLOR][/B]</title>
 <link>http://ignorame</link>
-<externallink>https://www.dropbox.com/s/hjtrl2qj1qaw0vw/FILM.xml?dl=1</externallink>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/FILM/FILM%20MENU</externallink>
 </item>
 
 <item> 
@@ -45,17 +45,6 @@
 <item>
 <title>[B][COLOR white]->  [COLOR blue] PROGRAMMI TV[/COLOR][/B]</title>
 <link>http://ignorame</link>
-<externallink>https://www.dropbox.com/s/feghzl7h8dzqpr6/PROGAMMI%20TV.m3u?dl=1</externallink>
-</item>
-
-<item> 
-<title>[B][COLOR white]     [/COLOR][/B]</title> 
-<link>ignore</link>
-</item>
-
-<item>
-<title>[B][COLOR white]->  [COLOR blue] DOCUMENTARI[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<externallink>https://www.dropbox.com/s/08yd99t5c5m7p6g/DOCUMENTARI.m3u?dl=1</externallink>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMI%20TV</externallink>
 </item>
 
