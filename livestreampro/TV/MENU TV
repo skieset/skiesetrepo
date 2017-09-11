@@ -24,7 +24,7 @@
 <link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://www.dropbox.com/s/jftz7x10un2fql5/SKY%20INTRAT.m3u?dl=1]]></page>
+<page><![CDATA[https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/S/INTRATTENIMENTO]]></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -39,7 +39,7 @@
 <link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://www.dropbox.com/s/hyhbbd1yd3z1hn3/SKY%20CULTURA%20%26%20NEWS.m3u?dl=1]]></page>
+<page><![CDATA[https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/S/CULTURA%20%26%20NEWS]]></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -54,7 +54,7 @@
 <link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://www.dropbox.com/s/dp2mgtson6uwjii/SKY%20CINEMA.m3u?dl=1]]></page>
+<page><![CDATA[https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/S/CINEMA]]></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -69,7 +69,7 @@
 <link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://www.dropbox.com/s/kqfohfmwwgpb85r/SKY%20SPORT.m3u?dl=1]]></page>
+<page><![CDATA[https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/S/SPORT]]></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -84,7 +84,7 @@
 <link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://www.dropbox.com/s/xikqhoiscds54se/SKY%20BAMBINI.m3u?dl=1]]></page>
+<page><![CDATA[https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/S/BAMBINI]]></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -104,7 +104,7 @@
 <link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://www.dropbox.com/s/nuncdfvubrt9b61/MEDIASET%20CINEMA.m3u?dl=1]]></page>
+<page><![CDATA[https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/M/CINEMA]]></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -119,7 +119,7 @@
 <link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://www.dropbox.com/s/h6pemlqvlif2ci9/MEDIASET%20CALCIO.m3u?dl=1]]></page>
+<page><![CDATA[https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/M/SPORT]]></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
