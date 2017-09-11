@@ -1,0 +1,153 @@
+<item>
+<title>                          [B][COLOR white]::::: [COLOR cyan]LISTE GIORNALIERE [COLOR white] :::::[/COLOR][/B]</title>
+<link>ignore</link>
+<item>
+
+<item>
+<title>                           [B][COLOR white][/COLOR][/B]</title>
+<link>ignore</link>
+</item>
+
+====================================================================================================================================
+
+<item>
+<title>[B][COLOR lime]•[COLOR blue] LISTE IPTV BY SKIESET  [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<externallink>https://pastebin.com/raw/8Pwqw8Q9$$TSDOWNLOADER$$</externallink>
+</item>
+
+====================================================================================================================================
+
+<item>
+  <title>[B][COLOR lime]•[COLOR blue] Oneplaylist[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>      [B][COLOR lightgreen][makelist.param2][/COLOR][/B]    ( [makelist.param1] )  </title>
+   <link>NA</link>
+   <externallink>[makelist.param1]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.oneplaylist.eu.pn/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+====================================================================================================================================
+
+<item>
+<title>[B][COLOR lime]•[COLOR blue] IPTVSATLINK (Gionaliere) [/COLOR][/B]</title>
+<link>$doregex[makelist2]</link>
+<info>Liste catalogate per giorni.</info>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[I][COLOR white]Liste del giorno:  [/I][/COLOR] [COLOR blue][B][makelist2.param2][/B][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Daily m3u playlist (.*?)2017]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+</regex>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[B][COLOR aqua]SERVER [/B][/COLOR][I][COLOR white][makelist.param1][/COLOR][/I]   -  [B][COLOR violet]USER [/B][/COLOR][I][COLOR white][makelist.param2][/I][/COLOR] </title>
+ <link>NA</link>
+ <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
+ 
+ <thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+====================================================================================================================================
+
+<item>
+<title>[B][COLOR lime]•[COLOR blue] m3uliste Daily updates[/COLOR][/B]</title> 
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+     <title> [COLOR white]Servers[COLOR blue]Daily updates Severs[/COLOR]    ( [makelist.param1] )  </title>
+    <link>NA</link>
+    <externallink>[makelist.param1][DE]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres>>(http:\/\/(.*?)\/.*?get.php.*?)&lt;</expres>
+<page>http://www.m3uliste.pw/</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.xtream-codes.png.pagespeed.ic.7uLaZTpLY3.png</thumbnail>
+<fanart>https://webstuff.co.il/uploads/images/articles/pic-100.jpg</fanart>
+</item>
+
+====================================================================================================================================
+
+<item>
+<title>[B][COLOR lime]•[/COLOR][COLOR blue] iptvsharing[/B] [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[B][COLORlightgreen] [makelist2.param2][/B][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>(.*?)<]]></expres>
+<page>http://www.iptvsharing.com/search?max-results=40</page>
+</regex>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+ <title>[COLORlightgreen][B][makelist.param1][/B][/COLOR]</title>
+ <link>plugin://plugin.video.f4mTester/?url=[makelist.param2]&amp;streamtype=TSDOWNLOADER&amp;maxbitrate=-1&amp;proxy=None&amp;name=[COLORwhite]S[COLORdodgerblue]TV[/COLOR] [makelist.param1]  </link>
+ <thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[EXTINF[\w\W\s]{0,3},(.*?)<[\w\W\s]{0,55}>(http.*?ts)<]]></expres>
+<page>[makelist2.param1]</page>
+<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
+</regex>
+</item>
+
+====================================================================================================================================
+<item>
+<title>[B][COLOR lime]•[COLOR blue] Dailyiptvlist (Divise per nazione)[/B][/COLOR]</title>
+<link>$doregex[leg2]</link>
+<info>Liste catalogate per paese.</info>
+<regex>
+<name>leg2</name>
+<listrepeat><![CDATA[
+<title>[leg2.param2]</title>
+<link>$doregex[leg]</link>
+]]></listrepeat>
+<expres><![CDATA[taxonomy.+?href="(.+?)">(.+?)<]]></expres>
+<page>http://www.dailyiptvlist.com/</page>
+</regex>
+<regex>
+<name>leg</name>
+<listrepeat><![CDATA[
+<title>[leg.param2]</title>
+<link>$doregex[list]</link>
+]]></listrepeat>
+<expres><![CDATA[(?s)<h2 class="post-title".+?href="https(.+?)">(.+?)</a>]]></expres>
+<page>[leg2.param1]</page>
+</regex>
+<regex>
+<name>list</name>
+<listrepeat><![CDATA[
+<title>[list.param2]</title>
+<link>NA</link>
+<externallink>[list.param1]$$TSDOWNLOADER$$</externallink>
+]]></listrepeat>
+<expres><![CDATA[<a href="(.*?)">Download(.*?)</a>]]></expres>
+<page>http[leg.param1]</page>
+</regex>
+</item>
