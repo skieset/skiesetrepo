@@ -1,0 +1,3788 @@
+<item>
+<title>[COLOR lime]======DIGITALE TERRESTRE========[/COLOR]</title>
+<link>http://</link>
+<thumbnail>http://www.antennista-roma.it/tv-roma/wp-content/uploads/tv-digitale.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR cyan]Rai 1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/rai-1-%28dtt%29.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+<thumbnail>https://www.staseraintv.uno/wp-content/uploads/2016/05/rai-1-660x330.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Rai 2[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/rai-2-%28dtt%29.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+<thumbnail>https://www.staseraintv.uno/wp-content/uploads/2015/10/stasera-in-tv-rai2.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Rai 3[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/rai-3-%28dtt%29.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+<thumbnail>https://www.staseraintv.uno/wp-content/uploads/2015/10/stasera-in-tv-rai3.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Rete 4[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/rete-4-%28dtt%29.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://media.tvblog.it/1/1a5/rete-4-logo.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Canale 5[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/canale-5-%28dtt%29.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://www.coolstreaming.us/blog/wp-content/uploads/canale-5.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Italia 1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/italia-1-%28dtt%29.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://th.tvblog.it/VY3BCCL555KaP007n-eAzlC5es0=/fit-in/655xorig/http://media.tvblog.it/f/f51/Palinsesti-Mediaset-Italia-1-Autunno-2014-620x350.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR cyan]La 7[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/la7-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://www.superguidatv.it/wp-content/uploads/2016/07/la7.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]TV 8[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/tv8-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]NOVE[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/nove-dtt-.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.primaonline.it/wp-content/uploads/2017/01/Logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Rai 4[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/rai-4-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Rai4.svg/1280px-Rai4.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]IRIS[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/iris.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://media.tvblog.it/2/218/Iris-Logo-2013-3D-su-nero-620x350.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Rai 5[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/rai-5.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i2.wp.com/www.lanostratv.it/wp-content/uploads/2011/11/rai5-logo.png?resize=488%2C268</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Rai Movie[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/rai-movie.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/RAI_Movie_2010_neu_Logo.svg/1024px-RAI_Movie_2010_neu_Logo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Rai Premium[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/rai-premium.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/RAI_Premium_2010_neu_Logo.svg/1280px-RAI_Premium_2010_neu_Logo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]TV 2000[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/tv2000-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/0/0d/Logo_di_TV2000.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]La 7d[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/la7d.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://tvstreamingonline.org/images/LOGHIGRANDI/logo%20la7d.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]La 5[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/la5.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/1280px-La5_Italy.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]QVC[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/qvc-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://seeklogo.com/images/Q/qvc-old-logo-7EEEC489E0-seeklogo.com.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Mediaset Extra[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/mediaset-extra.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/c/c1/Mediaset_Extra_logo.PNG</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Italia 2[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/mediaset-italia-due-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://media-s3.blogosfere.it/rugby1823/images/italia2-logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Giallo[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/giallo-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.lospettacolo.it/img/logos/gia.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]RTL 102.5 TV[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/rtl-102.5-tv-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://scontent-sea1-1.cdninstagram.com/t51.2885-19/10919766_1767718976787579_627514694_a.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]TOP Crime[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/top-crime.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://img.mediaset.it/bin/57.$plit/C_116_PagineProgramma_1021_upiImageHome.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Boing[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/boing.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.solospettacolo.it/wp-content/uploads/2015/10/Boing-logo.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]K2[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/k2-kids-tv-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/archive/7/73/20120508055515%21K2_Logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Rai Gulp[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/rai-gulp.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/8/8b/Logo_Rai_Gulp.svg/670px-Logo_Rai_Gulp.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Rai Yoyo[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/rai-yoyo.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RAI_YoYo_2010_Logo.svg/2000px-RAI_YoYo_2010_Logo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Fresbee[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/frisbee-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/9/9a/FRISBEE_LOGO_2015.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Cartoonito[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/cartoonito.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Cartoonito_logo.svg/1280px-Cartoonito_logo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Super![/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/super%21-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://logowow.net/logos/UChZ7ze7L.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Rai News[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/rai-news-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/d/d6/Logo_Rainews_it.svg/2525px-Logo_Rainews_it.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Tg24[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-tg24-dtt2.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.dagospia.com/img/foto/04-2012/logo-160402.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Rai Storia[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/rai-storia.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cultura.rai.it/images/logo_raiStoria.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Focus[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/focus-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://myopinionlab.it/images/premi/Logo_FOCUS_positivo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Rai Sport 1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/rai-sport-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Logo_Rai_Sport_1_2010.svg/1280px-Logo_Rai_Sport_1_2010.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Rai Sport 2[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/rai-sport-2-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://sicilia.onderadio.net/Loghi/TV/RaiSport2.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]SuperTennis[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/supertennis-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/archive/d/db/20110802174826%21Supertennis_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]MTV Music TV[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/mtv-music-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/99/bd/6d/99bd6d74357ae622ff03a4927f9c53a4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]France 24[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/france-24-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1024px-FRANCE_24_logo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]======SKY INTRATTENIMENTO========[/COLOR]</title>
+<link>http://</link>
+<thumbnail>https://i1.ytimg.com/vi/svsQRQRoH2o/mqdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Uno HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-uno-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://m.sky.it/s1/4052/5178/1311585178/t1188902988/sky_logo_skyuno_header.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Uno + 1 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-uno-+-1-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://iptvstreaming.org/upload/channel/56logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Atlantic HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-atlantic-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.digital-news.it/files-admin/Simone/SKYATLANTIC%20HD%20LOGO.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Atlantic +1 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-atlantic-+1-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/1/10/Sky_Atlantic_HD_%2B1.PNG</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Fox HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/fox-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.kabelmax.tv/files/logopack/Italy/fox%20hd.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Fox +1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/fox-+1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.kabelmax.tv/files/logopack/Italy/fox%20hd.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Fox Life HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/fox-life-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://bul-tv.com/wp-content/uploads/2015/01/fox-life-logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Fox Life +1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/fox-life-+1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://bul-tv.com/wp-content/uploads/2015/01/fox-life-logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Fox Crime HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/fox-crime-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://s14.postimg.org/9zpap24hd/foxcrime.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Fox Crime +1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/fox-crime-+1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://s14.postimg.org/9zpap24hd/foxcrime.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]CI Crime+Investigation HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/ci-crime+-investigation-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://www.telstra.com.au/content/dam/tcom/personal/entertainment/images-d/CI-hero-lightbg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Blaze HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/blaze-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://lh3.googleusercontent.com/DuAI-GWO8QqfVDIy-UDDQUJTwq_oKnFEuJk1bCN4coyJ3DiYqHwCUDhWmtdVqJAOINcF=w300</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Arte HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-arte-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.vocespettacolo.com/wp-content/uploads/2016/06/sky-arte-hd-logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Comedy Central[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/comedy-central.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/404px-Comedy_Central_UK.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Comedy Central + 1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/comedy-central-+-1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/404px-Comedy_Central_UK.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Fox Animation HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/fox-animation-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://photo.ivid.it/media/foto/2014/11/05/m.loghi_emittenti_tv_digitali_e_satellitari_0_fox_animation_hd_bianco_1092a4.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Fox Comedy HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/fox-comedy-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://c1.staticflickr.com/4/3956/15653836476_8fe7da97d5.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Cielo[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/cielo-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/archive/8/8b/20110802221248%21Logo_cielo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Lei[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/lei.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/d/de/Logo_Lei.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]LEI +1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/lei-+1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/d/de/Logo_Lei.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Real Time[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/real-time-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/6/67/Real_Time_-_Logo_2014.svg/1024px-Real_Time_-_Logo_2014.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Real Time+1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/real-time+1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/6/67/Real_Time_-_Logo_2014.svg/1024px-Real_Time_-_Logo_2014.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]MTV HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/mtv-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/28/MTV_HD_Logo_2013.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR cyan]DMAX[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/dmax-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/3/3e/DMAX_Italia_Logo_2015.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]DMAX +1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/dmax-+1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/3/3e/DMAX_Italia_Logo_2015.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Classica HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/classica-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://static.movietele.it/files/images/2015/12/classicahd-logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Laeffe[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/laeffe.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://th.tvblog.it/uq7DbWYtpfwKWiP4a8tuZXU3y_c=/fit-in/655xorig/http://media.tvblog.it/9/9fa/la-effe-logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]TV 2000[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/tv2000-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/0/0d/Logo_di_TV2000.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Fox Crime Tracce Criminali[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/fox-crime-tracce-criminali.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.ilsussidiario.net/img/WEB-CINEMA_E_TV/fox_crime_logo_R439.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Giallo[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/giallo-dtt.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.lospettacolo.it/img/logos/gia.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]AutoMoto TV[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/automoto-tv.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/3/3b/Automoto_TV_Logo_2015.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]NOVE HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/nove-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/0/0f/NOVE_TV_logo_2017.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]MAN-GA[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/man-ga.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://www.animeclick.it/prove/img_tmp/201705/man-ga.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky 3D[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-3d---ch-150.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://vignette3.wikia.nocookie.net/logopedia/images/f/f1/Sky_3D_2011.png/revision/latest?cb=20111030100103</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]DEEJAY TV NOVE[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/deejay-tv--nove-.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.primaonline.it/wp-content/uploads/2016/02/nove-deejay.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]======SKY LIFESTYLE========[/COLOR]</title>
+<link>http://</link>
+<thumbnail>http://satpro-tv.com/_frame/iliiiiiiiiiiiiiiiiiiiiyikyuk.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky arte HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-arte-hd-400.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.vocespettacolo.com/wp-content/uploads/2016/06/sky-arte-hd-logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Discovery HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/discovery-channel-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Discovery_Channel_2008.png/revision/latest?cb=20091118145933</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Discovery +1 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/discovery-+1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://cdn.firstone.tv/images/logos/uk/DISCOVERY_CHANNEL.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]National Geographic HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/national-geo-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.materainside.it/wp-content/uploads/2016/05/National-Geographic-logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]National Geographic Storica[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/national-geo-+1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.milanoplatinum.com/wp-content/uploads/2014/12/Storica-National-Geographic.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Discovery science Hd[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-arte-hd-400.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/c/c5/500px-Discovery_Science_Italia_2012.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Discovery travel & living HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/discovery-travel-%26-living-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Discovery_Travel_%26_Living_logo.svg/1200px-Discovery_Travel_%26_Living_logo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]History HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/history-channel-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/739px-History_Logo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]History +1 [/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/history-ch-+1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Nat Geo Wild HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/nat-geo-wild-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Nat Geo Wild +1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/nat-geo-wild-+1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.thelogodb.com/images/media/logo/qsuqxs1458825400.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Nat Geo People HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/nat-geo-people-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Gambero Rosso HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/gambero-rosso-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/archive/b/ba/20161209140217%21Gamberorosso.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]DOVE Lifestyle[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/dove.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.rcsmediagroup.it/wp-content/uploads/img/2014-03/LOGO_DOVE.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Animal PLanet[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/animal-planet.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/07/Animal_Planet_logo.svg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Focus[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/focus-tv.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/1/14/Focus_logo_trasparente.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]La sposa[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/la-sposa.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.pantelvoice.it/wp-content/uploads/2015/02/LASPOSA.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Doctor’s Life Channel[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/doctor%27s-life.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://blog.timeoutintensiva.it/wp-content/uploads/2011/09/doctors_Life_Channel_blog_timeoutintensiva.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]QVC[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/qvc.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0019/2274/brand.gif?itok=PchqWWlD</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]======SKY CINEMA========[/COLOR]</title>
+<link>http://</link>
+<thumbnail>http://satpro-tv.com/_frame/iliiiiiiiiiiiiiiiiiiiiyikyuk.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[B][COLOR cyan]Sky Cinema Uno HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-cinema-uno-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-kBNhvHHSMJc/UnucXO4VpnI/AAAAAAAALWI/qkRXYSvU1aY/s1600/Sky-Cinema1-HD.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Cinema + 1 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-cinema-+-1-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://1.bp.blogspot.com/-kBNhvHHSMJc/UnucXO4VpnI/AAAAAAAALWI/qkRXYSvU1aY/s1600/Sky-Cinema1-HD.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Cinema + 24 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-cinema-+-24-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/20/Sky_Cinema%2B24_HD_DE_Logo_2016.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Cinema Hits HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-cinema-hits-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://vignette3.wikia.nocookie.net/logopedia/images/0/07/Sky_Cinema_Hits_HD_%28UK_%26_Ire%29.png/revision/latest?cb=20160709183145</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Cinema Family HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-cinema-family-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.lospettacolo.it/img/logos/sky3.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+<title>[B][COLOR cyan]Sky Cinema Passion HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-cinema-passion-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.lospettacolo.it/img/logos/skycpa.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Cinema Comedy HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-cinema-comedy-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.lospettacolo.it/img/logos/skycom.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Cinema Max HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-cinema-max-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.cicciolandia.it/img/logos/skymax.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Cinema Max Collection HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-cinema-max-collection-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://static.movietele.it/files/styles/image-w960/public/images/2017/07/sky-cinema-max-collection.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Cinema Cult HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-cinema-cult-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.lospettacolo.it/img/logos/cni.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Cinema Classics HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-cinema-classics-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://iptvstreaming.org/upload/channel/6logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]======SKY PRIMAFILA LIVE========[/COLOR]</title>
+<link>http://</link>
+<thumbnail>http://presentationarchive.com/skyprimafila2010/one-h.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Primafila 1 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/primafila-1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Sky_it_prima_fila-1-.png/520px-Sky_it_prima_fila-1-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Primafila 2[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/primafila-2.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Sky_it_prima_fila-1-.png/520px-Sky_it_prima_fila-1-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Primafila 3 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/primafila-3-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Sky_it_prima_fila-1-.png/520px-Sky_it_prima_fila-1-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Primafila 4[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/primafila-4.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Sky_it_prima_fila-1-.png/520px-Sky_it_prima_fila-1-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Primafila 5 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/primafila-5-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Sky_it_prima_fila-1-.png/520px-Sky_it_prima_fila-1-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Primafila 6[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/primafila-6.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Sky_it_prima_fila-1-.png/520px-Sky_it_prima_fila-1-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Primafila 7 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/primafila-7-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Sky_it_prima_fila-1-.png/520px-Sky_it_prima_fila-1-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Primafila 8[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/primafila-8.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Sky_it_prima_fila-1-.png/520px-Sky_it_prima_fila-1-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Primafila 9 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/primafila-9-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Sky_it_prima_fila-1-.png/520px-Sky_it_prima_fila-1-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Primafila 10[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/primafila-10.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Sky_it_prima_fila-1-.png/520px-Sky_it_prima_fila-1-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Primafila 11 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/primafila-11-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Sky_it_prima_fila-1-.png/520px-Sky_it_prima_fila-1-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Primafila 12[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/primafila-12.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Sky_it_prima_fila-1-.png/520px-Sky_it_prima_fila-1-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Primafila 13 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/primafila-13-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Sky_it_prima_fila-1-.png/520px-Sky_it_prima_fila-1-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Primafila 14[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/primafila-14.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Sky_it_prima_fila-1-.png/520px-Sky_it_prima_fila-1-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Primafila 15[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/primafila-15.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Sky_it_prima_fila-1-.png/520px-Sky_it_prima_fila-1-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Primafila 16[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/primafila-16.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Sky_it_prima_fila-1-.png/520px-Sky_it_prima_fila-1-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Primafila 17[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/primafila-17.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Sky_it_prima_fila-1-.png/520px-Sky_it_prima_fila-1-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Primafila 18[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/primafila-18.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Sky_it_prima_fila-1-.png/520px-Sky_it_prima_fila-1-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Primafila 19[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/primafila-19.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/Sky_it_prima_fila-1-.png/520px-Sky_it_prima_fila-1-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]======SKY SPORT & CALCIO ======[/COLOR]</title>
+<link>http://</link>
+<thumbnail>http://tvstreamingonline.org/images/IMG/canali%20tv%20sport.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Sport Mix HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-sport-mix-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://static.trustedreviews.com/94/00003824b/9dba/sky-sports-mix.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]SKY Sport 24 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-sport24-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/3407031501/29da7cb6280948eef03eaee619c21410_400x400.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Sport 1 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-sport-1-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www4.0zz0.com/2012/09/23/12/331011606.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Sport 2 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-sport-2-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.livetv21.net/wp-content/uploads/2016/05/Sky_Sport_2_HD_Italy_2010.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Sport 3 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-sport-3-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.livetv21.net/wp-content/uploads/2016/05/Sky_Sport_3_HD_Italy_2010.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Fox Sports HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/fox-sports-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://foromedios.com/uploads/gallery/album_2/gallery_1163_2_20160.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Sport Plus HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-sport-plus-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://s26.postimg.org/5mxigf8fd/Sky_Sport_Plus_HD.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Supercalcio HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-supercalcio-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.frosat.net/images/logotv/original/sky-supercalcio-hd.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Sport F1 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-sport-f1-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.circusf1.com/f14/wp-content/uploads/2017/01/Sky_Sport_F1_HD.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Sport MotoGP HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-sport-motogp-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.teamitaliafmi.com/wp-content/uploads/sites/7/2015/02/logo_sky_sport_motogp_hd-357x258.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Eurosport 1 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/eurosport-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i2.hd-cdn.it/img/max_width1000/id336478_1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Eurosport 2 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/eurosport-2-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.frocus.net/images/logotv/original/Eurosport-2-HD.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Juventus TV[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/j-%7C-juventus-tv.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.juventus.com/media/images/news-images/grafiche/jtv2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Roma TV[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/roma-tv.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.laroma24.it/wp-content/uploads/2015/07/654x347_Roma-TV1.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Bike Channel HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/bike-channel-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.bikechannel.it/images/LOGO-bike--new.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Class horse tv[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/class-horse-tv.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/2/29/Class_Horse_TV.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Supertennis HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/supertennis-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/archive/d/db/20110803191828%21Supertennis_logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sportitalia [/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sportitalia.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.digital-news.it/files-admin/Simone/sportitalia-canale153.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Rai sport 1 [/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/rai-sport.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/8/80/Rai_Sport_1_HD.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Milan TV[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/milan-tv-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/a/a5/Milan_Channel.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Inter Channel[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/inter-channel.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://pbs.twimg.com/profile_images/486855346246254592/f94AeYk3.jpeg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Lazio Channel[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/lazio-style-channel.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://en.kingofsat.net/jpg/lazio.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Torino Channel[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/torino-channel.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.dtti.it/wp-content/uploads/2017/02/LOGO-TORINO-CHANNEL-407x600.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Caccia & Pesca[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/caccia-e-pesca.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/0/05/Caccia_pesca.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Pesca & Caccia[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/pesca-e-caccia.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.rivieradomizia.it/public/gf-pesca-logo-rivieragfpesca.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Calcio 1 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-calcio-1-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i61.tinypic.com/2ames9.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Calcio 2 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-calcio-2-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.sorrisi.com/guidatv/uploads/epg/images/transmitter/skycal2HD.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Calcio 3 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-calcio-3-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.skysports.com/core/img/channels/Sky-Sports-3-Logo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Calcio 4 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-calcio-4-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.sorrisi.com/guidatv/uploads/epg/images/transmitter/skycal4HD.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Calcio 5 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-calcio-5-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.sorrisi.com/guidatv/uploads/epg/images/transmitter/skycal5HD.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Calcio 6 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-calcio-6-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.sorrisi.com/guidatv/uploads/epg/images/transmitter/skycal6HD.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Calcio 7 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-calcio-7-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.sorrisi.com/guidatv/uploads/epg/images/transmitter/skycal7HD.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Calcio 8 HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-calcio-8-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i45.tinypic.com/11t4ety.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Calcio 9[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-calcio-9.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i45.tinypic.com/11t4ety.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Calcio 10[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-calcio-10.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i45.tinypic.com/11t4ety.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Calcio 11[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-calcio-11.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i45.tinypic.com/11t4ety.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Calcio 12[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-calcio-12.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i45.tinypic.com/11t4ety.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Sky Calcio 13[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/sky-calcio-13.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i45.tinypic.com/11t4ety.png</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR lime]======CANALI PER BAMBINI =======[/COLOR]</title>
+<link>http://</link>
+<thumbnail>https://www.sostariffe.it/news/wp-content/uploads/2017/04/Sky-Kids.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]DeAKids[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/deakids.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://static.televisionando.it/845X0/www/televisionando/it/img/deakids.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]DeAKids+1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/deakids+1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://static.televisionando.it/845X0/www/televisionando/it/img/deakids.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Nick Junior[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/nick-junior.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://cdn.exstreamist.com/wp-content/uploads/2016/05/streaming-nick-jr.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Nick Junior +1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/nick-jr-+1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://lh3.googleusercontent.com/uv-Q2zI367e6lmmYQJBI_F844z3YMVbbvs0ptgtwlE8tNJ5oSPhBZ4cwF2RTNGFLtMLy_fQ=s170</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Nickelodeon[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/nickelodeon.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/9/9a/Nickelodeon_logo.svg/1024px-Nickelodeon_logo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Nickelodeon +1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/nickelodeon-+1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/9/9a/Nickelodeon_logo.svg/1024px-Nickelodeon_logo.svg.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Cartoon Network HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/cartoon-network-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vignette4.wikia.nocookie.net/cartoonnetwork/images/7/72/CN_Logo_%28HD%29.png/revision/latest?cb=20111006055719</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Cartoon Network +1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/cartoon-network-+1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vignette4.wikia.nocookie.net/cartoonnetwork/images/7/72/CN_Logo_%28HD%29.png/revision/latest?cb=20111006055719</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Boomerang[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/boomerang.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.digital-news.it/files-admin/Simone/BoomLogo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Boomerang +1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/boomerang-+1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.digital-news.it/files-admin/Simone/BoomLogo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Disney Junior[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/disney-junior.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/7/78/Disney_Junior-hd-.png/1200px-Disney_Junior-hd-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Disney Junior + 1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/disney-junior-+-1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/thumb/7/78/Disney_Junior-hd-.png/1200px-Disney_Junior-hd-.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Disney Channel HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/disney-channel-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://singteltv.com.sg/_channels/pic_ch234.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Disney Channel +1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/disney-channel-+1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://singteltv.com.sg/_channels/pic_ch234.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Disney Channel +2[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/disney-channel-+2.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://singteltv.com.sg/_channels/pic_ch234.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Disney XD HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/disney-xd-hd.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.tvequals.com/wp-content/uploads/2013/03/Disney-XD-logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Disney XD +1[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/disney-xd-+1.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.tvequals.com/wp-content/uploads/2013/03/Disney-XD-logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Disney XD +2[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/disney-xd-+2.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.tvequals.com/wp-content/uploads/2013/03/Disney-XD-logo.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Disney in English[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/disney-in-english.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.digital-news.it/files-admin/Simone/disney_english_3_righe.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]TeenNick[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/teennick.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b7/TEENick_Logo_2005.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]DeA Junior[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/dea-junior.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/e/eb/DeA_Junior.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Baby TV[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/baby-tv.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/6/6c/Baby_tv_logo_senza_sfondo.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Super[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/super%21.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/34/Supertv-logo-2015.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]K2[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/k2.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/2/25/K2_2013.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Frisbee[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]:[makelist.param2][/COLOR][COLOR lime] [B][makelist.param4][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[<p class="ora">(.+?):(.+?.*)\s*<\/p>\s*<a href="(.+?)"><strong>(.+?)<\/strong>]]></expres>
+<page>http://guidatv.sky.it/guidatv/canale/frisbee.shtml</page>
+<referer>http://guidatv.sky.it/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/9/9a/FRISBEE_LOGO_2015.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]======MEDIASET PREMIUM CINEMA========[/COLOR]</title>
+<link>http://</link>
+<thumbnail>http://www.solofinanza.it/wp-content/uploads/2008/07/mediaset.gif</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Premium Cinema HD[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]-[makelist.param2][/COLOR][COLOR lime] [B][makelist.param5][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[>(.+?)&nbsp;- (.+?)</td>\s*<td class="genere1" title="(.+?)" >(.+?)</td>\s*<td class="titolo1" style="width:399px;"  title="(.+?)">]]></expres>
+<page>http://www.adessoin.tv/guidatv_premium_cinema-49.html</page>
+<referer>http://www.adessoin.tv/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<thumbnail>http://img.quimediaset.it/bin/news/83.$plit/C_11_news_22771_news.jpg</thumbnail>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Premium Cinema 2[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]-[makelist.param2][/COLOR][COLOR lime] [B][makelist.param5][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[>(.+?)&nbsp;- (.+?)</td>\s*<td class="genere1" title="(.+?)" >(.+?)</td>\s*<td class="titolo1" style="width:399px;"  title="(.+?)">]]></expres>
+<page>http://www.adessoin.tv/guidatv_premium_cinema2-124.html</page>
+<referer>http://www.adessoin.tv/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<thumbnail>http://img.mediaset.it/bin/36.$plit/C_116_canali_35_upiLogo.jpg</thumbnail>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Premium Cinema Emotion[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]-[makelist.param2][/COLOR][COLOR lime] [B][makelist.param5][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[>(.+?)&nbsp;- (.+?)</td>\s*<td class="genere1" title="(.+?)" >(.+?)</td>\s*<td class="titolo1" style="width:399px;"  title="(.+?)">]]></expres>
+<page>http://www.adessoin.tv/guidatv_premium_cinema_emotion-50.html</page>
+<referer>http://www.adessoin.tv/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<thumbnail>http://img.quimediaset.it/bin/news/60.$plit/C_11_news_21092_news.png</thumbnail>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Premium Cinema Energy[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]-[makelist.param2][/COLOR][COLOR lime] [B][makelist.param5][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[>(.+?)&nbsp;- (.+?)</td>\s*<td class="genere1" title="(.+?)" >(.+?)</td>\s*<td class="titolo1" style="width:399px;"  title="(.+?)">]]></expres>
+<page>http://www.adessoin.tv/guidatv_premium_cinema_energy-51.html</page>
+<referer>http://www.adessoin.tv/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://www.dtti.it/wp-content/uploads/2011/08/Premium_Cinema_Energy.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Premium Cinema Comedy[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]-[makelist.param2][/COLOR][COLOR lime] [B][makelist.param5][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[>(.+?)&nbsp;- (.+?)</td>\s*<td class="genere1" title="(.+?)" >(.+?)</td>\s*<td class="titolo1" style="width:399px;"  title="(.+?)">]]></expres>
+<page>http://www.adessoin.tv/guidatv_premium_cinema_comedy-52.html</page>
+<referer>http://www.adessoin.tv/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://www.programmitvpremium.it/images/premiumcinemacomedy.png</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Studio Universal[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]-[makelist.param2][/COLOR][COLOR lime] [B][makelist.param5][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[>(.+?)&nbsp;- (.+?)</td>\s*<td class="genere1" title="(.+?)" >(.+?)</td>\s*<td class="titolo1" style="width:399px;"  title="(.+?)">]]></expres>
+<page>http://www.adessoin.tv/guidatv_studio_universal-53.html</page>
+<referer>http://www.adessoin.tv/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://media.tvblog.it/s/stu/studiouniversal_01.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Premium Joi[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]-[makelist.param2][/COLOR][COLOR lime] [B][makelist.param5][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[>(.+?)&nbsp;- (.+?)</td>\s*<td class="genere1" title="(.+?)" >(.+?)</td>\s*<td class="titolo1" style="width:399px;"  title="(.+?)">]]></expres>
+<page>http://www.adessoin.tv/guidatv_joi-54.html</page>
+<referer>http://www.adessoin.tv/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://img.quimediaset.it/bin/news/1.$plit/C_11_news_20626_news.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Premium Action[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]-[makelist.param2][/COLOR][COLOR lime] [B][makelist.param5][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[>(.+?)&nbsp;- (.+?)</td>\s*<td class="genere1" title="(.+?)" >(.+?)</td>\s*<td class="titolo1" style="width:399px;"  title="(.+?)">]]></expres>
+<page>http://www.adessoin.tv/guidatv_premium_action-57.html</page>
+<referer>http://www.adessoin.tv/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://img.quimediaset.it/bin/news/82.$plit/C_22_articolo_qm_5812_news.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Premium Crime[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]-[makelist.param2][/COLOR][COLOR lime] [B][makelist.param5][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[>(.+?)&nbsp;- (.+?)</td>\s*<td class="genere1" title="(.+?)" >(.+?)</td>\s*<td class="titolo1" style="width:399px;"  title="(.+?)">]]></expres>
+<page>http://www.adessoin.tv/guidatv_premium_crime-56.html</page>
+<referer>http://www.adessoin.tv/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://img.quimediaset.it/bin/news/61.$plit/C_11_news_21173_news.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Premium Sport[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]-[makelist.param2][/COLOR][COLOR lime] [B][makelist.param5][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[>(.+?)&nbsp;- (.+?)</td>\s*<td class="genere1" title="(.+?)" >(.+?)</td>\s*<td class="titolo1" style="width:399px;"  title="(.+?)">]]></expres>
+<page>http://www.adessoin.tv/guidatv_premium_sport-125.html</page>
+<referer>http://www.adessoin.tv/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://www.digital-news.it/files-admin/Simone/2016/02/1454799012-premium-sport-logo.jpg</thumbnail>
+</regex>
+</item>
+
+<item>
+<title>[B][COLOR cyan]Premium Calcio[/COLOR][/B]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+    <title>[COLOR white][makelist.param1]-[makelist.param2][/COLOR][COLOR lime] [B][makelist.param5][/B][/COLOR]</title>
+<link>ignore</link>
+    ]]></listrepeat>
+<expres><![CDATA[>(.+?)&nbsp;- (.+?)</td>\s*<td class="genere1" title="(.+?)" >(.+?)</td>\s*<td class="titolo1" style="width:399px;"  title="(.+?)">]]></expres>
+<page>http://www.adessoin.tv/guidatv_premium_calcio-100.html</page>
+<referer>http://www.adessoin.tv/</referer>
+<agent>Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/48.0.2564.116 Chrome/48.0.2564.116 Safari/537.36</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://img.quimediaset.it/bin/news/15.$plit/C_11_news_20571_news.jpg</thumbnail>
+</regex>
+</item>
