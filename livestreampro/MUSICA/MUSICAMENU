@@ -1,0 +1,19 @@
+<item> 
+<title>[B] [COLOR green]•[COLOR white]•[COLOR red]• [COLOR khaki] Ricera Youtube[/COLOR] [/B] </title>
+<link>plugin://plugin.video.youtube/kodion/search/input</link>
+</item>
+
+<item>
+<title>[COLOR white]Tormentatoni Estate 2017[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL2BN1Zd8U_MssIypK2Bu3MhyPWjDbyMOX</link>
+<thumbnail>http://lh6.ggpht.com/-Z5chatyKk3s/TxOYV_dHbcI/AAAAAAAADXw/oPTz-6kaD1A/image160.png?imgmax=800</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR lime]Canzoni Più Famose[/COLOR]</title>
+<link>http://ignora.me</link>
+<jsonrpc>plugin://plugin.program.super.favourites/?label=Canzoni+Pi%F9+Famose&amp;mode=650&amp;cmd=ActivateWindow%2810025%2C%22plugin%3A%2F%2Fplugin.video.youtube%2Fchannel%2FUCTUty121Kijs0Gqa8Y8DGmw%2Fplaylist%2FPLIFRwAbnmkJP1ijOJ-3HUgD9Mt5PEPXaV%2F%22%2Creturn%29&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FfRh_vgS2dFE%2Fmqdefault.jpg&amp;sf_options=winID%3D10025%26_options_sf</jsonrpc>
+<thumbnail>http://notaalta.espm.br/wp-content/uploads/2014/01/Music.png</thumbnail>
+<fanart></fanart>
+</item>
