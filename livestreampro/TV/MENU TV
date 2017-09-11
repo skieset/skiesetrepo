@@ -1,0 +1,137 @@
+<item> 
+<title>[B][COLOR white]:::::::::::::::::::::::::  IN CHIARO  ::::::::::::::::::::::::[/COLOR][/B]</title> 
+<link>ignore</link>
+</item>
+
+<item>
+<title>[COLOR blue] Digitale Terrestre [/COLOR]</title>
+<link>http://ignorame</link>
+<externallink>http://bit.ly/m3ubyinfogw</externallink>
+</item>
+
+<item> 
+<title>[B][COLOR white]::::::::::::::::::::::::::::::  SKY  ::::::::::::::::::::::::::::::[/COLOR][/B]</title> 
+<link>ignore</link>
+</item>
+
+<item>
+<title>[COLOR blue] Intrattenimento[/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR blue][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
+<page><![CDATA[https://www.dropbox.com/s/jftz7x10un2fql5/SKY%20INTRAT.m3u?dl=1]]></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue] Cultura & News[/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR blue][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
+<page><![CDATA[https://www.dropbox.com/s/hyhbbd1yd3z1hn3/SKY%20CULTURA%20%26%20NEWS.m3u?dl=1]]></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue] Cinema [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR blue][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
+<page><![CDATA[https://www.dropbox.com/s/dp2mgtson6uwjii/SKY%20CINEMA.m3u?dl=1]]></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue] Sport [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR blue][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
+<page><![CDATA[https://www.dropbox.com/s/kqfohfmwwgpb85r/SKY%20SPORT.m3u?dl=1]]></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue] Bambini[/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR blue][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
+<page><![CDATA[https://www.dropbox.com/s/xikqhoiscds54se/SKY%20BAMBINI.m3u?dl=1]]></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item> 
+<title>[B][COLOR white]::::::::::::::::  MEDIASET PREMIUM  ::::::::::::::::[/COLOR][/B]</title> 
+<link>ignore</link>
+</item>
+
+<item>
+<title>[COLOR blue] Cinema[/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR blue][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
+<page><![CDATA[https://www.dropbox.com/s/nuncdfvubrt9b61/MEDIASET%20CINEMA.m3u?dl=1]]></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>[COLOR blue] Calcio[/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR blue][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
+<page><![CDATA[https://www.dropbox.com/s/h6pemlqvlif2ci9/MEDIASET%20CALCIO.m3u?dl=1]]></page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item> 
+<title>[B][COLOR white]     [/COLOR][/B]</title> 
+<link>ignore</link>
+</item>
+
+<item> 
+<title>[B][COLOR white] VISUALIZZA LA GUIDA CANALI TV [/COLOR][/B]</title> 
+<link>ignore</link>
+<externallink>https://www.dropbox.com/s/ebbmozp0diuqbz6/GUIDA%20TV.xml?dl=1</externallink>
+</item>
