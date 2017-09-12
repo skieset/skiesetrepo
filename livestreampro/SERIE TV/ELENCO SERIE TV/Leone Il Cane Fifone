@@ -1,17 +1,6 @@
 <item>
 <title>1.Una notte al motel Gatti</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR snow]  [makelist.param2] [/COLOR]</title>
-        <link>http:[makelist.param1]</link>		
-]]></listrepeat>
-<expres><![CDATA[(?s)video/mp4"\,src:"(.*?)"\,height:(.*?)\,]]></expres>
-<page>https://streamango.com/f/adnsoefdlfokpdla/Leone_cane_fifone_001_-_Una_notte_al_Motel_Gatti_mkv_mp4
-</page>
-</regex>
-<thumbnail>http://thetvdb.com/banners/posters/77435-4.jpg</thumbnail>
-<fanart>http://thetvdb.com/banners/fanart/original/77435-2.jpg</fanart>
+<urlsolve>https://wstream.video/moabboitgaeq</urlsolve>
 </item>
 
 <item>
@@ -32,18 +21,7 @@
 
 <item>
 <title>3.Leone e l'ombra malefica</title>
-<link>$doregex[makelist]</link>
-<regex><name>makelist</name>
-  <listrepeat><![CDATA[
-        <title>[COLOR snow]  [makelist.param2] [/COLOR]</title>
-        <link>http:[makelist.param1]</link>		
-]]></listrepeat>
-<expres><![CDATA[(?s)video/mp4"\,src:"(.*?)"\,height:(.*?)\,]]></expres>
-<page>https://streamango.com/f/tbnbpstmfpbdmbno/Leone_cane_fifone_003_-_Leone_e_l_ombra_malefica_mkv_mp4
-</page>
-</regex>
-<thumbnail>http://thetvdb.com/banners/posters/77435-4.jpg</thumbnail>
-<fanart>http://thetvdb.com/banners/fanart/original/77435-2.jpg</fanart>
+<urlsolve>http://www.dailymotion.com/video/xy2uwu</urlsolve>
 </item>
 
 <item>
