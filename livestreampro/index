@@ -1,37 +1,45 @@
-<item>
-<title>[COLOR red]°°°°°°°°°[COLOR orange]°°°°°°°°°[COLOR yellow]°°°°°°°°°[COLOR green]°°°°°°°°°[COLOR aqua]°°°°°°°°°[COLOR blue]°°°°°°°[COLOR violet]°°°°°°°[/COLOR]</title> 
-<link>ignore</link>
-<item>
+<channels>
 
-<item>
-<title>                       [B][COLOR white]SCRIPT COMPLETO [/COLOR][/B]</title>
-<link>http://ignore</link>
-</item>
+<channel>
+<name>[COLOR red]°°°°°°°°°[COLOR orange]°°°°°°°°°[COLOR yellow]°°°°°°°°°[COLOR green]°°°°°°°°°[COLOR aqua]°°°°°°°°°[COLOR blue]°°°°°°°[COLOR violet]°°°°°°°[/COLOR]</name>
+<items>ignorame</items>
+</channel>
 
-<item>
-<title>     [B][COLOR white] -----> con contenuti presi dal web <-----[/COLOR][/B]</title>
-<link>ignore</link>
-</item>
 
-<item>
-<title>[COLOR red]°°°°°°°°°[COLOR orange]°°°°°°°°°[COLOR yellow]°°°°°°°°°[COLOR green]°°°°°°°°°[COLOR aqua]°°°°°°°°°[COLOR blue]°°°°°°°[COLOR violet]°°°°°°°[/COLOR]</title> 
-<link>ignore</link>
-<item>
+<channel>
+<name></name> 
+<items>ignorame</items>
+</channel>
 
-<item>
-<title>[B][COLOR violet]::::: PERSONALE [/COLOR][/B]</title>
+<channel>
+<name>                       [B][COLOR white]SCRIPT COMPLETO [/COLOR][/B]</name>
+<items>ignorame</items>
+</channel>
+
+<channel>
+<name>     [B][COLOR white] -----> con contenuti presi dal web <-----[/COLOR][/B]</name>
+<items>ignore</items>
+</channel>
+
+<channel>
+<name>[COLOR red]°°°°°°°°°[COLOR orange]°°°°°°°°°[COLOR yellow]°°°°°°°°°[COLOR green]°°°°°°°°°[COLOR aqua]°°°°°°°°°[COLOR blue]°°°°°°°[COLOR violet]°°°°°°°[/COLOR]</name>
+<items>ignorame</items>
+</channel>
+
+<channel>
+<name>[B][COLOR violet]::::: PERSONALE [/COLOR][/B]</name>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PERSONALE</externallink>
-</item>
+</channels>
 
-<item>
+<channel>
 <title>[B][COLOR blue]::::: LISTE GIORNALIERE [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/LISTE%20GIORNALIERE</externallink>
-</item>
+</channel>
 
 
-<channels>
+
 <channel>
     <name>[B][COLOR skyblue]::::: ADDON[/COLOR][/B]</name>
     <thumbnail></thumbnail>
@@ -77,17 +85,17 @@
 </items>
     </channel>
 
-<item>
- <title>[COLOR white]:::::::::::::::::::::::::::::::: Guida Tv [/COLOR] </title>
+<channel>
+ <name>[COLOR white]:::::::::::::::::::::::::::::::: Guida Tv [/COLOR] </name>
 <link>http://ignorame</link>
 <thumbnail>http://www.puntoagronews.it/images/guida_tv.png</thumbnail>
 <fanart>http://tvguidatv.com/wp-content/uploads/2012/07/stasera-tv.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/GUIDATV</externallink>
-</item>
+</channel>
 
 
-<item>
-<title>[COLOR white] Accedi Ai Preferiti[/COLOR]</title>
+<channel>
+<name>[COLOR white] Accedi Ai Preferiti[/COLOR]</name>
 <link>$doregex[id]</link>
 <regex>
 <name>id</name>
@@ -97,4 +105,4 @@
 </regex>
 <thumbnail>https://image.ibb.co/mGQ875/photo_2017_04_30_16_08_32.jpg</thumbnail>
 <fanart></fanart>
-</item>
+</channel>
