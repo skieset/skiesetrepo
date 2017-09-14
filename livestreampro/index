@@ -30,6 +30,14 @@
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/LISTE%20GIORNALIERE</externallink>
 </item>
 
+
+<channels>
+<channel>
+    <name>[B][COLOR skyblue]::::: ADDON[/COLOR][/B]</name>
+    <thumbnail></thumbnail>
+    <fanart></fanart>
+        <items>
+
 <item>
 <title>[B][COLOR red]::::: EVIL[/COLOR][/B]</title>
 <link>http://ignorame</link>
@@ -65,6 +73,9 @@
 <link>http://ignorame</link>
 <externallink>http://pastebin.com/raw/GWWZs9jT</externallink>
 </item>
+
+</items>
+    </channel>
 
 <item>
  <title>[COLOR white]:::::::::::::::::::::::::::::::: Guida Tv [/COLOR] </title>
