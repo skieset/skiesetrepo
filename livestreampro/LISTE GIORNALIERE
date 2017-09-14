@@ -151,3 +151,21 @@
 <page>http[leg.param1]</page>
 </regex>
 </item>
+
+================================================================================================================
+
+<item>
+  <title>[B][COLOR green]•[COLOR white]•[COLOR red]• [COLOR blue]IPTVSATLINKS [/COLOR][/B]</title>
+<link>$doregex[makelist2]</link>
+<info>Liste catalogate per giorni.</info>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+ <title>[I][COLOR white]Liste del giorno:  [/I][/COLOR] [COLOR blue][B][makelist2.param2][/B][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+<thumbnail></thumbnail>
+ ]]></listrepeat>
+<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Daily m3u playlist (.*?)2017]]></expres>
+<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
+</regex>
+</item>
