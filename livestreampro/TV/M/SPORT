@@ -1,27 +1,31 @@
 #EXTM3U
-#EXTINF:-1,---- MEDIASET PREMIUM SPORT----
-#EXTINF:-1,Premium Sport Italia
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/41.ts
-#EXTINF:-1,Premium Eurosport
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/49.ts
-#EXTINF:-1,Premium Eurosport 2
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/48.ts
+#EXTINF:-1,Premium Sport Full HD
+http://best-anonymous.eu:8000/live/milani/michele/5295.ts
 #EXTINF:-1,Premium Sport HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/62.ts
+http://best-anonymous.eu:8000/live/milani/michele/2200.ts
+#EXTINF:-1,Premium Sport 1
+http://best-anonymous.eu:8000/live/milani/michele/2199.ts
+#EXTINF:-1,Premium Sport 2
+http://best-anonymous.eu:8000/live/milani/michele/2198.ts
 #EXTINF:-1,Premium Sport 2 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/63.ts
-#EXTINF:-1,Premium Calcio HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1434.ts
+http://best-anonymous.eu:8000/live/milani/michele/2201.ts
+#EXTINF:-1,Premium Calcio 1HD
+http://best-anonymous.eu:8000/live/milani/michele/2222.ts
 #EXTINF:-1,Premium Calcio 1
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/69.ts
+http://best-anonymous.eu:8000/live/milani/michele/2223.ts
 #EXTINF:-1,Premium Calcio 2
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/68.ts
+http://best-anonymous.eu:8000/live/milani/michele/2221.ts
 #EXTINF:-1,Premium Calcio 3
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/67.ts
+http://best-anonymous.eu:8000/live/milani/michele/2220.ts
 #EXTINF:-1,Premium Calcio 4
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/94.ts
+http://best-anonymous.eu:8000/live/milani/michele/2219.ts
 #EXTINF:-1,Premium Calcio 5
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/66.ts
+http://best-anonymous.eu:8000/live/milani/michele/2218.ts
 #EXTINF:-1,Premium Calcio 6
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/65.ts
+http://best-anonymous.eu:8000/live/milani/michele/2217.ts
 #EXTINF:-1,Premium Calcio 7
+http://best-anonymous.eu:8000/live/milani/michele/2215.ts
+#EXTINF:-1,EuroSport 1 HD
+http://best-anonymous.eu:8000/live/milani/michele/2281.ts
+#EXTINF:-1,EuroSport 2 HD
+http://best-anonymous.eu:8000/live/milani/michele/2282.ts
