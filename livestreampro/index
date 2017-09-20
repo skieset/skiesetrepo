@@ -74,7 +74,6 @@
 <externallink>https://www.dropbox.com/s/ebbmozp0diuqbz6/GUIDA%20TV.xml?dl=1</externallink>
 </item>
 
-
 <item>
 <title>[COLOR white] Accedi Ai Preferiti[/COLOR]</title>
 <link>$doregex[id]</link>
@@ -88,3 +87,8 @@
 <fanart></fanart>
 </item>
 
+<item>
+<title>[B][COLOR red]::::: TEST[/COLOR][/B]</title>
+<link>http://ignorame</link>
+<externallink>http://pastebin.com/raw/GWWZs9jT</externallink>
+</item>
