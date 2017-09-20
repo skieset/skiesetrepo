@@ -1,2 +1,4 @@
-<item> <title>TEST</title>
-<link>http://wrk172.ezybytez.com/cgi-bin/dl.cgi/cli5p3v4ewcwoaao6qzordzt2dss6fpyn5s7mjlqve/super%20shore%20stagione%201%20puntata%201.mp4</link></item>
+#EXTM3U
+#EXTINF:0,TEST 1
+http://wrk172.ezybytez.com/cgi-bin/dl.cgi/cli5p3v4ewcwoaao6qzordzt2dss6fpyn5s7mjlqve/super%20shore%20stagione%201%20puntata%201.mp4
+
