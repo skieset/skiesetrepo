@@ -1,99 +1,61 @@
 #EXTM3U
-#EXTINF:-1,---- SKY CINEMA ----
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/98.ts
-#EXTINF:-1,Sky 3D
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/231.ts
-#EXTINF:-1,Sky Cinema 1 SUPER HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1443.ts
+#EXTINF:-1,Sky Cinema 1 Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27150.ts
 #EXTINF:-1,Sky Cinema 1 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/22.ts
+http://best-anonymous.eu:8000/live/milani/michele/2318.ts
 #EXTINF:-1,Sky Cinema 1 SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/268.ts
-#EXTINF:-1,Sky Cinema +24 Full HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1445.ts
+http://best-anonymous.eu:8000/live/milani/michele/27661.ts
+#EXTINF:-1,Sky Cinema +1 HD
+http://best-anonymous.eu:8000/live/milani/michele/2322.ts
+#EXTINF:-1,Sky Cinema +1 SD
+http://best-anonymous.eu:8000/live/milani/michele/27659.ts
 #EXTINF:-1,Sky Cinema +24 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/23.ts
+http://best-anonymous.eu:8000/live/milani/michele/2320.ts
 #EXTINF:-1,Sky Cinema +24 SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/269.ts
-#EXTINF:-1,Sky Cinema Hits SUPER HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1446.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/17.ts
-#EXTINF:-1,Sky Cinema Hits SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/270.ts
-#EXTINF:-1,Sky Cinema Family SUPER HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1453.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/18.ts
-#EXTINF:-1,Sky Cinema Family SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/271.ts
-#EXTINF:-1,Sky Cinema Passion SUPER HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1452.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/15.ts
-#EXTINF:-1,Sky Cinema Passion SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/272.ts
-#EXTINF:-1,Sky Cinema Comedy SUPER HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1458.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/20.ts
-#EXTINF:-1,Sky Cinema Comedy SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/273.ts
-#EXTINF:-1,Sky Cinema Max SUPER HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1444.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/16.ts
-#EXTINF:-1,Sky Cinema Max SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/274.ts
-#EXTINF:-1,Sky Cinema Cult Full HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1447.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/19.ts
-#EXTINF:-1,Sky Cinema Cult SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/275.ts
-#EXTINF:-1,Sky Cinema Classic Full HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1451.ts
-#EXTINF:-1,Sky Cinema Classic HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/21.ts
-#EXTINF:-1,Sky Cinema Classic SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/276.ts
-#EXTINF:-1,---- PRIMAFILA  ----
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/107.ts
-#EXTINF:-1,Primafila 1 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/165.ts
-#EXTINF:-1,Primafila 2
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/166.ts
-#EXTINF:-1,Primafila 3 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/167.ts
-#EXTINF:-1,Primafila 4
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/168.ts
-#EXTINF:-1,Primafila 5 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/169.ts
-#EXTINF:-1,Primafila 6
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/170.ts
-#EXTINF:-1,Primafila 7 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/171.ts
-#EXTINF:-1,Primafila 8
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/172.ts
-#EXTINF:-1,Primafila 9 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/173.ts
-#EXTINF:-1,Primafila 10
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/174.ts
-#EXTINF:-1,Primafila 11 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/175.ts
-#EXTINF:-1,Primafila 12
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/176.ts
-#EXTINF:-1,Primafila 13 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/177.ts
-#EXTINF:-1,Primafila 14
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/178.ts
-#EXTINF:-1,Primafila 15
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/179.ts
-#EXTINF:-1,Primafila 16
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/180.ts
-#EXTINF:-1,Primafila 17
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/181.ts
-#EXTINF:-1,Primafila 18
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/182.ts
-#EXTINF:-1,Primafila 19
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/183.ts
+http://best-anonymous.eu:8000/live/milani/michele/27660.ts
+#EXTINF:-1,Cinema Hits Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27145.ts
+#EXTINF:-1,Cinema Hits HD
+http://best-anonymous.eu:8000/live/milani/michele/2308.ts
+#EXTINF:-1,Cinema Hits SD
+http://best-anonymous.eu:8000/live/milani/michele/27665.ts
+#EXTINF:-1,Cinema Family Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27146.ts
+#EXTINF:-1,Cinema Family HD
+http://best-anonymous.eu:8000/live/milani/michele/2310.ts
+#EXTINF:-1,Cinema Family SD
+http://best-anonymous.eu:8000/live/milani/michele/27664.ts
+#EXTINF:-1,Cinema Family +1 HD
+http://best-anonymous.eu:8000/live/milani/michele/2312.ts
+#EXTINF:-1,Cinema Passion Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27143.ts
+#EXTINF:-1,Cinema Passion HD
+http://best-anonymous.eu:8000/live/milani/michele/2303.ts
+#EXTINF:-1,Cinema Comedy Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27148.ts
+#EXTINF:-1,Cinema Comedy HD
+http://best-anonymous.eu:8000/live/milani/michele/2315.ts
+#EXTINF:-1,Cinema Comedy SD
+http://best-anonymous.eu:8000/live/milani/michele/27662.ts
+#EXTINF:-1,Cinema Max Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27144.ts
+#EXTINF:-1,Cinema Max HD
+http://best-anonymous.eu:8000/live/milani/michele/2305.ts
+#EXTINF:-1,Cinema Max SD
+http://best-anonymous.eu:8000/live/milani/michele/27666.ts
+#EXTINF:-1,Cinema Max +1 HD
+http://best-anonymous.eu:8000/live/milani/michele/2306.ts
+#EXTINF:-1,Cinema Max +1 SD
+http://best-anonymous.eu:8000/live/milani/michele/27681.ts
+#EXTINF:-1,Cinema Max Collection FHD
+http://best-anonymous.eu:8000/live/milani/michele/27686.ts
+#EXTINF:-1,Cinema Max Collection HD
+http://best-anonymous.eu:8000/live/milani/michele/27687.ts
+#EXTINF:-1,Cinema Cult Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27147.ts
+#EXTINF:-1,Cinema Cult HD
+http://best-anonymous.eu:8000/live/milani/michele/2313.ts
+#EXTINF:-1,Cinema Classic Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27149.ts
+#EXTINF:-1,Cinema Classic HD
+http://best-anonymous.eu:8000/live/milani/michele/2316.ts
