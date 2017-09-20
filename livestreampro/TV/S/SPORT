@@ -1,123 +1,137 @@
 #EXTM3U
-#EXTINF:-1,---- SKY SPORT ----
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/100.ts
-#EXTINF:-1,Sky Sport 24 Full HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1457.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/8.ts
-#EXTINF:-1,Sky Sport 24 SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/277.ts
-#EXTINF:-1,Sky Sport 1 SUPER HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1449.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/10.ts
-#EXTINF:-1,Sky Sport 1 SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/278.ts
-#EXTINF:-1,Sky Sport 2 Full HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1454.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/9.ts
-#EXTINF:-1,Sky Sport 2 SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/279.ts
-#EXTINF:-1,Sky Sport 3 Full HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1455.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/7.ts
-#EXTINF:-1,Sky Sport 3 SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/280.ts
-#EXTINF:-1,Sky Sport Mix HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1470.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/4.ts
-#EXTINF:-1,Sky Sport Plus SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/323.ts
+#EXTINF:-1,Fox Sport Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27160.ts
+#EXTINF:-1,Fox Sport
+http://best-anonymous.eu:8000/live/milani/michele/2265.ts
+#EXTINF:-1,Fox Sports SD
+http://best-anonymous.eu:8000/live/milani/michele/27670.ts
 #EXTINF:-1,Fox Sports HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/12.ts
-#EXTINF:-1,Sky Sport F1 SUPER HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1450.ts
+http://best-anonymous.eu:8000/live/milani/michele/2264.ts
+#EXTINF:-1,Sky Sport 24 Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27140.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://best-anonymous.eu:8000/live/milani/michele/2143.ts
+#EXTINF:-1,Sky Sport 24 SD
+http://best-anonymous.eu:8000/live/milani/michele/27657.ts
+#EXTINF:-1,Sky Sport 1 Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27142.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://best-anonymous.eu:8000/live/milani/michele/2147.ts
+#EXTINF:-1,Sky Sport 1 SD
+http://best-anonymous.eu:8000/live/milani/michele/27682.ts
+#EXTINF:-1,Sky Sport 2 Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27141.ts
+#EXTINF:-1,Sky Sport 2
+http://best-anonymous.eu:8000/live/milani/michele/2144.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://best-anonymous.eu:8000/live/milani/michele/2145.ts
+#EXTINF:-1,Sky Sport 3 Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27139.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://best-anonymous.eu:8000/live/milani/michele/2141.ts
+#EXTINF:-1,Sky Sport Plus Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27135.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://best-anonymous.eu:8000/live/milani/michele/2138.ts
+#EXTINF:-1,Sky Sport Mix Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27137.ts
+#EXTINF:-1,Sky Sport Mix HD
+http://best-anonymous.eu:8000/live/milani/michele/21835.ts
+#EXTINF:-1,Sky Sport Mix HD Plus 1
+http://best-anonymous.eu:8000/live/milani/michele/27119.ts
+#EXTINF:-1,Sky Sport F1 Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27138.ts
 #EXTINF:-1,Sky Sport F1 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/6.ts
-#EXTINF:-1,Sky Sport F1 SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/258.ts
-#EXTINF:-1,Sky Sport Moto GP SUPER HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1456.ts
-#EXTINF:-1,Sky Sport Moto GP
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/5.ts
-#EXTINF:-1,Sky Sport Moto GP SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/281.ts
-#EXTINF:-1,Sky Eurosport HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/13.ts
-#EXTINF:-1,Sky Eurosport 2 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/14.ts
-#EXTINF:-1,Bike Channel
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/325.ts
-#EXTINF:-1,Sky Supercalcio SUPER HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1473.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/3.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/31.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/30.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/29.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/28.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/27.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/26.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/25.ts
-#EXTINF:-1,Sky Calcio 8 HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/24.ts
-#EXTINF:-1,Sky Calcio 1 SUPER HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1435.ts
-#EXTINF:-1,Sky Calcio 2 SUPER HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1436.ts
-#EXTINF:-1,Sky Calcio 3 SUPER HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1437.ts
-#EXTINF:-1,Sky Calcio 4 SUPER HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1438.ts
-#EXTINF:-1,Sky Calcio 5 SUPER HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1439.ts
-#EXTINF:-1,Sky Calcio 6 Full HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1440.ts
-#EXTINF:-1,Sky Calcio 7 Full HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1441.ts
-#EXTINF:-1,Sky Calcio 8 Full HD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/1442.ts
-#EXTINF:-1,Milan Channel
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/235.ts
-#EXTINF:-1,Juventus TV
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/237.ts
-#EXTINF:-1,Inter Channel
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/238.ts
-#EXTINF:-1,Roma TV
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/232.ts
-#EXTINF:-1,Lazio Style Channel
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/236.ts
+http://best-anonymous.eu:8000/live/milani/michele/2140.ts
+#EXTINF:-1,Sky Sport F1
+http://best-anonymous.eu:8000/live/milani/michele/2131.ts
+#EXTINF:-1,Sport F1 SD
+http://best-anonymous.eu:8000/live/milani/michele/27685.ts
+#EXTINF:-1,Sky MotoGP Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27136.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+http://best-anonymous.eu:8000/live/milani/michele/2139.ts
+#EXTINF:-1,Sky Sport MotoGP
+http://best-anonymous.eu:8000/live/milani/michele/2240.ts
+#EXTINF:-1,MOTOGP SD
+http://best-anonymous.eu:8000/live/milani/michele/27671.ts
+#EXTINF:-1,PESCA e caccia
+http://best-anonymous.eu:8000/live/milani/michele/2229.ts
 #EXTINF:-1,Caccia e Pesca
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/239.ts
-#EXTINF:-1,Pesca e Caccia
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/234.ts
-#EXTINF:-1,---- SKY CALCIO SD ----
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/311.ts
-#EXTINF:-1,Sky Supercalcio SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/324.ts
-#EXTINF:-1,Sky Calcio 1 SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/303.ts
+http://best-anonymous.eu:8000/live/milani/michele/2335.ts
+#EXTINF:-1,Italian Fishing
+http://best-anonymous.eu:8000/live/milani/michele/11734.ts
+#EXTINF:-1,Class Horse HD
+http://best-anonymous.eu:8000/live/milani/michele/2302.ts
+#EXTINF:-1,Uniresat
+http://best-anonymous.eu:8000/live/milani/michele/2116.ts
+#EXTINF:-1,AutoMoto TV
+http://best-anonymous.eu:8000/live/milani/michele/2345.ts
+#EXTINF:-1,WWE USA Network
+http://best-anonymous.eu:8000/live/milani/michele/26409.ts
+#EXTINF:-1,Sky SuperCalcio Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27134.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://best-anonymous.eu:8000/live/milani/michele/2137.ts
+#EXTINF:-1,SKY SUPERCALCIO SD ADSL LENTE
+http://best-anonymous.eu:8000/live/milani/michele/27850.ts
+#EXTINF:-1,Sky Calcio 1 Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27153.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://best-anonymous.eu:8000/live/milani/michele/2164.ts
+#EXTINF:-1,SKY CALCIO 1 SD ADSL LENTE
+http://best-anonymous.eu:8000/live/milani/michele/27849.ts
+#EXTINF:-1,Sky Calcio 2 Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27152.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://best-anonymous.eu:8000/live/milani/michele/2159.ts
 #EXTINF:-1,Sky Calcio 2 SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/304.ts
+http://best-anonymous.eu:8000/live/milani/michele/27679.ts
+#EXTINF:-1,Sky Calcio 3 Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27151.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://best-anonymous.eu:8000/live/milani/michele/2157.ts
 #EXTINF:-1,Sky Calcio 3 SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/305.ts
-#EXTINF:-1,Sky Calcio 4 SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/306.ts
-#EXTINF:-1,Sky Calcio 5 SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/307.ts
-#EXTINF:-1,Sky Calcio 6 SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/308.ts
-#EXTINF:-1,Sky Calcio 7 SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/309.ts
-#EXTINF:-1,Sky Calcio 8 SD
-http://cdnlive1.win/live/ZarqooBEys/YAtHVHx9Q5/310.ts
+http://best-anonymous.eu:8000/live/milani/michele/27680.ts
+#EXTINF:-1,Sky Calcio 4 Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27696.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://best-anonymous.eu:8000/live/milani/michele/2155.ts
+#EXTINF:-1,Sky Calcio 5 Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27695.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://best-anonymous.eu:8000/live/milani/michele/2154.ts
+#EXTINF:-1,Sky Calcio 6 Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27694.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://best-anonymous.eu:8000/live/milani/michele/2153.ts
+#EXTINF:-1,Sky Calcio 7 Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27693.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://best-anonymous.eu:8000/live/milani/michele/2151.ts
+#EXTINF:-1,Sky Calcio 8 Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27692.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://best-anonymous.eu:8000/live/milani/michele/2150.ts
+#EXTINF:-1,Sky Calcio 9 Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27691.ts
+#EXTINF:-1,Sky Calcio 9 HD
+http://best-anonymous.eu:8000/live/milani/michele/2149.ts
+#EXTINF:-1,Sky Calcio 10 Full HD
+http://best-anonymous.eu:8000/live/milani/michele/27697.ts
+#EXTINF:-1,Sky Calcio 10 HD
+http://best-anonymous.eu:8000/live/milani/michele/2162.ts
+#EXTINF:-1,Sky Calcio 11 HD
+http://best-anonymous.eu:8000/live/milani/michele/27037.ts
+#EXTINF:-1,JI Juventus TV
+http://best-anonymous.eu:8000/live/milani/michele/2253.ts
+#EXTINF:-1,Milan channel
+http://best-anonymous.eu:8000/live/milani/michele/2241.ts
+#EXTINF:-1,Inter Channel
+http://best-anonymous.eu:8000/live/milani/michele/2257.ts
+#EXTINF:-1,Roma Channel
+http://best-anonymous.eu:8000/live/milani/michele/2177.ts
+#EXTINF:-1,Torino Channel
+http://best-anonymous.eu:8000/live/milani/michele/27270.ts
+#EXTINF:-1,Lazio Style Channel
+http://best-anonymous.eu:8000/live/milani/michele/2247.ts
