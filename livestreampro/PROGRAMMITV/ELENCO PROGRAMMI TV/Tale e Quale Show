@@ -1,22 +1,54 @@
-#EXTINF:-1, Tale e quale show 5   01
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25325.mkv
-#EXTINF:-1, Tale e quale show 5   02
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25326.mkv
-#EXTINF:-1, Tale e quale show 5   03
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25327.mkv
-#EXTINF:-1, Tale e quale show 5   04
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25328.mkv
-#EXTINF:-1, Tale e quale show 5   05
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25329.mkv
-#EXTINF:-1, Tale e quale show 5   06
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25330.mkv
-#EXTINF:-1, Tale e quale show 5   07
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25331.mkv
-#EXTINF:-1, Tale e quale show 5   08
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25332.mkv
-#EXTINF:-1, Tale e quale show 5   09
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25333.mkv
-#EXTINF:-1, Tale e quale show 5   10
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25334.mkv
-#EXTINF:-1, Tale e quale show 5   11
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25335.mkv
+<item>
+<title>Tale e quale show 5 01</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25325.mkv</link>
+</item>
+
+<item>
+<title>Tale e quale show 5 02</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25326.mkv</link>
+</item>
+
+<item>
+<title>Tale e quale show 5 03</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25327.mkv</link>
+</item>
+
+<item>
+<title>Tale e quale show 5 04</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25328.mkv</link>
+</item>
+
+<item>
+<title>Tale e quale show 5 05</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25329.mkv</link>
+</item>
+
+<item>
+<title>Tale e quale show 5 06</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25330.mkv</link>
+</item>
+
+<item>
+<title>Tale e quale show 5 07</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25331.mkv</link>
+</item>
+
+<item>
+<title>Tale e quale show 5 08</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25332.mkv</link>
+</item>
+
+<item>
+<title>Tale e quale show 5 09</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25333.mkv</link>
+</item>
+
+<item>
+<title>Tale e quale show 5 10</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25334.mkv</link>
+</item>
+
+<item>
+<title>Tale e quale show 5 11</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25335.mkv</link>
+</item>
