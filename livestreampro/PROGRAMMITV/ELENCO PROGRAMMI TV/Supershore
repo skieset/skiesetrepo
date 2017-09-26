@@ -1,0 +1,13 @@
+<item>
+<title>[B][COLOR red] PRIMA ATTIVA [/COLOR][/B]</title>
+<link>ignorame</link> <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://olpair.com/</jsonrpc>
+</item>
+
+<item>
+<title>-[ SUPER SHORE S1 ]-</title>
+<link>ignore</link>
+</item>
+<item>
+<title>Super Shore 1x01</title>
+<urlsolve></urlsolve>
+</item>
