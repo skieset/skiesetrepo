@@ -2,7 +2,7 @@
 <title>[B][COLOR red] PRIMA ATTIVA [/COLOR][/B]</title>
 <link>ignorame</link> <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://olpair.com/</jsonrpc>
 </item>
-
+<item><link>ignore</link></item>
 <item>
 <title>-[ SUPER SHORE S1 ]-</title>
 <link>ignore</link>
@@ -67,7 +67,7 @@
 <title>Super Shore 1x15</title>
 <urlsolve>https://openload.co/f/0eE8SO2tRKw/super_shore_stagione_1_puntata_15.mp4</urlsolve>
 </item>
-
+<item><link>ignore</link></item>
 <item>
 <title>-[ SUPER SHORE S2 ]-</title>
 <link>ignore</link>
