@@ -31,64 +31,15 @@
 </item>
 
 <item>
-<title>[B][COLOR red]::::: EVIL[/COLOR][/B]</title>
+<title>[B][COLOR green]::::: ADDON ESTERNI [/COLOR][/B]</title>
 <link>http://ignorame</link>
-<externallink>https://ariston.evilking.it/home503_evilkingnewhome.php</externallink>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/LISTE%20GIORNALIERE</externallink>
 </item>
 
 <item>
-<title>[B][COLOR aqua]::::: GHOSTSHADER[/COLOR][/B]</title>
+<title>[B][COLOR violet]::::: MTV SHOW [/COLOR][/B]</title>
 <link>http://ignorame</link>
-<externallink>https://pastebin.com/raw/WWy7pe4z$$TSDOWNLOADER$$</externallink>
+<externallink>https://github.com/skieset/skiesetrepo/blob/master/livestreampro/PROGRAMMITV/MENU%20MTV%20SHOW</externallink>
 </item>
 
-<item>
-<title>[B][COLOR yellow]::::: LOGAN TV ITALIA[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/ITALIA%20MENU.xml</externallink>
-</item>
 
-<item>
-<title>[B][COLOR skyblue]::::: ADRYANLIST[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/list.xml</externallink>
-</item>
-
-<item>
-<title>[B][COLOR orange]::::: AMERIKANO TUGA[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<externallink>http://pastebin.com/raw/6Db4UPEa</externallink>
-</item>
-
-<item>
-<title>[B][COLOR red]::::: SENOE FREEZONE[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<externallink>http://pastebin.com/raw/GWWZs9jT</externallink>
-</item>
-
-<item>
- <title>[COLOR white]:::::::::::::::::::::::::::::::: Guida Tv [/COLOR] </title>
-<link>http://ignorame</link>
-<thumbnail>http://www.puntoagronews.it/images/guida_tv.png</thumbnail>
-<fanart>http://tvguidatv.com/wp-content/uploads/2012/07/stasera-tv.jpg</fanart>
-<externallink>https://www.dropbox.com/s/ebbmozp0diuqbz6/GUIDA%20TV.xml?dl=1</externallink>
-</item>
-
-<item>
-<title>[COLOR white] Accedi Ai Preferiti[/COLOR]</title>
-<link>$doregex[id]</link>
-<regex>
-<name>id</name>
-<expres>$pyFunction:xbmc.executebuiltin('ActivateWindow(10134)')</expres>
-<page></page>
-<NOTPlayable>True</NOTPlayable>
-</regex>
-<thumbnail>https://image.ibb.co/mGQ875/photo_2017_04_30_16_08_32.jpg</thumbnail>
-<fanart></fanart>
-</item>
-
-<item>
-<title>[B][COLOR red]::::: TEST[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TEST</externallink>
-</item>
