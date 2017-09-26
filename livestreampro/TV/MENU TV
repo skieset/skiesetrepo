@@ -84,7 +84,7 @@
 <link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://pastebin.com/raw/VgeJihTp]]></page>
+<page><![CDATA[https://pastebin.com/raw/D9uNXVZV]]></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
