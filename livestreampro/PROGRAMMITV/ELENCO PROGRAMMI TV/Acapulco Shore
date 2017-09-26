@@ -1,0 +1,21 @@
+<item>
+<title>[B][COLOR red] PRIMA ATTIVA [/COLOR][/B]</title>
+<link>ignorame</link> <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://olpair.com/</jsonrpc>
+</item>
+
+<item>
+<title>-[ ACAPULCO SHORE S1 ]-</title>
+<link>ignore</link>
+</item>
+<item>
+<title>Acapulco Shore 1x01</title>
+<urlsolve>https://openload.co/f/6ABcYK5vku0/acapulco_shore_stagione_1_puntata_1.mp4</urlsolve>
+</item>
+<item>
+<title>Acapulco Shore 1x02</title>
+<urlsolve>https://openload.co/f/_U7tN5CdCUI/acapulco_shore_stagione_1_puntata_2.mp4</urlsolve>
+</item>
+<item>
+<title>Acapulco Shore 1x0</title>
+<urlsolve></urlsolve>
+</item>
