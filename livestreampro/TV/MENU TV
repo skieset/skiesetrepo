@@ -24,13 +24,13 @@
 <link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/S/INTRATTENIMENTO]]></page>
+<page><![CDATA[https://pastebin.com/raw/YNfmUwcX$$TSDOWNLOADER$$]]></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
 
 <item>
-<title>[COLOR blue] Cultura & News[/COLOR]</title>
+<title>[COLOR blue] Cultura [/COLOR]</title>
 <link>$doregex[makelist2]</link>
 <regex>
 <name>makelist2</name>
@@ -39,7 +39,7 @@
 <link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/S/CULTURA%20%26%20NEWS]]></page>
+<page><![CDATA[https://pastebin.com/raw/dPzWzsyy$$TSDOWNLOADER$$]]></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -54,7 +54,7 @@
 <link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/S/CINEMA]]></page>
+<page><![CDATA[https://pastebin.com/raw/QNBMmPXx$$TSDOWNLOADER$$]]></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -104,7 +104,7 @@
 <link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/M/CINEMA]]></page>
+<page><![CDATA[https://pastebin.com/raw/MqLW9mdE$$TSDOWNLOADER$$]]></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
