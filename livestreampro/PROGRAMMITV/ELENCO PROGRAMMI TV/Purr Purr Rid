@@ -1,48 +1,119 @@
-#EXTINF:-1, Pur Purr Rid 1   
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25271.mkv
-#EXTINF:-1, Pur Purr Rid 1 Gli errori   
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25272.mkv
-#EXTINF:-1, Pur Purr Rid 1 Gli svizzeri   
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25273.mkv
-#EXTINF:-1, Pur Purr Rid 2   
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25274.mkv
-#EXTINF:-1, Pur Purr Rid 2 Gli errori
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25275.mkv
-#EXTINF:-1, Pur Purr Rid 2 Gli svizzeri
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25276.mkv
-#EXTINF:-1, Pur Purr Rid 3
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25277.mkv
-#EXTINF:-1, Pur Purr Rid 3 Gli errori
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25279.mkv
-#EXTINF:-1, Pur Purr Rid 3 Gli Svizzeri
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25278.mkv
-#EXTINF:-1, Purr pur rid 4   
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25280.mkv
-#EXTINF:-1, Purr pur rid 4 Gli errori   
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25281.mkv
-#EXTINF:-1, Purr pur rid 4 Gli svizzeri   
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25282.mkv
-#EXTINF:-1, Purr pur rid 5   
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25283.mkv
-#EXTINF:-1, Purr pur rid 5 Gli errori   
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25284.mkv
-#EXTINF:-1, Purr pur rid 5 Gli svizzeri   
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25285.mkv
-#EXTINF:-1, Purr pur rid 6   
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25286.mkv
-#EXTINF:-1, Purr pur rid 6 Gli errori   
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25287.mkv
-#EXTINF:-1, Purr pur rid 6 Gli svizzeri   
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25288.mkv
-#EXTINF:-1, Purr pur rid 7   
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25289.mkv
-#EXTINF:-1, Purr pur rid 7 Gli errori   
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25290.mkv
-#EXTINF:-1, Purr pur rid 7 Gli svizzeri   
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25291.mkv
-#EXTINF:-1, Purr pur rid 8   
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25292.mkv
-#EXTINF:-1, Purr pur rid 8 Ciak set il cosmo sul como   
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25293.mkv
-#EXTINF:-1, Purr pur rid 8 Spettacolo Modena festa unita   
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25294.mkv
+<item>
+<title>Pur Purr Rid 1</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25271.mkv</link>
+</item>
+
+<item>
+<title>Pur Purr Rid 1 Gli errori</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25272.mkv</link>
+</item>
+
+<item>
+<title>Pur Purr Rid 1 Gli svizzeri</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25273.mkv</link>
+</item>
+
+<item>
+<title>Pur Purr Rid 2</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25274.mkv</link>
+</item>
+
+<item>
+<title>Pur Purr Rid 2 Gli errori</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25275.mkv</link>
+</item>
+
+<item>
+<title>Pur Purr Rid 2 Gli svizzeri</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25276.mkv</link>
+</item>
+
+<item>
+<title>Pur Purr Rid 3</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25277.mkv</link>
+</item>
+
+<item>
+<title>Pur Purr Rid 3 Gli errori</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25279.mkv</link>
+</item>
+
+<item>
+<title>Pur Purr Rid 3 Gli Svizzeri</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25278.mkv</link>
+</item>
+
+<item>
+<title>Purr pur rid 4</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25280.mkv</link>
+</item>
+
+<item>
+<title>Purr pur rid 4 Gli errori</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25281.mkv</link>
+</item>
+
+<item>
+<title>Purr pur rid 4 Gli svizzeri</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25282.mkv</link>
+</item>
+
+<item>
+<title>Purr pur rid 5</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25283.mkv</link>
+</item>
+
+<item>
+<title>Purr pur rid 5 Gli errori</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25284.mkv</link>
+</item>
+
+<item>
+<title>Purr pur rid 5 Gli svizzeri</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25285.mkv</link>
+</item>
+
+<item>
+<title>Purr pur rid 6</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25286.mkv</link>
+</item>
+
+<item>
+<title>Purr pur rid 6 Gli errori</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25287.mkv</link>
+</item>
+
+<item>
+<title>Purr pur rid 6 Gli svizzeri</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25288.mkv</link>
+</item>
+
+<item>
+<title>Purr pur rid 7</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25289.mkv</link>
+</item>
+
+<item>
+<title>Purr pur rid 7 Gli errori</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25290.mkv</link>
+</item>
+
+<item>
+<title>Purr pur rid 7 Gli svizzeri</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25291.mkv</link>
+</item>
+
+<item>
+<title>Purr pur rid 8</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25292.mkv</link>
+</item>
+
+<item>
+<title>Purr pur rid 8 Ciak set il cosmo sul como</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25293.mkv</link>
+</item>
+
+<item>
+<title>Purr pur rid 8 Spettacolo Modena festa unita</title>
+<link>http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/25294.mkv</link>
+</item>
