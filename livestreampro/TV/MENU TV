@@ -69,7 +69,7 @@
 <link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/S/SPORT]]></page>
+<page><![CDATA[https://pastebin.com/raw/4WcqJMpf$$TSDOWNLOADER$$]]></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -84,7 +84,7 @@
 <link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/S/BAMBINI]]></page>
+<page><![CDATA[https://pastebin.com/raw/VgeJihTp$$TSDOWNLOADER$$]]></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
@@ -119,7 +119,7 @@
 <link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
 ]]></listrepeat>
 <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/M/SPORT]]></page>
+<page><![CDATA[https://pastebin.com/raw/HFayWsGY$$TSDOWNLOADER$$]]></page>
 <cookieJar></cookieJar>
 </regex>
 </item>
