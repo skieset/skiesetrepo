@@ -1,3 +1,9 @@
+<item> 
+<title>Mediaset</title> 
+<link>ignorme</link> 
+<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_id=TUTTI</jsonrpc> 
+</item>
+
 <item>
 <title>[B][COLOR white] -> [COLOR blue]Ciao Darwin [/B][/COLOR]</title>
 <link>http://ignorame</link>
