@@ -1,7 +1,10 @@
 <item>
 <title>[B][COLOR lime]•[COLOR blue]MTV LIVE[/B][/COLOR]</title>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/28/MTV_HD_Logo_2013.png</thumbnail>
-<link>plugin://plugin.video.f4mTester/?url=http://istream.dyndns.tv:8000/live/Illy/iKeLwcUQlE/811.ts&amp;streamtype=TSDOWNLOADER&amp;name=mtv HD live</link>
+<multilink>
+<link>plugin://plugin.video.f4mTester/?url=http://istream.dyndns.tv:8000/live/Illy/iKeLwcUQlE/811.ts&amp;streamtype=TSDOWNLOADER&amp;name=mtv HD</link>
+<link>plugin://plugin.video.f4mTester/?url=http://best-anonymous.eu:8000/live/trinacria19/5FycpunxKh/27262.ts&amp;streamtype=TSDOWNLOADER&amp;name=mtv HD</link>
+</multilink>
 </item>
 
 <item><link>http://ignorame</link></item>
