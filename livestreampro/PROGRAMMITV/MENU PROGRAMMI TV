@@ -1,82 +1,27 @@
 <item> 
 <title>[B][COLOR white] -> [COLOR blue]Programmi Mediaset [/B][/COLOR]</title> 
 <link>ignorme</link> 
+<thumbnail>https://yt3.ggpht.com/-QxH950SwR3Y/AAAAAAAAAAI/AAAAAAAAAAA/EW4KzydLWyQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_id=TUTTI</jsonrpc> 
 </item>
 
 <item> 
 <title>[B][COLOR white] -> [COLOR blue]Programmi Rai [/B][/COLOR]</title> 
 <link>ignorme</link> 
+<thumbnail>http://www.mediaset.it/sso/res/img/sso-mediaset.png</thumbnail>
 <jsonrpc>plugin://plugin.video.raitv/?mode=ondemand&amp;path_id=%2fraiplay%2fprogrammi%2f%3fjson&amp;sub_type=RaiPlay%20Tipologia%20Page</jsonrpc> 
 </item>
 
 <item> 
 <title>[B][COLOR white] -> [COLOR blue]Programmi MTV[/B][/COLOR]</title> 
 <link>http://ignorame</link>
+<thumbnail>https://kodi.tv/sites/default/files/addon_assets/plugin.video.mtv.it/icon/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/MENU%20MTV%20SHOW</externallink>
 </item>
 
-
-
-<item>
-<title>[B][COLOR white] -> [COLOR blue]Masterchef Usa [/B][/COLOR]</title>
+<item> 
+<title>[B][COLOR white] -> [COLOR blue]Programmi SKY/B][/COLOR]</title> 
 <link>http://ignorame</link>
-<fanart>https://res.cloudinary.com/uktv/image/upload/b_rgb:000000,w_654,c_fill,q_90,h_367/v1498220320/ru1cmb8ehqcholcydr2v.jpg</fanart>
-<thumbnail>https://i.pinimg.com/736x/95/5c/3f/955c3f5c8794354bc20a6ec814af4e8c--masterchef-usa-master-chef.jpg</thumbnail>
-<info></info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20PROGRAMMI%20TV/Masterchef%20Usa</externallink>
-</item>
-
-<item>
-<title>[B][COLOR white] -> [COLOR blue]National Geographic [/B][/COLOR]</title>
-<link>http://ignorame</link>
-<fanart>http://cdn.zmescience.com/wp-content/uploads/2015/01/Polar-Bear-animals-34693849-1440-900.jpg</fanart>
-<thumbnail>http://www.indiewire.com/wp-content/uploads/2017/01/national-geographic-documentary-films.jpg</thumbnail>
-<info></info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20PROGRAMMI%20TV/National%20Geographic</externallink>
-</item>
-
-<item>
-<title>[B][COLOR white] -> [COLOR blue]Nudi E Crudi [/B][/COLOR]</title>
-<link>http://ignorame</link>
-<fanart></fanart>
-<thumbnail>http://www.ilvicolodellenews.it/wp-content/uploads/2015/03/nakedafraid-3.jpg</thumbnail>
-<info></info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20PROGRAMMI%20TV/Nudi%20E%20Crudi</externallink>
-</item>
-
-<item>
-<title>[B][COLOR white] -> [COLOR blue]Purr Purr Rid [/B][/COLOR]</title>
-<link>http://ignorame</link>
-<fanart>https://i.ytimg.com/vi/JGyK1UbBvEU/hqdefault.jpg</fanart>
-<thumbnail>http://i42.tinypic.com/54g40w.png</thumbnail>
-<info></info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20PROGRAMMI%20TV/Purr%20Purr%Rid</externallink>
-</item>
-
-<item>
-<title>[B][COLOR white] -> [COLOR blue]Socialface [/B][/COLOR]</title>
-<link>http://ignorame</link>
-<fanart>http://nst.sky.it/content/dam/static/contentimages/original/sezioni/skyuno/news/2016/10/06/00-socialface.jpg/_jcr_content/renditions/cq5dam.web.738.462.jpeg</fanart>
-<thumbnail>http://static.dagospia.com/img/foto/05-2016/socialface-800911.jpg</thumbnail>
-<info></info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20PROGRAMMI%20TV/Socialface</externallink>
-</item>
-
-<item>
-<title>[B][COLOR white] -> [COLOR blue]Superquark [/B][/COLOR]</title>
-<link>http://ignorame</link>
-<fanart>http://www.napolidavivere.it/wp-content/uploads/2015/06/superquark.jpg</fanart>
-<thumbnail>https://upload.wikimedia.org/wikipedia/it/3/33/Logo-superquark.jpg</thumbnail>
-<info></info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20PROGRAMMI%20TV/Superquark</externallink>
-</item>
-
-<item>
-<title>[B][COLOR white] -> [COLOR blue]Tale E Quale Show [/B][/COLOR]</title>
-<link>http://ignorame</link>
-<fanart>http://www.rai.it/resizegd/640x-/dl/img/2016/09/16/1474051324639_Cast%20Tale%20e%20quale%20show2.JPG</fanart>
-<thumbnail>http://velvetgossip.it/wp-content/uploads/2017/07/20120511200657Tale_e_Quale_Show.png</thumbnail>
-<info></info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20PROGRAMMI%20TV/Tale%20e%20Quale%20Show</externallink>
+<thumbnail>https://images.everyeye.it/img-singole/articolo-11018.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/MENU%20PROGRAMMI%20SKY</externallink>
 </item>
