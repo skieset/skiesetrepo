@@ -1,44 +1,22 @@
 <item> 
-<title>Mediaset</title> 
+<title>[B][COLOR white] -> [COLOR blue]Programmi Mediaset [/B][/COLOR]</title> 
 <link>ignorme</link> 
 <jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_id=TUTTI</jsonrpc> 
 </item>
 
-<item>
-<title>[B][COLOR white] -> [COLOR blue]Ciao Darwin [/B][/COLOR]</title>
-<link>http://ignorame</link>
-<fanart>http://imgr.video.mediaset.it/bin/653.$plit/C_2_video_616468_videoThumbnail.jpg</fanart>
-<thumbnail>https://upload.wikimedia.org/wikipedia/it/1/19/Logociaodarwin_1998.png</thumbnail>
-<info></info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20PROGRAMMI%20TV/Ciao%20Darwin</externallink>
+<item> 
+<title>[B][COLOR white] -> [COLOR blue]Programmi Rai [/B][/COLOR]</title> 
+<link>ignorme</link> 
+<jsonrpc>plugin://plugin.video.raitv/?mode=ondemand&amp;path_id=%2fraiplay%2fprogrammi%2f%3fjson&amp;sub_type=RaiPlay%20Tipologia%20Page</jsonrpc> 
 </item>
 
-<item>
-<title>[B][COLOR white] -> [COLOR blue]Colorado [/B][/COLOR]</title>
+<item> 
+<title>[B][COLOR white] -> [COLOR blue]Programmi MTV[/B][/COLOR]</title> 
 <link>http://ignorame</link>
-<fanart>http://media.tvblog.it/5/594/colorado-tvblog-586x389.jpg</fanart>
-<thumbnail>https://upload.wikimedia.org/wikipedia/it/c/c0/Colorado_logo.jpg</thumbnail>
-<info></info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20PROGRAMMI%20TV/Colorado</externallink>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/MENU%20MTV%20SHOW</externallink>
 </item>
 
-<item>
-<title>[B][COLOR white] -> [COLOR blue]Emigratis [/B][/COLOR]</title>
-<link>http://ignorame</link>
-<fanart>http://static.televisionando.it/r/843x0/www.televisionando.it/img/Emigratis-2-stagione.png</fanart>
-<thumbnail>http://imgr.video.mediaset.it/bin/569.$plit/C_2_brandInfo_753_upiLogoHp.png</thumbnail>
-<info></info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20PROGRAMMI%20TV/Emigratis</externallink>
-</item>
 
-<item>
-<title>[B][COLOR white] -> [COLOR blue]Master Of Magic [/B][/COLOR]</title>
-<link>http://ignorame</link>
-<fanart>http://www.prestigiazione.it/wp/wp-content/uploads/2016/04/masters-of-magic-fism-2015-2016-gerry-scotti.jpg</fanart>
-<thumbnail>http://www.unduetre.com/wp-content/uploads/2016/06/Masters.jpg</thumbnail>
-<info></info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20PROGRAMMI%20TV/Master%20Of%20Magic</externallink>
-</item>
 
 <item>
 <title>[B][COLOR white] -> [COLOR blue]Masterchef Usa [/B][/COLOR]</title>
@@ -101,13 +79,4 @@
 <thumbnail>http://velvetgossip.it/wp-content/uploads/2017/07/20120511200657Tale_e_Quale_Show.png</thumbnail>
 <info></info>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20PROGRAMMI%20TV/Tale%20e%20Quale%20Show</externallink>
-</item>
-
-<item>
-<title>[B][COLOR white] -> [COLOR blue]Tu Si Que Vales [/B][/COLOR]</title>
-<link>http://ignorame</link>
-<fanart>http://www.video.mediaset.it/bin/536.$plit/640x360_C_2_video_669975_videoThumbnail.jpg</fanart>
-<thumbnail>http://imgr.video.mediaset.it/bin/558.$plit/C_2_brandInfo_613_upiLogoHp.png</thumbnail>
-<info></info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20PROGRAMMI%20TV/Tu%20Si%20Que%20Vales</externallink>
 </item>
