@@ -1,14 +1,14 @@
 <item> 
 <title>[B][COLOR white] -> [COLOR blue]Programmi Mediaset [/B][/COLOR]</title> 
 <link>ignorme</link> 
-<thumbnail>https://yt3.ggpht.com/-QxH950SwR3Y/AAAAAAAAAAI/AAAAAAAAAAA/EW4KzydLWyQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<thumbnail>http://www.mediaset.it/sso/res/img/sso-mediaset.png</thumbnail>
 <jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_id=TUTTI</jsonrpc> 
 </item>
 
 <item> 
 <title>[B][COLOR white] -> [COLOR blue]Programmi Rai [/B][/COLOR]</title> 
 <link>ignorme</link> 
-<thumbnail>http://www.mediaset.it/sso/res/img/sso-mediaset.png</thumbnail>
+<thumbnail>https://yt3.ggpht.com/-QxH950SwR3Y/AAAAAAAAAAI/AAAAAAAAAAA/EW4KzydLWyQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <jsonrpc>plugin://plugin.video.raitv/?mode=ondemand&amp;path_id=%2fraiplay%2fprogrammi%2f%3fjson&amp;sub_type=RaiPlay%20Tipologia%20Page</jsonrpc> 
 </item>
 
