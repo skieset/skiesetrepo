@@ -15,6 +15,9 @@
 <item>
 <title>[B][COLOR white] -> [COLOR blue] SERIE D-E-F[/COLOR][/B]</title>
 <link>http://ignorame</link>
+<SetViewMode> 0 </SetViewMode>
+<fanart></fanart>
+<thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/D-E-F</externallink>
 </item>
 
@@ -26,6 +29,9 @@
 <item>
 <title>[B][COLOR white] -> [COLOR blue] SERIE G-H-I[/COLOR][/B]</title>
 <link>http://ignorame</link>
+<SetViewMode> 0 </SetViewMode>
+<fanart></fanart>
+<thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/G-H-I</externallink>
 </item>
 
@@ -37,6 +43,9 @@
 <item>
 <title>[B][COLOR white] -> [COLOR blue] SERIE J-L-M[/COLOR][/B]</title>
 <link>http://ignorame</link>
+<SetViewMode> 0 </SetViewMode>
+<fanart></fanart>
+<thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/J-L-M</externallink>
 </item>
 
@@ -48,6 +57,9 @@
 <item>
 <title>[B][COLOR white] -> [COLOR blue] SERIE N-O-P[/COLOR][/B]</title>
 <link>http://ignorame</link>
+<SetViewMode> 0 </SetViewMode>
+<fanart></fanart>
+<thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/N-O-P</externallink>
 </item>
 
@@ -59,6 +71,9 @@
 <item>
 <title>[B][COLOR white] -> [COLOR blue] SERIE Q-R-S[/COLOR][/B]</title>
 <link>http://ignorame</link>
+<SetViewMode> 0 </SetViewMode>
+<fanart></fanart>
+<thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/Q-R-S</externallink>
 </item>
 
@@ -70,5 +85,8 @@
 <item>
 <title>[B][COLOR white] -> [COLOR blue] SERIE T-U-V-W-Z[/COLOR][/B]</title>
 <link>http://ignorame</link>
+<SetViewMode> 0 </SetViewMode>
+<fanart></fanart>
+<thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/T-U-V-W-Z</externallink>
 </item>
