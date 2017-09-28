@@ -1,6 +1,7 @@
 <item> 
 <title>[B][COLOR white] -> [COLOR blue]Programmi Mediaset [/B][/COLOR]</title> 
-<link>ignorme</link> 
+<link>ignorme</link>
+<SetViewMode> 500 </SetViewMode>
 <thumbnail>http://www.mediaset.it/sso/res/img/sso-mediaset.png</thumbnail>
 <jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_id=TUTTI</jsonrpc> 
 </item>
@@ -8,6 +9,7 @@
 <item> 
 <title>[B][COLOR white] -> [COLOR blue]Programmi Rai [/B][/COLOR]</title> 
 <link>ignorme</link> 
+<SetViewMode> 500 </SetViewMode>
 <thumbnail>https://yt3.ggpht.com/-QxH950SwR3Y/AAAAAAAAAAI/AAAAAAAAAAA/EW4KzydLWyQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
 <jsonrpc>plugin://plugin.video.raitv/?mode=ondemand&amp;path_id=%2fraiplay%2fprogrammi%2f%3fjson&amp;sub_type=RaiPlay%20Tipologia%20Page</jsonrpc> 
 </item>
@@ -15,6 +17,7 @@
 <item> 
 <title>[B][COLOR white] -> [COLOR blue]Programmi MTV[/B][/COLOR]</title> 
 <link>http://ignorame</link>
+<SetViewMode> 500 </SetViewMode>
 <thumbnail>https://kodi.tv/sites/default/files/addon_assets/plugin.video.mtv.it/icon/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/MENU%20MTV%20SHOW</externallink>
 </item>
@@ -22,6 +25,7 @@
 <item> 
 <title>[B][COLOR white] -> [COLOR blue]Programmi SKY [/B][/COLOR]</title> 
 <link>http://ignorame</link>
+<SetViewMode> 500 </SetViewMode>
 <thumbnail>https://images.everyeye.it/img-singole/articolo-11018.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/MENU%20PROGRAMMI%20SKY</externallink>
 </item>
@@ -29,6 +33,7 @@
 <item> 
 <title>Programmi dplay</title> 
 <link>ignorme</link> 
+<SetViewMode> 500 </SetViewMode>
 <thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.dplay.png.pagespeed.ic.BlxvU2teZg.png</thumbnail
 <jsonrpc>plugin://plugin.video.dplay/</jsonrpc> 
 </item>
