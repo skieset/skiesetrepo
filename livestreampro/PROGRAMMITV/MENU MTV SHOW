@@ -1,10 +1,9 @@
 <item>
 <title>[B][COLOR lime]•[COLOR blue]MTV LIVE[/B][/COLOR]</title>
+<SetViewMode> 500 </SetViewMode>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/28/MTV_HD_Logo_2013.png</thumbnail>
 <link>plugin://plugin.video.f4mTester/?url=http://istream.dyndns.tv:8000/live/Illy/iKeLwcUQlE/811.ts&amp;streamtype=TSDOWNLOADER&amp;name=mtv HD</link>
 </item>
-
-<item><link>http://ignorame</link></item>
 
 <item>
 <title>[B][COLOR white] -> [COLOR blue]Acapulco Shore [/B][/COLOR]</title>
@@ -18,8 +17,8 @@
 <item>
 <title>[B][COLOR white] -> [COLOR blue]Ex On the Beach [/B][/COLOR]</title>
 <link>http://ignorame</link>
-<fanart>http://www.mtv.com.au/sites/default/files/styles/image-w-1200-h-600-scale-crop/public/mtv_au/galleries/large/2016/12/13/original_group_-_serious_-_leopard.jpg</fanart>
-<thumbnail>https://www.trackster.net/banners/posters/306875-2.jpg</thumbnail>
+<fanart>http://mtv-it.mtvnimages.com/tv_show/ex-on-the-beach-7_942.jpg</fanart>
+<thumbnail>http://nowwatchtvlive.cc/wp-content/uploads/2014/05/Ex-On-The-Beach.jpg</thumbnail>
 <info></info>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20MTV%20SHOW/Ex%20On%20The%20Beach</externallink>
 </item>
@@ -27,8 +26,8 @@
 <item>
 <title>[B][COLOR white] -> [COLOR blue]Geordie Shore [/B][/COLOR]</title>
 <link>http://ignorame</link>
-<fanart></fanart>
-<thumbnail>https://www.trackster.net/banners/posters/306875-2.jpg</thumbnail>
+<fanart>http://www.mtv.com.au/sites/default/files/styles/image-w-1200-h-600-scale-crop/public/mtv_au/articles/2016/07/08/original_geordies.jpg</fanart>
+<thumbnail>http://www.mtv.co.uk/sites/default/files/styles/vimn_image_embed/public/migrated/2011/04/20/gs_logo.jpg</thumbnail>
 <info></info>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20MTV%20SHOW/Geordie%20Shore</externallink>
 </item>
@@ -36,8 +35,8 @@
 <item>
 <title>[B][COLOR white] -> [COLOR blue]Just Tattoo Of Us[/B][/COLOR]</title>
 <link>http://ignorame</link>
-<fanart></fanart>
-<thumbnail>https://www.trackster.net/banners/posters/306875-2.jpg</thumbnail>
+<fanart>http://mtv-it.mtvnimages.com/tv_show/just-tattoo-of-us_942.jpg</fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/9/9d/Just_Tattoo_Of_Us_Title_Cards.jpg</thumbnail>
 <info></info>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20MTV%20SHOW/Just%20Tattoo%20Of%20Us</externallink>
 </item>
@@ -45,8 +44,8 @@
 <item>
 <title>[B][COLOR white] -> [COLOR blue]Spring Break With Grandad [/B][/COLOR]</title>
 <link>http://ignorame</link>
-<fanart></fanart>
-<thumbnail>https://www.trackster.net/banners/posters/306875-2.jpg</thumbnail>
+<fanart>http://mtv-it.mtvnimages.com/tv_show/spring-break-with-grandad_942.jpg</fanart>
+<thumbnail>http://th.tvblog.it/TbUTccFwzG7xIk5i1DHAeF3qTmc=/fit-in/655x437/http://media.tvblog.it/f/f71/spring-break-with-grandad.jpg</thumbnail>
 <info></info>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20MTV%20SHOW/Spring%20Break%20With%20Grandad</externallink>
 </item>
