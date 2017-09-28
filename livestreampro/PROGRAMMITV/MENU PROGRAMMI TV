@@ -25,3 +25,10 @@
 <thumbnail>https://images.everyeye.it/img-singole/articolo-11018.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/MENU%20PROGRAMMI%20SKY</externallink>
 </item>
+
+<item> 
+<title>Programmi dplay</title> 
+<link>ignorme</link> 
+<thumbnail>https://superrepo.org/static/images/icons/original/xplugin.video.dplay.png.pagespeed.ic.BlxvU2teZg.png</thumbnail
+<jsonrpc>plugin://plugin.video.dplay/</jsonrpc> 
+</item>
