@@ -1,34 +1,4 @@
 #EXTM3U
-#EXTINF:-1, -[ PRIMAFILA SKY VOD ]-
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/29964.mkv
-#EXTINF:-1, PF1/2 -Fast And Furious 8-
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/41641.mkv
-#EXTINF:-1, PF3/4 -I Guardiani della Galassia Vol. 2-
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/42659.mkv
-#EXTINF:-1, PF5/6 -King Arthur : Il Potere Della Spada (2017)-
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/42786.mkv
-#EXTINF:-1, PF7/8 -Gold:La Grande Truffa-
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/42783.mkv
-#EXTINF:-1, PF9/10 -I Puffi : Viaggio Nella Noresta Segreta (2017)-
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/42785.mkv
-#EXTINF:-1, PF11/12 -Leccezioneregola-
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/42660.mkv
-#EXTINF:-1, PF13/14 -Insospettabili Sospetti-
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/42647.mkv
-#EXTINF:-1, PF13/14 -La luce sugli oceani-
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/41543.mkv
-#EXTINF:-1, PF15 -Doraemon Il Film-
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/42661.mkv
-#EXTINF:-1, PF16 -Wilson-
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/42658.mkv
-#EXTINF:-1, PF17 -Ghost In The Shell-
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/41538.mkv
-#EXTINF:-1, PF18 -Fallen-
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/42643.mkv
-#EXTINF:-1, PF19 -Baby Boss-
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/42644.mkv
-#EXTINF:-1,  -[ FILM AL CINEMA ]- 
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/22382.mp4
 #EXTINF:-1, La Torre Nera MD HDTS 720p
 http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/41983.mkv
 #EXTINF:-1, La Torre Nera MD TELESYNC
@@ -37,10 +7,6 @@ http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/41981.mkv
 http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/41982.mkv
 #EXTINF:-1, Annabelle 2 Creation MD TELESYNC
 http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/41984.mkv
-#EXTINF:-1, Cattivissimo Me 3 MD 720p HDTC
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/41699.mkv
-#EXTINF:-1, Cattivissimo Me 3 MD TC
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/41700.mkv
 #EXTINF:-1, Baywatch MD WEBDL
 http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/41525.mkv
 #EXTINF:-1, Baywatch MD 720p WEBDL
@@ -147,10 +113,6 @@ http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/36222.mkv
 http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/36228.mkv
 #EXTINF:-1, La Verita Vi Spiego Sull Amore MD HDCAM
 http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/35954.mkv
-#EXTINF:-1, Yu-Gi-Oh Il Lato Oscuro Delle Dimensioni MD 720p BluRay
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/33093.mkv
-#EXTINF:-1, Yu-Gi-Oh Il Lato Oscuro Delle Dimensioni MD BDRip
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/33094.mkv
 #EXTINF:-1, Omicidio All Italiana MD HDCAM
 http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/33081.mkv
 #EXTINF:-1, A United Kingdom L Amore Che Ha Cambiato La Storia MD 720p WEBDL
@@ -313,10 +275,6 @@ http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/39329.mkv
 http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/40515.mkv
 #EXTINF:-1, Holy Ghost People Bluray 720p
 http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/40516.mkv
-#EXTINF:-1, I puffi - viaggio nella foresta segreta 480p
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/40694.mkv
-#EXTINF:-1, I puffi - viaggio nella foresta segreta Bluray 720p
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/40695.mkv
 #EXTINF:-1, Il Codice Del Silenzio FullHD 1080p
 http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/38433.mkv
 #EXTINF:-1, Il Diario Degli Errori FullHD 1080p
@@ -361,8 +319,6 @@ http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/40699.mkv
 http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/38092.mkv
 #EXTINF:-1, La battaglia di Hacksaw Ridge Bluray 720p
 http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/38906.mkv
-#EXTINF:-1, La bella e la bestia Bluray 720p
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/39727.mkv
 #EXTINF:-1, La bottega del barbiere 3 480p
 http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/41675.mkv
 #EXTINF:-1, La bottega del barbiere 3 Bluray 720p
@@ -1051,9 +1007,5 @@ http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/36322.mkv
 http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/36321.mkv
 #EXTINF:-1, X Men Wolverine FullHD 1080p
 http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/36323.mkv
-#EXTINF:-1, xXx 2 FullHD 1080p
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/36324.mkv
-#EXTINF:-1, xXx FullHD 1080p
-http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/36325.mkv
 #EXTINF:-1, We Were Soldiers FullHD 1080p
 http://lucky.lts2.net:24000/movie/Giampiero/Giampiero123/33826.mkv
