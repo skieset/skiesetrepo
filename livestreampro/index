@@ -42,6 +42,8 @@
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/ESTERNI</externallink>
 </item>
 
-
-
-
+<item> 
+<title>[B][COLOR white] -> [COLOR blue]Cerca canale[/B][/COLOR]</title> 
+<link>ignorame</link>
+<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;iconimage=https%3a%2f%2fkodilive.eu%2ficon%2ffolder_search.png&amp;mode=66&amp;name=%5bCOLOR%20yellow%5d%5bB%5dSearch%20channel%20or%20media%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fskieset%2fskiesetrepo%2fmaster%2fKLTV%2fMenu</jsonrpc> 
+</item>
