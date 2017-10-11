@@ -6,7 +6,9 @@
 <item>
 <title>[COLOR blue] Digitale Terrestre [/COLOR]</title>
 <link>http://ignorame</link>
-<externallink>http://bit.ly/m3ubyinfogw</externallink>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://pastebin.com/raw/aQgLVZHC$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item> 
@@ -24,32 +26,19 @@
 
 <item>
 <title>[COLOR blue] Cultura [/COLOR]</title>
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR blue][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://pastebin.com/raw/dPzWzsyy]]></page>
-<cookieJar></cookieJar>
-</regex>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://pastebin.com/raw/dPzWzsyy$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
 <title>[COLOR blue] Cinema [/COLOR]</title>
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR blue][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://pastebin.com/raw/QNBMmPXx]]></page>
-<cookieJar></cookieJar>
-</regex>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://pastebin.com/raw/QNBMmPXx$$TSDOWNLOADER$$</externallink>
+</item>
 </item>
 
 <item>
@@ -89,17 +78,10 @@
 
 <item>
 <title>[COLOR blue] Cinema[/COLOR]</title>
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR blue][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://pastebin.com/raw/MqLW9mdE]]></page>
-<cookieJar></cookieJar>
-</regex>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://pastebin.com/raw/MqLW9mdE$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
