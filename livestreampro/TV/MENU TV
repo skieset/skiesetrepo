@@ -18,10 +18,8 @@
 
 <item>
 <title>[COLOR blue] Intrattenimento[/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://pastebin.com/raw/YNfmUwcX$$TSDOWNLOADER$$</externallink>
+<link>ignorame</link> 
+<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;iconimage=http%3a%2f%2ffindicons.com%2ffiles%2ficons%2f1331%2fmatrix_rebooted%2f128%2ftext_clipping_file.png&amp;mode=4&amp;name=%5bCOLOR%20FF00c100%5d%5bB%5dhttp%3a%2f%2fpastebin.com%2fraw%2fYNfmUwcX%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fpastebin.com%2fraw%2fYNfmUwcX</jsonrpc> 
 </item>
 
 <item>
