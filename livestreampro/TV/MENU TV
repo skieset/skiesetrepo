@@ -18,8 +18,8 @@
 
 <item>
 <title>[COLOR blue] Intrattenimento[/COLOR]</title>
-<link>ignorame</link> 
-<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;iconimage=http%3a%2f%2ffindicons.com%2ffiles%2ficons%2f1331%2fmatrix_rebooted%2f128%2ftext_clipping_file.png&amp;mode=4&amp;name=%5bCOLOR%20FF00c100%5d%5bB%5dhttp%3a%2f%2fpastebin.com%2fraw%2fYNfmUwcX%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=http%3a%2f%2fpastebin.com%2fraw%2fYNfmUwcX</jsonrpc> 
+<link>ignorame</link>
+<link>$doregex[makelist2]</link> <regex> <name>makelist2</name> <listrepeat><![CDATA[ <title>[makelist2.param2]</title> <link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link> ]]></listrepeat> <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres> <page><![CDATA[https://pastebin.com/raw/YNfmUwcX$$TSDOWNLOADER$$]]></page> <cookieJar></cookieJar> </regex>
 </item>
 
 <item>
