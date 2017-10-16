@@ -16,10 +16,8 @@
 <link>ignore</link>
 </item>
 
-<item>
-<title>[COLOR blue] Intrattenimento[/COLOR]</title>
-<link>$doregex[makelist2]</link> <regex> <name>makelist2</name> <listrepeat><![CDATA[ <title>[makelist2.param2]</title> <link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link> ]]></listrepeat> <expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres> <page><![CDATA[https://pastebin.com/raw/YNfmUwcX$$TSDOWNLOADER$$]]></page> <cookieJar></cookieJar> </regex>
-</item>
+<item><title>[COLOR blue] Intrattenimento[/COLOR]</title> <link>http://Ignoreme</link> <thumbnail></thumbnail> <externallink>https://pastebin.com/raw/YNfmUwcX$$TSDOWNLOADER$$</externallink> </item>
+
 
 <item>
 <title>[COLOR blue] Cultura [/COLOR]</title>
