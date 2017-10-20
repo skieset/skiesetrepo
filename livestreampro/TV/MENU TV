@@ -1,107 +1,72 @@
-<item> 
-<title>[B][COLOR white]:::::::::::::::::::::::::  IN CHIARO  ::::::::::::::::::::::::[/COLOR][/B]</title> 
-<link>ignore</link>
-</item>
-
 <item>
-<title>[COLOR blue] Digitale Terrestre [/COLOR]</title>
+<title>[COLOR aqua] Digitale Terrestre [/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://blog.nicolaselenu.com/wp-content/uploads/scaricare-video-mediaset-it-rai-tv-salvare-programmi-canale5-italia1-rete4-digitale-terrestre.jpg</thumbnail>
+<fanart>http://www.webmasterpoint.org/img/speciali/original/5746.jpg</fanart>
 <externallink>https://pastebin.com/raw/aQgLVZHC$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item> 
-<title>[B][COLOR white]::::::::::::::::::::::::::::::  SKY  ::::::::::::::::::::::::::::::[/COLOR][/B]</title> 
+<title>[B][COLOR white]:::::::::::::::::::::::::::: SKY ::::::::::::::::::::::::::::[/COLOR][/B]</title> 
 <link>ignore</link>
+<fanart>https://www.4fan.it/wp-content/uploads/2017/09/sky-offerte-abbonamento.jpg</fanart>
 </item>
 
-<item><title>[COLOR blue] Intrattenimento[/COLOR]</title> <link>http://Ignoreme</link> <thumbnail></thumbnail> <externallink>https://pastebin.com/raw/YNfmUwcX$$TSDOWNLOADER$$</externallink> </item>
+<item><title>[COLOR aqua] Intrattenimento[/COLOR]</title> <link>http://Ignoreme</link> <thumbnail></thumbnail> 
+<fanart>https://www.4fan.it/wp-content/uploads/2017/09/sky-offerte-abbonamento.jpg</fanart>
+<externallink>https://pastebin.com/raw/YNfmUwcX$$TSDOWNLOADER$$</externallink> </item>
 
 
-<item>
-<title>[COLOR blue] Cultura [/COLOR]</title>
+<item><title>[COLOR aqua] Cultura [/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://www.4fan.it/wp-content/uploads/2017/09/sky-offerte-abbonamento.jpg</fanart>
 <externallink>https://pastebin.com/raw/dPzWzsyy$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
-<title>[COLOR blue] Cinema [/COLOR]</title>
+<title>[COLOR aqua] Cinema [/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>https://www.4fan.it/wp-content/uploads/2017/09/sky-offerte-abbonamento.jpg</fanart>
 <externallink>https://pastebin.com/raw/QNBMmPXx$$TSDOWNLOADER$$</externallink>
 </item>
-</item>
 
 <item>
-<title>[COLOR blue] Sport [/COLOR]</title>
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR blue][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://pastebin.com/raw/4WcqJMpf]]></page>
-<cookieJar></cookieJar>
+<title>[COLOR aqua] Sport [/COLOR]</title>
+<thumbnail></thumbnail>
+<link>http://ignorame</link>
+<fanart>https://www.4fan.it/wp-content/uploads/2017/09/sky-offerte-abbonamento.jpg</fanart>
+<externallink>https://pastebin.com/raw/4WcqJMpf$$TSDOWNLOADER$$</externallink>
 </regex>
 </item>
 
 <item>
-<title>[COLOR blue] Bambini[/COLOR]</title>
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR blue][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://pastebin.com/raw/D9uNXVZV]]></page>
-<cookieJar></cookieJar>
-</regex>
+<title>[COLOR aqua] Bambini[/COLOR]</title>
+<thumbnail></thumbnail>
+<link>http://ignorame</link>
+<fanart>https://www.4fan.it/wp-content/uploads/2017/09/sky-offerte-abbonamento.jpg</fanart>
+<externallink>https://pastebin.com/raw/D9uNXVZV$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item> 
-<title>[B][COLOR white]::::::::::::::::  MEDIASET PREMIUM  ::::::::::::::::[/COLOR][/B]</title> 
+<title>[B][COLOR white]:::::::::::::::: MEDIASET PREMIUM ::::::::::::::::[/COLOR][/B]</title> 
 <link>ignore</link>
+<fanart>http://www.calcioefinanza.it/wp-content/uploads/2014/11/mediaset-premium.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR blue] Cinema[/COLOR]</title>
+<title>[COLOR aqua] Cinema[/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
-<fanart></fanart>
+<fanart>http://www.calcioefinanza.it/wp-content/uploads/2014/11/mediaset-premium.jpg</fanart>
 <externallink>https://pastebin.com/raw/MqLW9mdE$$TSDOWNLOADER$$</externallink>
 </item>
 
 <item>
-<title>[COLOR blue] Calcio[/COLOR]</title>
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR blue][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live/.*/.*/.*ts)]]></expres>
-<page><![CDATA[https://pastebin.com/raw/HFayWsGY]]></page>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-
-<item> 
-<title>[B][COLOR white]     [/COLOR][/B]</title> 
-<link>ignore</link>
-</item>
-
-<item> 
-<title>[B][COLOR white] VISUALIZZA LA GUIDA CANALI TV [/COLOR][/B]</title> 
-<link>ignore</link>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/GUIDATV</externallink>
+<title>[COLOR aqua] Calcio[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart>http://www.calcioefinanza.it/wp-content/uploads/2014/11/mediaset-premium.jpg</fanart>
+<externallink>https://pastebin.com/raw/HFayWsGY$$TSDOWNLOADER$$</externallink>
 </item>
