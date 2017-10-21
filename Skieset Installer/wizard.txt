@@ -1,8 +1,5 @@
-
-name="WizardName"
-url="https://copy.com/vPJVfIg4UWz6a7GJ/0.6hushamaddons.zip?download=1"
+name="Skieset Installer"
+url="https://archive.org/download/SkiesetInstaller/Kodi%20Backup.zip"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
-description="Skieset installer"
-
-
+description="Installer for Kodi"
