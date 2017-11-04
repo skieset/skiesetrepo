@@ -1,90 +1,90 @@
-<item>
-<title>[B][COLOR red] PRIMA ATTIVA [/COLOR][/B]</title>
-<link>ignorame</link> <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://olpair.com/</jsonrpc>
-</item>
+<data><type name="channels">
+
+<item><name>-[ EX ON THE BEACH S3 ]-</name><link>ignore</link></item>
+<item><name>Ex On The Beach 3x01</name>
+<link>https://openload.co/f/n0ti1J-hPik/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_1.mp4</link></item>
+<item><name>Ex On The Beach 3x02</name>
+<link>https://openload.co/f/_sKylciFMps/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_2.mp4</link></item>
+<item><name>Ex On The Beach 3x03</name>
+<link>https://openload.co/f/AGSXyYyno8U/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_3.mp4</link></item>
+<item><name>Ex On The Beach 3x04</name>
+<link>https://openload.co/f/WB3HCJ6B_fc/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_4.mp4</link></item>
+<item><name>Ex On The Beach 3x05</name>
+<link>https://openload.co/f/Q2xtQcYr4dU/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_5.mp4</link></item>
+<item><name>Ex On The Beach 3x06</name>
+<link>https://openload.co/f/tvtAJz0F1Pk/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_6.mp4</link></item>
+<item><name>Ex On The Beach 3x07</name>
+<link>https://openload.co/f/1tK0Okkx4ug/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_7.mp4</link></item>
+<item><name>Ex On The Beach 3x08</name>
+<link>https://openload.co/f/sBJFtbknWt8/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_8.mp4</link></item>
+<item><name>Ex On The Beach 3x09</name>
+<link>https://openload.co/f/Bvvp5lc_fBY/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_9.mp4</link></item>
+<item><name>Ex On The Beach 3x10</name>
+<link>https://openload.co/f/2bfNgr-O_Z8/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_10.mp4</link></item>
 
 <item><link>ignore</link></item>
+<item><name>-[ EX ON THE BEACH S4 ]-</name><link>ignore</link></item>
+<item><name>Ex On The Beach 4x01</name>
+<link>https://openload.co/f/6_RDxB25Mzo/ex_on_the_beach_la_rivincita_degli_ex_stagione_4_puntata_1.mp4</link></item>
+<item><name>Ex On The Beach 4x02</name>
+<link>https://openload.co/f/50bW_3ZABwQ/ex_on_the_beach_la_rivincita_degli_ex_stagione_4_puntata_2.mp4</link></item>
+<item><name>Ex On The Beach 4x03</name>
+<link>https://openload.co/f/vdy04hNJilc/ex_on_the_beach_la_rivincita_degli_ex_stagione_4_puntata_3.mp4</link></item>
+<item><name>Ex On The Beach 4x04</name>
+<link>https://openload.co/f/EQdQB2HDMS0/ex_on_the_beach_la_rivincita_degli_ex_stagione_4_puntata_4.mp4</link></item>
+<item><name>Ex On The Beach 4x05</name>
+<link>https://openload.co/f/aBn4t6vm2Rg/ex_on_the_beach_la_rivincita_degli_ex_stagione_4_puntata_5.mp4</link></item>
+<item><name>Ex On The Beach 4x06</name>
+<link>https://openload.co/f/RttYBW5OHXA/ex_on_the_beach_la_rivincita_degli_ex_stagione_4_puntata_6.mp4</link></item>
+<item><name>Ex On The Beach 4x07</name>
+<link>https://openload.co/f/ppGiTTHzuD0/ex_on_the_beach_la_rivincita_degli_ex_stagione_4_puntata_7.mp4</link></item>
+<item><name>Ex On The Beach 4x08</name>
+<link>https://openload.co/f/b7zWMjYz-6I/ex_on_the_beach_la_rivincita_degli_ex_stagione_4_puntata_8.mp4</link></item>
 
-<item><title>-[ EX ON THE BEACH S3 ]-</title><link>ignore</link></item>
-<item><title>Ex On The Beach 3x01</title>
-<urlsolve>https://openload.co/f/n0ti1J-hPik/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_1.mp4</urlsolve></item>
-<item><title>Ex On The Beach 3x02</title>
-<urlsolve>https://openload.co/f/_sKylciFMps/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_2.mp4</urlsolve></item>
-<item><title>Ex On The Beach 3x03</title>
-<urlsolve>https://openload.co/f/AGSXyYyno8U/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_3.mp4</urlsolve></item>
-<item><title>Ex On The Beach 3x04</title>
-<urlsolve>https://openload.co/f/WB3HCJ6B_fc/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_4.mp4</urlsolve></item>
-<item><title>Ex On The Beach 3x05</title>
-<urlsolve>https://openload.co/f/Q2xtQcYr4dU/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_5.mp4</urlsolve></item>
-<item><title>Ex On The Beach 3x06</title>
-<urlsolve>https://openload.co/f/tvtAJz0F1Pk/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_6.mp4</urlsolve></item>
-<item><title>Ex On The Beach 3x07</title>
-<urlsolve>https://openload.co/f/1tK0Okkx4ug/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_7.mp4</urlsolve></item>
-<item><title>Ex On The Beach 3x08</title>
-<urlsolve>https://openload.co/f/sBJFtbknWt8/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_8.mp4</urlsolve></item>
-<item><title>Ex On The Beach 3x09</title>
-<urlsolve>https://openload.co/f/Bvvp5lc_fBY/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_9.mp4</urlsolve></item>
-<item><title>Ex On The Beach 3x10</title>
-<urlsolve>https://openload.co/f/2bfNgr-O_Z8/ex_on_the_beach_la_rivincita_degli_ex_stagione_3_puntata_10.mp4</urlsolve></item>
 <item><link>ignore</link></item>
-<item><title>-[ EX ON THE BEACH S4 ]-</title><link>ignore</link></item>
-<item><title>Ex On The Beach 4x01</title>
-<urlsolve>https://openload.co/f/6_RDxB25Mzo/ex_on_the_beach_la_rivincita_degli_ex_stagione_4_puntata_1.mp4</urlsolve></item>
-<item><title>Ex On The Beach 4x02</title>
-<urlsolve>https://openload.co/f/50bW_3ZABwQ/ex_on_the_beach_la_rivincita_degli_ex_stagione_4_puntata_2.mp4</urlsolve></item>
-<item><title>Ex On The Beach 4x03</title>
-<urlsolve>https://openload.co/f/vdy04hNJilc/ex_on_the_beach_la_rivincita_degli_ex_stagione_4_puntata_3.mp4</urlsolve></item>
-<item><title>Ex On The Beach 4x04</title>
-<urlsolve>https://openload.co/f/EQdQB2HDMS0/ex_on_the_beach_la_rivincita_degli_ex_stagione_4_puntata_4.mp4</urlsolve></item>
-<item><title>Ex On The Beach 4x05</title>
-<urlsolve>https://openload.co/f/aBn4t6vm2Rg/ex_on_the_beach_la_rivincita_degli_ex_stagione_4_puntata_5.mp4</urlsolve></item>
-<item><title>Ex On The Beach 4x06</title>
-<urlsolve>https://openload.co/f/RttYBW5OHXA/ex_on_the_beach_la_rivincita_degli_ex_stagione_4_puntata_6.mp4</urlsolve></item>
-<item><title>Ex On The Beach 4x07</title>
-<urlsolve>https://openload.co/f/ppGiTTHzuD0/ex_on_the_beach_la_rivincita_degli_ex_stagione_4_puntata_7.mp4</urlsolve></item>
-<item><title>Ex On The Beach 4x08</title>
-<urlsolve>https://openload.co/f/b7zWMjYz-6I/ex_on_the_beach_la_rivincita_degli_ex_stagione_4_puntata_8.mp4</urlsolve></item>
+<item><name>-[ EX ON THE BEACH S5 ]-</name><link>ignore</link></item>
+<item><name>Ex On The Beach 5x01</name>
+<link>https://openload.co/f/vxYURv2tYNE/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_1.mp4</link></item>
+<item><name>Ex On The Beach 5x02</name>
+<link>https://openload.co/f/yLim3BKmALs/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_2.mp4</link></item>
+<item><name>Ex On The Beach 5x03</name>
+<link>https://openload.co/f/JyPU7esVcK4/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_3.mp4</link></item>
+<item><name>Ex On The Beach 5x04</name>
+<link>https://openload.co/f/Y9bGRjMsFiU/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_4.mp4</link></item>
+<item><name>Ex On The Beach 5x05</name>
+<link>https://openload.co/f/uqp9AXnGbbo/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_5.mp4</link></item>
+<item><name>Ex On The Beach 5x06</name>
+<link>https://openload.co/f/LeLae3jrnzY/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_6.mp4</link></item>
+<item><name>Ex On The Beach 5x07</name>
+<link>https://openload.co/f/DHoxPMQ8T9M/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_7.mp4</link></item>
+<item><name>Ex On The Beach 5x08</name>
+<link>https://openload.co/f/sQG9Uvld6CA/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_8.mp4</link></item>
+<item><name>Ex On The Beach 5x09</name>
+<link>https://openload.co/f/GOoD5CUZasc/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_9.mp4</link></item>
+<item><name>Ex On The Beach 5x10</name>
+<link>https://openload.co/f/eJMIddO2INc/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_10.mp4</link></item>
+
 <item><link>ignore</link></item>
-<item><title>-[ EX ON THE BEACH S5 ]-</title><link>ignore</link></item>
-<item><title>Ex On The Beach 5x01</title>
-<urlsolve>https://openload.co/f/vxYURv2tYNE/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_1.mp4</urlsolve></item>
-<item><title>Ex On The Beach 5x02</title>
-<urlsolve>https://openload.co/f/yLim3BKmALs/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_2.mp4</urlsolve></item>
-<item><title>Ex On The Beach 5x03</title>
-<urlsolve>https://openload.co/f/JyPU7esVcK4/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_3.mp4</urlsolve></item>
-<item><title>Ex On The Beach 5x04</title>
-<urlsolve>https://openload.co/f/Y9bGRjMsFiU/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_4.mp4</urlsolve></item>
-<item><title>Ex On The Beach 5x05</title>
-<urlsolve>https://openload.co/f/uqp9AXnGbbo/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_5.mp4</urlsolve></item>
-<item><title>Ex On The Beach 5x06</title>
-<urlsolve>https://openload.co/f/LeLae3jrnzY/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_6.mp4</urlsolve></item>
-<item><title>Ex On The Beach 5x07</title>
-<urlsolve>https://openload.co/f/DHoxPMQ8T9M/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_7.mp4</urlsolve></item>
-<item><title>Ex On The Beach 5x08</title>
-<urlsolve>https://openload.co/f/sQG9Uvld6CA/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_8.mp4</urlsolve></item>
-<item><title>Ex On The Beach 5x09</title>
-<urlsolve>https://openload.co/f/GOoD5CUZasc/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_9.mp4</urlsolve></item>
-<item><title>Ex On The Beach 5x10</title>
-<urlsolve>https://openload.co/f/eJMIddO2INc/ex_on_the_beach_la_rivincita_degli_ex_stagione_5_puntata_10.mp4</urlsolve></item>
-<item><link>ignore</link></item>
-<item><title>-[ EX ON THE BEACH S6 ]-</title><link>ignore</link></item>
-<item><title>Ex On The Beach 6x01</title>
-<urlsolve>https://openload.co/f/EA4gr5GLE6A/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_1.mp4</urlsolve></item>
-<item><title>Ex On The Beach 6x02</title>
-<urlsolve>https://openload.co/f/tWjqDJcZ48Y/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_2.mp4</urlsolve></item>
-<item><title>Ex On The Beach 6x03</title>
-<urlsolve>https://openload.co/f/4115DjNDEDw/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_3.mp4</urlsolve></item>
-<item><title>Ex On The Beach 6x04</title>
-<urlsolve>https://openload.co/f/_PX2FVzZTnc/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_4.mp4</urlsolve></item>
-<item><title>Ex On The Beach 6x05</title>
-<urlsolve>https://openload.co/f/ls0qDVEdfQI/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_5.mp4</urlsolve></item>
-<item><title>Ex On The Beach 6x06</title>
-<urlsolve>https://openload.co/f/ZRs96wAZqgM/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_6.mp4</urlsolve></item>
-<item><title>Ex On The Beach 6x07</title>
-<urlsolve>https://openload.co/f/zUNajjrxNcw/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_7.mp4</urlsolve></item>
-<item><title>Ex On The Beach 6x08</title>
-<urlsolve>https://openload.co/f/nmJQcyIarC8/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_8.mp4</urlsolve></item>
-<item><title>Ex On The Beach 6x09</title>
-<urlsolve>https://openload.co/f/vNz0RujO2xg/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_9.mp4</urlsolve></item>
-<item><title>Ex On The Beach 6x10</title>
-<urlsolve>https://openload.co/f/2hLjLb0lYrY/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_10.mp4</urlsolve></item>
+<item><name>-[ EX ON THE BEACH S6 ]-</name><link>ignore</link></item>
+<item><name>Ex On The Beach 6x01</name>
+<link>https://openload.co/f/EA4gr5GLE6A/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_1.mp4</link></item>
+<item><name>Ex On The Beach 6x02</name>
+<link>https://openload.co/f/tWjqDJcZ48Y/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_2.mp4</link></item>
+<item><name>Ex On The Beach 6x03</name>
+<link>https://openload.co/f/4115DjNDEDw/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_3.mp4</link></item>
+<item><name>Ex On The Beach 6x04</name>
+<link>https://openload.co/f/_PX2FVzZTnc/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_4.mp4</link></item>
+<item><name>Ex On The Beach 6x05</name>
+<link>https://openload.co/f/ls0qDVEdfQI/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_5.mp4</link></item>
+<item><name>Ex On The Beach 6x06</name>
+<link>https://openload.co/f/ZRs96wAZqgM/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_6.mp4</link></item>
+<item><name>Ex On The Beach 6x07</name>
+<link>https://openload.co/f/zUNajjrxNcw/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_7.mp4</link></item>
+<item><name>Ex On The Beach 6x08</name>
+<link>https://openload.co/f/nmJQcyIarC8/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_8.mp4</link></item>
+<item><name>Ex On The Beach 6x09</name>
+<link>https://openload.co/f/vNz0RujO2xg/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_9.mp4</link></item>
+<item><name>Ex On The Beach 6x10</name>
+<link>https://openload.co/f/2hLjLb0lYrY/ex_on_the_beach_la_rivincita_degli_ex_stagione_6_puntata_10.mp4</link></item>
+
+</type></data>
