@@ -1,24 +1,25 @@
-<item>
-<title>[B][COLOR red] PRIMA ATTIVA [/COLOR][/B]</title>
-<link>ignorame</link> <jsonrpc>plugin://plugin.program.chrome.launcher/?kiosk=yes&amp;mode=showSite&amp;stopPlayback=no&amp;url=https://olpair.com/</jsonrpc>
-</item>
-<item><link>ignore</link></item>
-<item><title>-[ JUST TATTOO OF US S1]-</title><link>ignore</link></item>
-<item><title>Just Tattoo Of Us 1</title>
-<urlsolve>https://openload.co/f/MO0NWREwH1k/just_tattoo_of_us_stagione_1_puntata_1.mp4</urlsolve></item>
-<item><title>Just Tattoo Of Us 2</title>
-<urlsolve>https://openload.co/f/5UkUH6QBDGE/just_tattoo_of_us_stagione_1_puntata_2.mp4</urlsolve></item>
-<item><title>Just Tattoo Of Us 3</title>
-<urlsolve>https://openload.co/f/6FmmROMyxwc/just_tattoo_of_us_stagione_1_puntata_3.mp4</urlsolve></item>
-<item><title>Just Tattoo Of Us 4</title>
-<urlsolve>https://openload.co/f/Ehr8WJYe7mU/just_tattoo_of_us_stagione_1_puntata_4.mp4</urlsolve></item>
-<item><title>Just Tattoo Of Us 5</title>
-<urlsolve>https://openload.co/f/tVs15ysCcl4/just_tattoo_of_us_stagione_1_puntata_5.mp4</urlsolve></item>
-<item><title>Just Tattoo Of Us 6</title>
-<urlsolve>https://openload.co/f/xwaftl8owhE/just_tattoo_of_us_stagione_1_puntata_6.mp4</urlsolve></item>
-<item><title>Just Tattoo Of Us 7</title>
-<urlsolve>https://openload.co/f/42WfP9uwld0/just_tattoo_of_us_stagione_1_puntata_7.mp4</urlsolve></item>
-<item><title>Just Tattoo Of Us 8</title>
-<urlsolve>https://openload.co/f/O-CrNjWBGiA/just_tattoo_of_us_stagione_1_puntata_8.mp4</urlsolve></item>
-<item><title>Just Tattoo Of Us 9</title>
-<urlsolve>https://openload.co/f/xbG7BRf_dqQ/just_tattoo_of_us_stagione_1_puntata_9.mp4</urlsolve></item>
+<data><type name="channels">
+
+
+<item><name>-[ JUST TATTOO OF US S1]-</name><link>ignore</link></item>
+<item><name>Just Tattoo Of Us 1</name>
+<link>https://openload.co/f/MO0NWREwH1k/just_tattoo_of_us_stagione_1_puntata_1.mp4</link></item>
+<item><name>Just Tattoo Of Us 2</name>
+<link>https://openload.co/f/5UkUH6QBDGE/just_tattoo_of_us_stagione_1_puntata_2.mp4</link></item>
+<item><name>Just Tattoo Of Us 3</name>
+<link>https://openload.co/f/6FmmROMyxwc/just_tattoo_of_us_stagione_1_puntata_3.mp4</link></item>
+<item><name>Just Tattoo Of Us 4</name>
+<link>https://openload.co/f/Ehr8WJYe7mU/just_tattoo_of_us_stagione_1_puntata_4.mp4</link></item>
+<item><name>Just Tattoo Of Us 5</name>
+<link>https://openload.co/f/tVs15ysCcl4/just_tattoo_of_us_stagione_1_puntata_5.mp4</link></item>
+<item><name>Just Tattoo Of Us 6</name>
+<link>https://openload.co/f/xwaftl8owhE/just_tattoo_of_us_stagione_1_puntata_6.mp4</link></item>
+<item><name>Just Tattoo Of Us 7</name>
+<link>https://openload.co/f/42WfP9uwld0/just_tattoo_of_us_stagione_1_puntata_7.mp4</link></item>
+<item><name>Just Tattoo Of Us 8</name>
+<link>https://openload.co/f/O-CrNjWBGiA/just_tattoo_of_us_stagione_1_puntata_8.mp4</link></item>
+<item><name>Just Tattoo Of Us 9</name>
+<link>https://openload.co/f/xbG7BRf_dqQ/just_tattoo_of_us_stagione_1_puntata_9.mp4</link></item>
+
+
+</type></data>
