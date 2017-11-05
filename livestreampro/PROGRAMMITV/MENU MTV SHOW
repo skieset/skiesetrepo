@@ -6,7 +6,7 @@
 <fanart>https://media.senscritique.com/media/000011069354/1200/Acapulco_Shore.jpg</fanart>
 <thumbnail>http://static.programme.tv/media/cache/relative_max_355x272/upload/epgs/2015/12/acapulco-shore_95516377_1.jpg</thumbnail>
 <info></info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20MTV%20SHOW/Acapulco%20Shore</externallink>
+<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;mode=70&amp;url=http%3a%2f%2fbit.ly%2f2yx9OeS</jsonrpc>
 </item>
 
 <item>
@@ -24,7 +24,7 @@
 <fanart>http://mtv-it.mtvnimages.com/tv_show/ex-on-the-beach-7_942.jpg</fanart>
 <thumbnail>http://nowwatchtvlive.cc/wp-content/uploads/2014/05/Ex-On-The-Beach.jpg</thumbnail>
 <info></info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20MTV%20SHOW/Ex%20On%20The%20Beach</externallink>
+<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;mode=70&amp;url=http%3a%2f%2fbit.ly%2f2zeV44c</jsonrpc>
 </item>
 
 <item>
@@ -42,7 +42,7 @@
 <fanart>http://www.mtv.com.au/sites/default/files/styles/image-w-1200-h-600-scale-crop/public/mtv_au/articles/2016/07/08/original_geordies.jpg</fanart>
 <thumbnail>http://www.mtv.co.uk/sites/default/files/styles/vimn_image_embed/public/migrated/2011/04/20/gs_logo.jpg</thumbnail>
 <info></info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20MTV%20SHOW/Geordie%20Shore</externallink>
+<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;mode=70&amp;url=http%3a%2f%2fbit.ly%2f2h4kCG8</jsonrpc>
 </item>
 
 <item>
@@ -51,7 +51,7 @@
 <fanart>http://mtv-it.mtvnimages.com/tv_show/just-tattoo-of-us_942.jpg</fanart>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/9/9d/Just_Tattoo_Of_Us_Title_Cards.jpg</thumbnail>
 <info></info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20MTV%20SHOW/Just%20Tattoo%20Of%20Us</externallink>
+<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;mode=70&amp;url=http%3a%2f%2fbit.ly%2f2y3xELa</jsonrpc>
 </item>
 
 <item>
@@ -60,7 +60,7 @@
 <fanart>http://mtv-it.mtvnimages.com/tv_show/spring-break-with-grandad_942.jpg</fanart>
 <thumbnail>http://th.tvblog.it/TbUTccFwzG7xIk5i1DHAeF3qTmc=/fit-in/655x437/http://media.tvblog.it/f/f71/spring-break-with-grandad.jpg</thumbnail>
 <info></info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20MTV%20SHOW/Spring%20Break%20With%20Grandad</externallink>
+<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;mode=70&amp;url=http%3a%2f%2fbit.ly%2f2h3uNed</jsonrpc>
 </item>
 
 <item>
@@ -69,5 +69,5 @@
 <fanart>http://www.panorama.it/wp-content/uploads/2016/04/super_shore.jpg</fanart>
 <thumbnail>https://www.trackster.net/banners/posters/306875-2.jpg</thumbnail>
 <info></info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/ELENCO%20MTV%20SHOW/Super%20Shore</externallink>
+<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;mode=70&amp;url=http%3a%2f%2fbit.ly%2f2y1ohvl</jsonrpc>
 </item>
