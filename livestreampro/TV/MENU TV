@@ -5,6 +5,11 @@
 </item>
 
 <item>
+<title>[B][COLOR white]CERCA CANALE TV[/COLOR][/B]</title> 
+<link>http://ignorame</link>
+<jsonrpc>plugin://plugin.video.fulviolive/?mode=624</jsonrpc></item>
+
+<item>
 <title>[COLOR aqua] Digitale Terrestre [/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>https://blog.nicolaselenu.com/wp-content/uploads/scaricare-video-mediaset-it-rai-tv-salvare-programmi-canale5-italia1-rete4-digitale-terrestre.jpg</thumbnail>
