@@ -1,0 +1,35 @@
+						<item id="1">
+						    <label>TV</label>
+							<onclick>ActivateWindow(10025,&quot;plugin://plugin.video.live.streamspro/?fanart=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fcom.semperpax.spmc16%2ffiles%2f.spmc%2faddons%2fplugin.video.live.streamspro%2ffanart.jpg&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5d-%3e%20%20%5bCOLOR%20blue%5d%20TV%20%20%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fskieset%2fskiesetrepo%2fmaster%2flivestreampro%2fTV%2fMENU%2520TV&quot;,return)</onclick>
+							<thumb>icons/sidemenu/tv.png</thumb>
+						</item>
+						<item id="2">
+						    <label>SERIE TV</label>
+							<onclick>ActivateWindow(10025,&quot;plugin://plugin.video.live.streamspro/?fanart=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fcom.semperpax.spmc16%2ffiles%2f.spmc%2faddons%2fplugin.video.live.streamspro%2ffanart.jpg&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5d-%3e%20%5bCOLOR%20blue%5d%20SERIE%20TV%20%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fskieset%2fskiesetrepo%2fmaster%2flivestreampro%2fSERIE%2520TV%2fSERIE%2520TV%2520MENU&quot;,return)</onclick>
+							<thumb>icons/sidemenu/videos.png</thumb>
+						</item>						
+						<item id="3">
+						    <label>FILM</label>
+							<onclick>ActivateWindow(10025,&quot;plugin://plugin.video.live.streamspro/?fanart=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fcom.semperpax.spmc16%2ffiles%2f.spmc%2faddons%2fplugin.video.live.streamspro%2ffanart.jpg&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5d-%3e%20%20%5bCOLOR%20blue%5d%20FILM%20%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fskieset%2fskiesetrepo%2fmaster%2flivestreampro%2fFILM%2fFILM%2520MENU&quot;,return)</onclick>
+							<thumb>icons/sidemenu/movies.png</thumb>
+						</item>
+						<item id="4">
+						    <label>PROGRAMMI TV</label>
+							<onclick>ActivateWindow(10025,&quot;plugin://plugin.video.live.streamspro/?fanart=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fcom.semperpax.spmc16%2ffiles%2f.spmc%2faddons%2fplugin.video.live.streamspro%2ffanart.jpg&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5d-%3e%20%20%5bCOLOR%20blue%5d%20PROGRAMMI%20TV%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fskieset%2fskiesetrepo%2fmaster%2flivestreampro%2fPROGRAMMITV%2fMENU%2520PROGRAMMI%2520TV&quot;,return)</onclick>
+							<thumb>icons/sidemenu/tv.png</thumb>
+						</item>
+						<item id="5">
+						    <label>ADDON IPTV</label>
+							<onclick>ActivateWindow(10025,&quot;plugin://plugin.video.live.streamspro/?fanart=%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fcom.semperpax.spmc16%2ffiles%2f.spmc%2faddons%2fplugin.video.live.streamspro%2ffanart.jpg&amp;mode=1&amp;name=%5bB%5d%5bCOLOR%20white%5d-%3e%20%20%5bCOLOR%20blue%5d%20ADDON%20ESTERNI%20%5b%2fCOLOR%5d%5b%2fB%5d&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fskieset%2fskiesetrepo%2fmaster%2flivestreampro%2fESTERNI&quot;,return)</onclick>
+							<thumb>icons/sidemenu/addons.png</thumb>
+						</item>
+						<item id="6">
+						    <label>[COLOR red]TEST 1[/COLOR]</label>
+							<onclick>ActivateWindow(10025,&quot;plugin://plugin.video.live.streamspro/?fanart=%2fUsers%2felsamlmlml%2fLibrary%2fApplication%20Support%2fKodi%2faddons%2fplugin.video.live.streamspro%2ffanart.jpg&amp;mode=1&amp;name=test&amp;url=%2fUsers%2felsamlmlml%2fDesktop%2ftest.xml&quot;,return)</onclick>
+							<thumb>icons/sidemenu/disc.png</thumb>
+						</item>
+						<item id="7">
+						    <label>[COLOR red]TEST 2[/COLOR]</label>
+							<onclick>ActivateWindow(10025,&quot;plugin://plugin.video.kodilivetv/?description&amp;iconimage=http%3a%2f%2ffindicons.com%2ffiles%2ficons%2f1331%2fmatrix_rebooted%2f128%2fgeneric_folder_alt.png&amp;mode=70&amp;name=%5bCOLOR%20cyan%5d%5bB%5dtest%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=%2fUsers%2felsamlmlml%2fDesktop%2ftest.xml&quot;,return)</onclick>
+							<thumb>icons/sidemenu/disc.png</thumb>
+						</item>
