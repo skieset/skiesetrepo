@@ -70,8 +70,7 @@
 </info>
 <fanart>https://i.cdn.tbs.com/assets/images/family-guy-628x353.jpg</fanart>
 <thumbnail>http://thetvdb.com/banners/posters/75978-17.jpg</thumbnail>
-<info></info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/ELENCO%20SERIE%20TV/I%20Griffin</externallink>
+<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;mode=70&amp;url=http%3a%2f%2fbit.ly%2f2AsVvrx</jsonrpc>
 </item>
 
 <item>
