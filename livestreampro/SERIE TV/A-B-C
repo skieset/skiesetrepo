@@ -4,7 +4,7 @@
 <fanart>http://www.serialminds.com/wp-content/uploads/2016/06/2-broke-girls.jpg</fanart>
 <thumbnail>http://arablionz.tv/wp-content/uploads/2016/10/2_broke_girls_season3_keyart.jpg</thumbnail>
 <info>Una comedy al femminile con protagoniste Max e Caroline, due ragazze che hanno ben poco in comune, tranne il fatto di essere a corto di soldi e con un disperato bisogno di lavorare. Tuttavia dopo aver trascorso un po' di tempo a lavorare insieme alla tavola calda si accorgono di avere un sogno in comune, la prospettiva di aprire una pasticceria.</info>
-<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;mode=70&amp;url=http%3a%2f%2fbit.ly%2f2iyAH7G</jsonrpc>
+<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;mode=70&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fskieset%2fskiesetrepo%2fmaster%2flivestreampro%2fSERIE%2520TV%2fELENCO%2520SERIE%2520TV%2f2%2520Broke%2520Girls</jsonrpc>
 </item>
 
 <item>
@@ -13,7 +13,7 @@
 <fanart>http://www.ilgiornale.it/sites/default/files/foto/2016/06/14/1465897398-4mkcbn8w1-alf.jpg</fanart>
 <thumbnail>http://www.kinomania.ru/images/posters/5403.jpg</thumbnail>
 <info>Un alieno dal pianeta Melmac si schianta sul garage della famiglia Tanner che lo accoglie e lo nasconde finchè i lavori di riparazione sulla sua nave spaziale non saranno ultimati.</info>
-<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;mode=70&amp;url=http%3a%2f%2fbit.ly%2f2yEOTTn</jsonrpc>
+<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;mode=70&amp;url=https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/ELENCO%20SERIE%20TV/Alf</jsonrpc>
 </item>
 
 <item>
@@ -67,7 +67,7 @@
 <fanart>http://static.televisionando.it/televisionando/fotogallery/845X0/90527/arrow-2.jpg</fanart>
 <thumbnail>https://serietvonline.com/wp-content/uploads/2017/05/arrow.jpg</thumbnail>
 <info>Action series ispirata ai comics della DC: la serie segue le avventure di Oliver Queen, miliardario dal passato oscuro che dopo un tragico naufragio che cambierà per sempre la sua vita, decide di assumere l'identità di un eroe mascherato che di notte, insieme al supporto dei suoi fidati amici e collaboratori, combatte la criminalità di Starling City.</info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/ELENCO%20SERIE%20TV/Arrow</externallink>
+<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;mode=70&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fskieset%2fskiesetrepo%2fmaster%2flivestreampro%2fSERIE%2520TV%2fELENCO%2520SERIE%2520TV%2fArrow</jsonrpc>
 </item>
 
 <item>
@@ -177,15 +177,6 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4NDA4MDcyOV5BMl5BanBnXkFtZTgwMjgwNjMwMDI@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
 <info>Action drama che segue le vicende quotidiane di un gruppo di donne e di uomini che lavorano alla Caserma 51 del Dipartimento dei vigili del fuoco di Chicago. Ogni giorni affrontano le situazioni più disparate, affrontando con coraggio e devozione i problemi da superare, grazie anche all'affiatamento dei vari membri della squadra capitanata dal Capitano Bolden e dai Tenenti Casey e Severide.</info>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/ELENCO%20SERIE%20TV/Chicago%20Fire</externallink>
-</item>
-
-<item>
-<title>[B][COLOR white] -> [COLOR blue] Cleveland Show  [/COLOR][/B]</title>
-<link>http://ignorame</link>
-<fanart>https://vignette.wikia.nocookie.net/cleveland/images/3/3c/ClevelandPilot6.jpg</fanart>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BN2IxMzk2YTEtOGFhYS00MTE3LWI4N2QtYWFlODIzZjM1MjNlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR3,0,182,268_AL_.jpg</thumbnail>
-<info>Spin off de I Griffin in cui il vicino di casa della famiglia va a vivere con il figlio Cleveland Jr, la fidanzata delle superiori ed i suoi due figli a Stoolbend in Virginia.</info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/ELENCO%20SERIE%20TV/Cleveland%20Show</externallink>
 </item>
 
 <item>
