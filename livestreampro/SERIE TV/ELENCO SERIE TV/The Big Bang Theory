@@ -1,500 +1,405 @@
-<item><title>-[THE BIG BANG THEORY S1 ]-</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26406.mkv</link></item>
-<item><title>The Big Bang Theory 01x01 Pilot</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26409.mkv</link></item>
-<item><title>The Big Bang Theory 01x02 L ipotesi del cervellone</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26410.mkv</link></item>
-<item><title>The Big Bang Theory 01x03 Il Corollario Del Gatto</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26411.mkv</link></item>
-<item><title>The Big Bang Theory 01x04 L effetto Del Pesce Fluorescente</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26547.mkv</link></item>
-<item><title>The Big Bang Theory 01x05 Il Postulato Dell Hamburger</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26413.mkv</link></item>
-<item><title>The Big Bang Theory 01x06 Il Paradigma Della Terra Di Mezzo</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26414.mkv</link></item>
-<item><title>The Big Bang Theory 01x07 Il Paradosso Del Rolo Al Vapore</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26415.mkv</link></item>
-<item><title>The Big Bang Theory 01x08 L Esperimento Del Cocktail</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26416.mkv</link></item>
-<item><title>The Big Bang Theory 01x09 La Polarizzazione Di Cooper E Hofstadter</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26417.mkv</link></item>
-<item><title>The Big Bang Theory 01x10 La Decadenza Di Loobenfeld</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26418.mkv</link></item>
-<item><title>The Big Bang Theory 01x11 L Anomalia Della Pastella Per Frittelle</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26419.mkv</link></item>
-<item><title>The Big Bang Theory 01x12 La Citta Replicata</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26420.mkv</link></item>
-<item><title>The Big Bang Theory 01x13 La Congettura Della Bat Biscottiera</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26421.mkv</link></item>
-<item><title>The Big Bang Theory 01x14 La Macchina Del Tempo</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26422.mkv</link></item>
-<item><title>The Big Bang Theory 01x15 Il Fattore Sorella Gemella</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26423.mkv</link></item>
-<item><title>The Big Bang Theory 01x16 La Reazione Alle Arachidi</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26424.mkv</link></item>
-<item><title>The Big Bang Theory 01x17 Il Fattore Mandarino</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26425.mkv</link></item>
+<item>
+<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 1[/COLOR][/B]</title>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+       <title> [makelist.param3]</title>
+       <link>$doregex[getUrl]</link>
+       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-1-ita-by-mak086-87532/</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-1-ita-by-mak086-87532/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
-<item><title> </title><link>ignorame</link></item>
-<item><title>-[THE BIG BANG THEORY S2 ]-</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26407.mkv</link></item>
-<item><title>The Big Bang Theory 02x01 Il Paradigma Del Pesce Guasto</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26426.mkv</link></item>
-<item><title>The Big Bang Theory 02x02 La Topologia Del Sospensorio</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26427.mkv</link></item>
-<item><title>The Big Bang Theory 02x03 La Sublimazione Barbarica</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26428.mkv</link></item>
-<item><title>The Big Bang Theory 02x04 L Equivalenza Del Grifone</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26429.mkv</link></item>
-<item><title>The Big Bang Theory 02x05 L Alternativa Di Euclide</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26430.mkv</link></item>
-<item><title>The Big Bang Theory 02x06 Il Teorema Di Cooper Nowitzki</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26431.mkv</link></item>
-<item><title>The Big Bang Theory 02x07 La Polarizzazione Della Pignatta</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26432.mkv</link></item>
-<item><title>The Big Bang Theory 02x08 L Espansione Di Lizard E Spock</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26433.mkv</link></item>
-<item><title>The Big Bang Theory 02x09 La Triangolazione Dell Asparago</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26434.mkv</link></item>
-<item><title>The Big Bang Theory 02x10 La Sciarada Di Vartabedian</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26435.mkv</link></item>
-<item><title>The Big Bang Theory 02x11 L Ipotesi Dei Sali Da Bagno</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26436.mkv</link></item>
-<item><title>The Big Bang Theory 02x12 L Instabilita Del Robot Killer</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26437.mkv</link></item>
-<item><title>The Big Bang Theory 02x13 L Algoritmo Dell Amicizia</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26438.mkv</link></item>
-<item><title>The Big Bang Theory 02x14 La Permeabilita Della Finanza</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26439.mkv</link></item>
-<item><title>The Big Bang Theory 02x15 La Capacita Materna</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26440.mkv</link></item>
-<item><title>The Big Bang Theory 02x16 La Saturazione Del Cuscino</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26441.mkv</link></item>
-<item><title>The Big Bang Theory 02x17 Il Binario Del Terminator</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26442.mkv</link></item>
-<item><title>The Big Bang Theory 02x18 L Aggregazione Dei Fermacapelli</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26443.mkv</link></item>
-<item><title>The Big Bang Theory 02x19 La Giustapposizione Della Nuova Inquilina</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26444.mkv</link></item>
-<item><title>The Big Bang Theory 02x20 L Isotopo Di Hofstadter</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26445.mkv</link></item>
-<item><title>The Big Bang Theory 02x21 La Normalizzazione Di Las Vegas</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26446.mkv</link></item>
-<item><title>The Big Bang Theory 02x22 La Turbolenza Del Polpettone</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26447.mkv</link></item>
-<item><title>The Big Bang Theory 02x23 La Spedizione Monopolare</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26448.mkv</link></item>
 
-<item><title> </title><link>ignorame</link></item>
-<item><title>-[THE BIG BANG THEORY S3 ]-</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26408.mkv</link></item>
-<item><title>The Big Bang Theory 03x01</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26449.mkv</link></item>
-<item><title>The Big Bang Theory 03x02</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26450.mkv</link></item>
-<item><title>The Big Bang Theory 03x03</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26451.mkv</link></item>
-<item><title>The Big Bang Theory 03x04</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26452.mkv</link></item>
-<item><title>The Big Bang Theory 03x05</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26453.mkv</link></item>
-<item><title>The Big Bang Theory 03x06</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26454.mkv</link></item>
-<item><title>The Big Bang Theory 03x07</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26455.mkv</link></item>
-<item><title>The Big Bang Theory 03x08</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26456.mkv</link></item>
-<item><title>The Big Bang Theory 03x09</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26457.mkv</link></item>
-<item><title>The Big Bang Theory 03x10</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26458.mkv</link></item>
-<item><title>The Big Bang Theory 03x11</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26459.mkv</link></item>
-<item><title>The Big Bang Theory 03x12</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26460.mkv</link></item>
-<item><title>The Big Bang Theory 03x13</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26461.mkv</link></item>
-<item><title>The Big Bang Theory 03x14</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26462.mkv</link></item>
-<item><title>The Big Bang Theory 03x15</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26463.mkv</link></item>
-<item><title>The Big Bang Theory 03x16</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26464.mkv</link></item>
-<item><title>The Big Bang Theory 03x17</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26465.mkv</link></item>
-<item><title>The Big Bang Theory 03x18</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26466.mkv</link></item>
-<item><title>The Big Bang Theory 03x19</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26467.mkv</link></item>
-<item><title>The Big Bang Theory 03x20</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26468.mkv</link></item>
-<item><title>The Big Bang Theory 03x21</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26469.mkv</link></item>
-<item><title>The Big Bang Theory 03x22</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26470.mkv</link></item>
-<item><title>The Big Bang Theory 03x23</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26471.mkv</link></item>
+**************************************************
 
-<item><title> </title><link>ignorame</link></item>
-<item><title>-[THE BIG BANG THEORY S4 ]-</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26472.mkv</link></item>
-<item><title>The Big Bang Theory 04x01</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26475.mkv</link></item>
-<item><title>The Big Bang Theory 04x02</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26476.mkv</link></item>
-<item><title>The Big Bang Theory 04x03</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26477.mkv</link></item>
-<item><title>The Big Bang Theory 04x04</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26478.mkv</link></item>
-<item><title>The Big Bang Theory 04x05</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26479.mkv</link></item>
-<item><title>The Big Bang Theory 04x06</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26480.mkv</link></item>
-<item><title>The Big Bang Theory 04x07</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26481.mkv</link></item>
-<item><title>The Big Bang Theory 04x08</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26482.mkv</link></item>
-<item><title>The Big Bang Theory 04x09</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26483.mkv</link></item>
-<item><title>The Big Bang Theory 04x10</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26484.mkv</link></item>
-<item><title>The Big Bang Theory 04x11</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26485.mkv</link></item>
-<item><title>The Big Bang Theory 04x12</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26486.mkv</link></item>
-<item><title>The Big Bang Theory 04x13</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26487.mkv</link></item>
-<item><title>The Big Bang Theory 04x14</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26488.mkv</link></item>
-<item><title>The Big Bang Theory 04x15</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26489.mkv</link></item>
-<item><title>The Big Bang Theory 04x16</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26490.mkv</link></item>
-<item><title>The Big Bang Theory 04x17</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26491.mkv</link></item>
-<item><title>The Big Bang Theory 04x18</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26492.mkv</link></item>
-<item><title>The Big Bang Theory 04x19</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26493.mkv</link></item>
-<item><title>The Big Bang Theory 04x20</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26494.mkv</link></item>
-<item><title>The Big Bang Theory 04x21</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26495.mkv</link></item>
-<item><title>The Big Bang Theory 04x22</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26496.mkv</link></item>
-<item><title>The Big Bang Theory 04x23</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26497.mkv</link></item>
-<item><title>The Big Bang Theory 04x24</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26498.mkv</link></item>
 
-<item><title> </title><link>ignorame</link></item>
-<item><title>-[THE BIG BANG THEORY S5 ]-</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26473.mkv</link></item>
-<item><title>The Big Bang Theory 05x01</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26499.mkv</link></item>
-<item><title>The Big Bang Theory 05x02</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26500.mkv</link></item>
-<item><title>The Big Bang Theory 05x03</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26501.mkv</link></item>
-<item><title>The Big Bang Theory 05x04</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26502.mkv</link></item>
-<item><title>The Big Bang Theory 05x05</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26503.mkv</link></item>
-<item><title>The Big Bang Theory 05x06</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26504.mkv</link></item>
-<item><title>The Big Bang Theory 05x07</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26505.mkv</link></item>
-<item><title>The Big Bang Theory 05x08</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26506.mkv</link></item>
-<item><title>The Big Bang Theory 05x09</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26507.mkv</link></item>
-<item><title>The Big Bang Theory 05x10</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26508.mkv</link></item>
-<item><title>The Big Bang Theory 05x11</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26509.mkv</link></item>
-<item><title>The Big Bang Theory 05x12</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26510.mkv</link></item>
-<item><title>The Big Bang Theory 05x13</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26511.mkv</link></item>
-<item><title>The Big Bang Theory 05x14</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26512.mkv</link></item>
-<item><title>The Big Bang Theory 05x15</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26513.mkv</link></item>
-<item><title>The Big Bang Theory 05x16</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26514.mkv</link></item>
-<item><title>The Big Bang Theory 05x17</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26515.mkv</link></item>
-<item><title>The Big Bang Theory 05x18</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26516.mkv</link></item>
-<item><title>The Big Bang Theory 05x19</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26517.mkv</link></item>
-<item><title>The Big Bang Theory 05x20</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26518.mkv</link></item>
-<item><title>The Big Bang Theory 05x21</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26519.mkv</link></item>
-<item><title>The Big Bang Theory 05x22</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26520.mkv</link></item>
-<item><title>The Big Bang Theory 05x23</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26521.mkv</link></item>
-<item><title>The Big Bang Theory 05x24</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26522.mkv</link></item>
 
-<item><title> </title><link>ignorame</link></item>
-<item><title>-[THE BIG BANG THEORY S6 ]-</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26474.mkv</link></item>
-<item><title>The Big Bang Theory 06x01</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26523.mkv</link></item>
-<item><title>The Big Bang Theory 06x02</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26524.mkv</link></item>
-<item><title>The Big Bang Theory 06x03</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26525.mkv</link></item>
-<item><title>The Big Bang Theory 06x04</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26526.mkv</link></item>
-<item><title>The Big Bang Theory 06x05</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26527.mkv</link></item>
-<item><title>The Big Bang Theory 06x06</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26528.mkv</link></item>
-<item><title>The Big Bang Theory 06x07</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26529.mkv</link></item>
-<item><title>The Big Bang Theory 06x08</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26530.mkv</link></item>
-<item><title>The Big Bang Theory 06x09</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26531.mkv</link></item>
-<item><title>The Big Bang Theory 06x10</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26532.mkv</link></item>
-<item><title>The Big Bang Theory 06x11</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26533.mkv</link></item>
-<item><title>The Big Bang Theory 06x12</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26534.mkv</link></item>
-<item><title>The Big Bang Theory 06x13</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26535.mkv</link></item>
-<item><title>The Big Bang Theory 06x14</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26536.mkv</link></item>
-<item><title>The Big Bang Theory 06x15</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26537.mkv</link></item>
-<item><title>The Big Bang Theory 06x16</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26538.mkv</link></item>
-<item><title>The Big Bang Theory 06x17</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26539.mkv</link></item>
-<item><title>The Big Bang Theory 06x18</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26540.mkv</link></item>
-<item><title>The Big Bang Theory 06x19</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26541.mkv</link></item>
-<item><title>The Big Bang Theory 06x20</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26542.mkv</link></item>
-<item><title>The Big Bang Theory 06x21</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26543.mkv</link></item>
-<item><title>The Big Bang Theory 06x22</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26544.mkv</link></item>
-<item><title>The Big Bang Theory 06x23</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26545.mkv</link></item>
-<item><title>The Big Bang Theory 06x24</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26546.mkv</link></item>
+<item>
+<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 2[/COLOR][/B]</title>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+       <title> [makelist.param3]</title>
+       <link>$doregex[getUrl]</link>
+       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/MAK086/big-bang-theory-st-2-ita-by-mak086-86022/</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/MAK086/big-bang-theory-st-2-ita-by-mak086-86022/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
-<item><title> </title><link>ignorame</link></item>
-<item><title>-[THE BIG BANG THEORY S7 ]-</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26548.mkv</link></item>
-<item><title>The Big Bang Theory 07x01 L insufficienza da Hofstadter</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26551.mkv</link></item>
-<item><title>The Big Bang Theory 07x02 La Verifica Dell Inganno</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26552.mkv</link></item>
-<item><title>The Big Bang Theory 07x03 The Scavenger Vortex</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26553.mkv</link></item>
-<item><title>The Big Bang Theory 07x04 The Raiders Minimization</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26554.mkv</link></item>
-<item><title>The Big Bang Theory 07x05 La prossimita' del posto di lavoro</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26555.mkv</link></item>
-<item><title>The Big Bang Theory 07x06 La risonanza delle romanticherie</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26556.mkv</link></item>
-<item><title>The Big Bang Theory 07x07 La dimissione del divulgatore</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26557.mkv</link></item>
-<item><title>The Big Bang Theory 07x08 La simulazione del prurito neuronale</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26558.mkv</link></item>
-<item><title>The Big Bang Theory 07x09 La separazione del Ringraziamento</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26559.mkv</link></item>
-<item><title>The Big Bang Theory 07x10 La dissipazione della scoperta</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26560.mkv</link></item>
-<item><title>The Big Bang Theory 07x11 L' estrazione di Cooper</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26561.mkv</link></item>
-<item><title>The Big Bang Theory 07x12 La ramificazione dell' esitazione</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26562.mkv</link></item>
-<item><title>The Big Bang Theory 07x13 La ricalibrazione occupazionale</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26563.mkv</link></item>
-<item><title>The Big Bang Theory 07x14 L incognita della convention</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26564.mkv</link></item>
-<item><title>The Big Bang Theory 07x15 La manipolazione della locomotiva</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26565.mkv</link></item>
-<item><title>The Big Bang Theory 07x16 La polarizzazione del tavolo</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26566.mkv</link></item>
-<item><title>The Big Bang Theory 07x17 La turbolenza dell' amicizia</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26567.mkv</link></item>
-<item><title>The Big Bang Theory 07x18 L' osservazione della madre</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26568.mkv</link></item>
-<item><title>The Big Bang Theory 07x19 L' amalgamazione dell' incertezza</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26569.mkv</link></item>
-<item><title>The Big Bang Theory 07x20 La disgiunzione dell' amicizia</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26570.mkv</link></item>
-<item><title>The Big Bang Theory 07x21 The Anything Can Happen Recurrence</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26571.mkv</link></item>
-<item><title>The Big Bang Theory 07x22 The Protron Transmogrification</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26572.mkv</link></item>
-<item><title>The Big Bang Theory 07x23 The Gorilla Dissolution</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26573.mkv</link></item>
-<item><title>The Big Bang Theory 07x24 The Status Quo</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26574.mkv</link></item>
+*********************************************************
 
-<item><title> </title><link>ignorame</link></item>
-<item><title>-[THE BIG BANG THEORY S8 ]-</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26549.mkv</link></item>
-<item><title>The Big Bang Theory 08x01 L interruzione della locomozione</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26575.mkv</link></item>
-<item><title>The Big Bang Theory 08x02 La soluzione del professore associato</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26576.mkv</link></item>
-<item><title>The Big Bang Theory 08x03 L insufficienza del primo lancio</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26577.mkv</link></item>
-<item><title>The Big Bang Theory 08x04 La riverberazione della sveltina</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26578.mkv</link></item>
-<item><title>The Big Bang Theory 08x05 L attuazione della concentrazione</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26579.mkv</link></item>
-<item><title>The Big Bang Theory 08x06 L Approssimazione Della Spedizione</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26580.mkv</link></item>
-<item><title>The Big Bang Theory 08x07 La concitazione del fraintendimento</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26581.mkv</link></item>
-<item><title>The Big Bang Theory 08x08 L equivalenza del ballo</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26582.mkv</link></item>
-<item><title>The Big Bang Theory 08x09 La Deviazione Del Setto</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26583.mkv</link></item>
-<item><title>The Big Bang Theory 08x10 Il Riflesso Dello Champagne</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26584.mkv</link></item>
-<item><title>The Big Bang Theory 08x11 L Infiltrazione Della Camera Bianca</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26585.mkv</link></item>
-<item><title>The Big Bang Theory 08x12 La Disintegrazione della Sonda</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26586.mkv</link></item>
-<item><title>The Big Bang Theory 08x13 l ottimizzazione Dell Ansia</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26587.mkv</link></item>
-<item><title>The Big Bang Theory 08x14 La manifestazione DelTroll</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26588.mkv</link></item>
-<item><title>The Big Bang Theory 08x15 La Rigenerazione Del Negozio Di Fumetti</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26589.mkv</link></item>
-<item><title>The Big Bang Theory 08x16 L Accellerazione Dell Intimita</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26590.mkv</link></item>
-<item><title>The Big Bang Theory 08x17 Il Modulo Della Colonizzazione</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26591.mkv</link></item>
-<item><title>The Big Bang Theory 08x18 La Termalizzazione Dell Escluso</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26592.mkv</link></item>
-<item><title>The Big Bang Theory 08x19 La Violazione Dello Skywalker</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26593.mkv</link></item>
-<item><title>The Big Bang Theory 08x20 L Implementazione Del Fortino</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26594.mkv</link></item>
-<item><title>The Big Bang Theory 08x21 Il Deterioramento Della Comunicazione</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26595.mkv</link></item>
-<item><title>The Big Bang Theory 08x22 La Trasmissione Del Diplomato</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26596.mkv</link></item>
-<item><title>The Big Bang Theory 08x23 La Combustione Materna</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26597.mkv</link></item>
-<item><title>The Big Bang Theory 08x24 La Determinazione Dell Impegno</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26598.mkv</link></item>
 
-<item><title> </title><link>ignorame</link></item>
-<item><title>-[THE BIG BANG THEORY S9 ]-</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26550.mkv</link></item>
-<item><title>The Big Bang Theory 9x01 Il Monumentum Matrimoniale</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26599.mkv</link></item>
-<item><title>The Big Bang Theory 9x02 L Oscillazione Della Separazione</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26600.mkv</link></item>
-<item><title>The Big Bang Theory 9x03 La Corrosione Dell Addio Al Celibato</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26601.mkv</link></item>
-<item><title>The Big Bang Theory 9x04 L Approssimazione Del 2003</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26602.mkv</link></item>
-<item><title>The Big Bang Theory 9x05 L Applicazione Della Perspirazione</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26603.mkv</link></item>
-<item><title>The Big Bang Theory 9x06 L Insufficienza Dell Elio</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26604.mkv</link></item>
-<item><title>The Big Bang Theory 9x07 La Risonanza Di Spock</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26605.mkv</link></item>
-<item><title>The Big Bang Theory 9x08 L Osservazione Del Misterioso Appuntamento</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26606.mkv</link></item>
-<item><title>The Big Bang Theory 9x09 La Permutazione Platonica</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26607.mkv</link></item>
-<item><title>The Big Bang Theory 9x10 Il Riverbero Del Motivetto</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26608.mkv</link></item>
-<item><title>The Big Bang Theory 9x11 L Eccitazione Della Prima</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26609.mkv</link></item>
-<item><title>The Big Bang Theory 9x12 La Sublimazione Della Chiamata Di Vendita</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26610.mkv</link></item>
-<item><title>The Big Bang Theory 9x13 L Ottimizzazione Dell Empatia</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26611.mkv</link></item>
-<item><title>The Big Bang Theory 9x14 La Materializzazione Della Nonnina</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26612.mkv</link></item>
-<item><title>The Big Bang Theory 9x15 La Sommersione Di San Valentino</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26613.mkv</link></item>
-<item><title>The Big Bang Theory 9x16 La Reazione Positivo Negativa</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26614.mkv</link></item>
-<item><title>The Big Bang Theory 9x17 La Sperimentazione Del Genetliaco</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26615.mkv</link></item>
-<item><title>The Big Bang Theory 9x18 Il Deterioramento Dell Applicazione</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26616.mkv</link></item>
-<item><title>The Big Bang Theory 9x19 La Diversione Della Saldatura</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26617.mkv</link></item>
-<item><title>The Big Bang Theory 9x20 La Precipitazione Dell Orso</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26618.mkv</link></item>
-<item><title>The Big Bang Theory 9x21 La Combustione Della Visione Collettiva</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26619.mkv</link></item>
-<item><title>The Big Bang Theory 9x22 La Soluzione Del Sostituto In Coda</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26620.mkv</link></item>
-<item><title>The Big Bang Theory 9x23 La Soluzione Del Sostituto In Coda</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26621.mkv</link></item>
-<item><title>The Big Bang Theory 9x24 La Convergenza Della Convergenza</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/26622.mkv</link></item>
+<item>
+<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 3[/COLOR][/B]</title>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+       <title> [makelist.param3]</title>
+       <link>$doregex[getUrl]</link>
+       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st3-ita-by-mak086-87515/</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st3-ita-by-mak086-87515/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
-<item><title> </title><link>ignorame</link></item>
-<item><title>-[THE BIG BANG THEORY S10 ]-</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/29470.mkv</link></item>
-<item><title>The Big Bang Theory S10E01 La Congettura Coniugale</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/29471.mkv</link></item>
-<item><title>The Big Bang Theory S10E02 La Miniaturizzazione Militare</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/29472.mkv</link></item>
-<item><title>The Big Bang Theory S10E03 La Trascendenza Della Dipendenza 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/30152.mkv</link></item>
-<item><title>The Big Bang Theory S10 E04 La Coabitazione Sperimentale 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/30651.mkv</link></item>
-<item><title>The Big Bang Theory S10E05 La Contaminazione Della Vasca Da Bagno 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/31003.mkv</link></item>
-<item><title>The Big Bang Theory S10E06 La Catalisi Del Calcio Fetale 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/31004.mkv</link></item>
-<item><title>The Big Bang Theory S10E07 L Elasticita Della Veridicita 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/31005.mkv</link></item>
-<item><title>The Big Bang Theory S10E08 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/31307.mkv</link></item>
-<item><title>The Big Bang Theory S10E09 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/31681.mkv</link></item>
-<item><title>The Big Bang Theory S10E10 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/31878.mkv</link></item>
-<item><title>The Big Bang Theory S10E11 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/33851.mkv</link></item>
-<item><title>The Big Bang Theory S10E12 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/33852.mkv</link></item>
-<item><title>The Big Bang Theory S10E13 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/33853.mkv</link></item>
-<item><title>The Big Bang Theory S10E14 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/36195.mkv</link></item>
-<item><title>The Big Bang Theory S10E15 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/36313.mkv</link></item>
-<item><title>The Big Bang Theory S10E16 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/36748.mkv</link></item>
-<item><title>The Big Bang Theory S10E17 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/38454.mkv</link></item>
-<item><title>The Big Bang Theory S10E18 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/38455.mkv</link></item>
-<item><title>The Big Bang Theory S10E19 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/38953.mkv</link></item>
-<item><title>The Big Bang Theory S10E20 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/38930.mkv</link></item>
-<item><title>The Big Bang Theory S10E21 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/39148.mkv</link></item>
-<item><title>The Big Bang Theory S10E22 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/39246.mkv</link></item>
-<item><title>The Big Bang Theory S10E23 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/39362.mkv</link></item>
-<item><title>The Big Bang Theory S10E24 720p</title>
-<link>http://vod.telesuper.tv:24000/movie/ho6aZ0T6AR/Odn2f0DotH/39719.mkv</link></item>
+*******************************************************************************************************
+
+
+<item>
+<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 4[/COLOR][/B]</title>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+       <title> [makelist.param3]</title>
+       <link>$doregex[getUrl]</link>
+       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-4-ita-by-mak086-86077/</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-4-ita-by-mak086-86077/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+**************************************************************************************
+
+<item>
+<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 5[/COLOR][/B]</title>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+       <title> [makelist.param3]</title>
+       <link>$doregex[getUrl]</link>
+       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-5-ita-by-mak086-86331/</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-5-ita-by-mak086-86331/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+**************************************************
+
+<item>
+<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 6[/COLOR][/B]</title>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+       <title> [makelist.param3]</title>
+       <link>$doregex[getUrl]</link>
+       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/MAK086/big-bang-theory-st-6-ita-by-mak086-86020/</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/MAK086/big-bang-theory-st-6-ita-by-mak086-86020/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+***************************************************************************
+
+
+<item>
+<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 7[/COLOR][/B]</title>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+       <title> [makelist.param3]</title>
+       <link>$doregex[getUrl]</link>
+       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-7-ita-by-mak086-87408/</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-7-ita-by-mak086-87408/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+********************************************************************
+
+<item>
+<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 8[/COLOR][/B]</title>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+       <title> [makelist.param3]</title>
+       <link>$doregex[getUrl]</link>
+       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-8-ita-by-mak086-86351/</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 9[/COLOR][/B]</title>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+       <title> [makelist.param3]</title>
+       <link>$doregex[getUrl]</link>
+       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st9-ita-by-mak086-86516/</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st9-ita-by-mak086-86516/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<item>
+<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 10[/COLOR][/B]</title>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+       <title> [makelist.param3]</title>
+       <link>$doregex[getUrl]</link>
+       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
+<page>/</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>/</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+</item>
