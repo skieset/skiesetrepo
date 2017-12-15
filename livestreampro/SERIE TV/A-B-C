@@ -180,6 +180,15 @@
 </item>
 
 <item>
+<title>[B][COLOR white] -> [COLOR blue] Chicago PD [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<fanart>http://img.mediaset.it/bin/93.$plit/C_116_articolo_12583_articolo.jpg</fanart>
+<thumbnail>https://movieplayer.net-cdn.it/t/images/2017/09/11/chicago_pd_ver2_jpg_191x283_crop_q85.jpg</thumbnail>
+<info>L'action drama racconta le vicende del Dipartimento di Polizia di Chicago seguendo due team diversi: l'Uniformed Patrol Cops e l'Intelligent Unit. Alla guida dell'Intelligence c'è il Sergente Voight, un uomo duro ed esigente che non esita a infrangere la legge pur di ottenere giustizia. La vita quotidiana degli agenti di pattuglia è una sfida continua e l'unico raggio luminoso è il sogno di avanzare ed entrare a far parte dell'élite del team.</info>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/ELENCO%20SERIE%20TV/Chicago%20PD</externallink>
+</item>
+
+<item>
 <title>[B][COLOR white] -> [COLOR blue] Cold Case [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <fanart>http://www.lospettacolo.it/xml/schede/img/88872_originale_bg.jpg</fanart>
@@ -205,3 +214,4 @@
 <info>Dramma di tipo procedurale generato da CSI: Scena del crimine: l'Agente Speciale Avery Ryan lavora con l'FBI come specialista n crimini di sfondo Cyber-psicologico; lei e la sua squadra fanno sì che le minacce del web vengano fermate prima che arrivino nella Vita Reale.</info>
 <jsonrpc>plugin://plugin.video.kodilivetv/?mode=70&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fskieset%2fskiesetrepo%2fmaster%2flivestreampro%2fSERIE%2520TV%2fELENCO%2520SERIE%2520TV%2fCsi%2520Cyber</jsonrpc>
 </item>
+
