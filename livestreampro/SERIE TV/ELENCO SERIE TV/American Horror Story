@@ -1,48 +1,87 @@
-<item><title>-[AMERICAN HORROR STORY S1 ]-</title>
-<link>ignorame</link></item>
-<item><title>American Horror Story 1x1 </title> 
-<urlsolve>https://vivo.sx/747a663628</urlsolve></item> 
-<item><title>American Horror Story 1x2 </title> 
-<urlsolve>https://vivo.sx/b03d1043e4</urlsolve></item> 
-<item><title>American Horror Story 1x3 </title> 
-<urlsolve>https://vivo.sx/fe22f1fa1f</urlsolve></item> 
-<item><title>American Horror Story 1x4 </title> 
-<urlsolve>https://vivo.sx/56d4db12c7</urlsolve></item> 
-<item><title>American Horror Story 1x5 </title> 
-<urlsolve>https://vivo.sx/0212969cc8</urlsolve></item> 
-<item><title>American Horror Story 1x6 </title> 
-<urlsolve>https://vivo.sx/250ee696b2</urlsolve></item> 
-<item><title>American Horror Story 1x7 </title> 
-<urlsolve>https://vivo.sx/b8e051a210</urlsolve></item> 
-<item><title>American Horror Story 1x8 </title> 
-<urlsolve>https://vivo.sx/a40e1b6dbb</urlsolve></item> 
-<item><title>American Horror Story 1x9 </title> 
-<urlsolve>https://vivo.sx/04f716a2d0</urlsolve></item> 
-<item><title>American Horror Story 1x10 </title> 
-<urlsolve>https://vivo.sx/8a729a05a3</urlsolve></item> 
-<item><title>American Horror Story 1x11 </title> 
-<urlsolve>https://vivo.sx/699f858558</urlsolve></item> 
-<item><title>American Horror Story 1x12 </title> 
-<urlsolve>https://vivo.sx/9b2c8851c6</urlsolve></item> 
+<item>
+<title>[B][COLOR white] -> [COLOR blue] STAGIONE 1 - 2 - 3 [/COLOR][/B]</title>
+<fanart>http://blog.emp-online.it/wp-content/uploads/2016/11/AHS-6.png</fanart>
+<thumbnail>http://www.filmscoop.it/locandine/americanhorrorstorystagione1.jpg</thumbnail>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+       <title> [makelist.param3]</title>
+       <link>$doregex[getUrl]</link>
+<fanart>http://blog.emp-online.it/wp-content/uploads/2016/11/AHS-6.png</fanart>
+<thumbnail>http://www.filmscoop.it/locandine/americanhorrorstorystagione1.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/megadino65/american-horror-story-stagioni-12-e-3-75098/list,1,2</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/megadino65/american-horror-story-stagioni-12-e-3-75098/list,1,2</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+</item>
 
-<item><title> </title><link>ignorame</link></item>
-<item><title>-[AMERICAN HORROR STORY S7 ]-</title>
-<link>ignorame</link></item>
-<item><title>American.Horror.Story.7x01.La.Notte.Delle.Elezioni</title>
-<urlsolve>https://vivo.sx/519faf3ca2</urlsolve></item>
-<item><title>American.Horror.Story.7x02.Non.Avera.Paura.Del.Buio</title>
-<urlsolve>https://vivo.sx/23f114c91c</urlsolve></item>
-<item><title>American.Horror.Story.7x03.Vicini.Infernali</title>
-<urlsolve>https://vivo.sx/14d49263fc</urlsolve></item>
-<item><title>American.Horror.Story.7x04.Io.Credo.</title>
-<urlsolve>https://vivo.sx/0428e5da5b</urlsolve></item>
-<item><title>American.Horror.Story.7x05.La.Setta </title>
-<urlsolve>https://vivo.sx/c45c1ff47f</urlsolve></item>
-<item><title>American.Horror.Story.7x06.Assassinio.Del.Midwest</title>
-<urlsolve>https://vivo.sx/8f7fb0ed11</urlsolve></item>
-<item><title>American.Horror.Story.7x07.Valerie.Solanas.E.Morta.Per </title>
-<urlsolve>https://vivo.sx/dbca92a39e</urlsolve></item>
-<item><title>American.Horror.Story.7x08.La.Testa.Del.Serpente</title>
-<urlsolve>https://vivo.sx/28088bd434</urlsolve></item>
-<item><title>American.Horror.Story.7x09.Prova.Di.Lealta </title>
-<urlsolve>https://vivo.sx/9f30f80265</urlsolve></item>
+*********************************************************
+
+<item>
+<title>[B][COLOR white] -> [COLOR blue] STAGIONE 4 - 5 - 6 [/COLOR][/B]</title>
+<fanart>http://blog.emp-online.it/wp-content/uploads/2016/11/AHS-6.png</fanart>
+<thumbnail>http://www.filmscoop.it/locandine/americanhorrorstorystagione1.jpg</thumbnail>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+       <title> [makelist.param3]</title>
+       <link>$doregex[getUrl]</link>
+<fanart>http://blog.emp-online.it/wp-content/uploads/2016/11/AHS-6.png</fanart>
+<thumbnail>http://www.filmscoop.it/locandine/americanhorrorstorystagione1.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/megadino65/american-horror-story-45-e-6-ita-dlmux-x264-mp4-76957</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/megadino65/american-horror-story-45-e-6-ita-dlmux-x264-mp4-76957</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+*********************************************************
+
+<item>
+<title>[B][COLOR white] -> [COLOR blue] STAGIONE 7 [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<fanart>http://blog.emp-online.it/wp-content/uploads/2016/11/AHS-6.png</fanart>
+<thumbnail>http://www.filmscoop.it/locandine/americanhorrorstorystagione1.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/LSUB0344</externallink>
+</item>
