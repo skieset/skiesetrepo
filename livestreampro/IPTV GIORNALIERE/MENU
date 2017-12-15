@@ -11,6 +11,14 @@
 ====================================================================================================================================
 
 <item>
+<title>[B][COLOR lime]•[COLOR blue] BY SKIESET [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<jsonrpc>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/IPTV%20GIORNALIERE/Skieset</jsonrpc>
+</item>
+
+====================================================================================================================================
+
+<item>
 <title>[B][COLOR lime]•[COLOR blue] IPTV TUTTO FREE [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <jsonrpc>plugin://plugin.video.kodilivetv/?mode=70&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fskieset%2fskiesetrepo%2fmaster%2flivestreampro%2fIPTV%2520GIORNALIERE%2fTutto%2520Free</jsonrpc>
