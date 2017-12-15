@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 1[/COLOR][/B]</title>
+<title>[B][COLOR white] -> [COLOR blue] STAGIONE 1 [/COLOR][/B]</title>
 <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
 <fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -8,11 +8,11 @@
   <listrepeat><![CDATA[
        <title> [makelist.param3]</title>
        <link>$doregex[getUrl]</link>
-       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
 <fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
 ]]></listrepeat>
-<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-1-ita-by-mak086-87532/</page>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/megadino65/the-big-bang-theory-stagione-2-88696</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -30,50 +30,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-1-ita-by-mak086-87532/</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-
-**************************************************
-
-
-
-<item>
-<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 2[/COLOR][/B]</title>
-<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
-<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-       <title> [makelist.param3]</title>
-       <link>$doregex[getUrl]</link>
-       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
-<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
-]]></listrepeat>
-<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MAK086/big-bang-theory-st-2-ita-by-mak086-86022/</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MAK086/big-bang-theory-st-2-ita-by-mak086-86022/</referer>
+<referer>http://diskokosmiko.mx/megadino65/the-big-bang-theory-stagione-2-88696</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
@@ -81,9 +38,8 @@
 
 *********************************************************
 
-
 <item>
-<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 3[/COLOR][/B]</title>
+<title>[B][COLOR white] -> [COLOR blue] STAGIONE 2 [/COLOR][/B]</title>
 <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
 <fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -92,11 +48,11 @@
   <listrepeat><![CDATA[
        <title> [makelist.param3]</title>
        <link>$doregex[getUrl]</link>
-       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
 <fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
 ]]></listrepeat>
-<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st3-ita-by-mak086-87515/</page>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/megadino65/the-big-bang-theory-stagione-3-88726</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -114,17 +70,17 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st3-ita-by-mak086-87515/</referer>
+<referer>http://diskokosmiko.mx/megadino65/the-big-bang-theory-stagione-3-88726</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
 </item>
 
-*******************************************************************************************************
 
+*********************************************************
 
 <item>
-<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 4[/COLOR][/B]</title>
+<title>[B][COLOR white] -> [COLOR blue] STAGIONE 3 [/COLOR][/B]</title>
 <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
 <fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -133,11 +89,11 @@
   <listrepeat><![CDATA[
        <title> [makelist.param3]</title>
        <link>$doregex[getUrl]</link>
-       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
 <fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
 ]]></listrepeat>
-<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-4-ita-by-mak086-86077/</page>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st3-ita-by-mak086-87515</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -155,17 +111,17 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-4-ita-by-mak086-86077/</referer>
+<referer>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st3-ita-by-mak086-87515</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
 </item>
 
 
-**************************************************************************************
+*********************************************************
 
 <item>
-<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 5[/COLOR][/B]</title>
+<title>[B][COLOR white] -> [COLOR blue] STAGIONE 4 [/COLOR][/B]</title>
 <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
 <fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -174,11 +130,11 @@
   <listrepeat><![CDATA[
        <title> [makelist.param3]</title>
        <link>$doregex[getUrl]</link>
-       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
 <fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
 ]]></listrepeat>
-<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-5-ita-by-mak086-86331/</page>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-4-ita-by-mak086-86077</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -196,16 +152,16 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-5-ita-by-mak086-86331/</referer>
+<referer>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-4-ita-by-mak086-86077</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
 </item>
 
-**************************************************
+*********************************************************
 
 <item>
-<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 6[/COLOR][/B]</title>
+<title>[B][COLOR white] -> [COLOR blue] STAGIONE 5 [/COLOR][/B]</title>
 <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
 <fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -214,10 +170,51 @@
   <listrepeat><![CDATA[
        <title> [makelist.param3]</title>
        <link>$doregex[getUrl]</link>
-       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
 <fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
 ]]></listrepeat>
-<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-5-ita-by-mak086-86331</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-5-ita-by-mak086-86331</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+*********************************************************
+
+<item>
+<title>[B][COLOR white] -> [COLOR blue] STAGIONE 6 [/COLOR][/B]</title>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+       <title> [makelist.param3]</title>
+       <link>$doregex[getUrl]</link>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/MAK086/big-bang-theory-st-6-ita-by-mak086-86020/</page>
 <cookieJar></cookieJar>
 </regex>
@@ -242,11 +239,10 @@
 </regex>
 </item>
 
-***************************************************************************
-
+*********************************************************
 
 <item>
-<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 7[/COLOR][/B]</title>
+<title>[B][COLOR white] -> [COLOR blue] STAGIONE 7 [/COLOR][/B]</title>
 <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
 <fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -255,11 +251,11 @@
   <listrepeat><![CDATA[
        <title> [makelist.param3]</title>
        <link>$doregex[getUrl]</link>
-       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
 <fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
 ]]></listrepeat>
-<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-7-ita-by-mak086-87408/</page>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/megadino65/the-big-bang-theory-stagione-7-88933</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -277,17 +273,16 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-7-ita-by-mak086-87408/</referer>
+<referer>http://diskokosmiko.mx/megadino65/the-big-bang-theory-stagione-7-88933</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
 </item>
 
-
-********************************************************************
+*********************************************************
 
 <item>
-<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 8[/COLOR][/B]</title>
+<title>[B][COLOR white] -> [COLOR blue] STAGIONE 8 [/COLOR][/B]</title>
 <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
 <fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -296,11 +291,11 @@
   <listrepeat><![CDATA[
        <title> [makelist.param3]</title>
        <link>$doregex[getUrl]</link>
-       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
 <fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
 ]]></listrepeat>
-<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-8-ita-by-mak086-86351/</page>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-8-ita-by-mak086-86351</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -318,16 +313,16 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>/</referer>
+<referer>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-8-ita-by-mak086-86351</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
 </item>
 
-
+*********************************************************
 
 <item>
-<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 9[/COLOR][/B]</title>
+<title>[B][COLOR white] -> [COLOR blue] STAGIONE 9 [/COLOR][/B]</title>
 <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
 <fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -336,10 +331,10 @@
   <listrepeat><![CDATA[
        <title> [makelist.param3]</title>
        <link>$doregex[getUrl]</link>
-       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
 <fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
 ]]></listrepeat>
-<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st9-ita-by-mak086-86516/</page>
 <cookieJar></cookieJar>
 </regex>
@@ -364,10 +359,10 @@
 </regex>
 </item>
 
-
+*********************************************************
 
 <item>
-<title>[COLOR white]ｻ[B][COLOR yellow]STAGIONE 10[/COLOR][/B]</title>
+<title>[B][COLOR white] -> [COLOR blue] STAGIONE 10 [/COLOR][/B]</title>
 <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
 <fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
 <link>$doregex[makelist]</link>
@@ -376,11 +371,11 @@
   <listrepeat><![CDATA[
        <title> [makelist.param3]</title>
        <link>$doregex[getUrl]</link>
-       <thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
+<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail>
 <fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>
 ]]></listrepeat>
-<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
-<page>/</page>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/megadino65/the-big-bang-theory-stagione-10-89083</page>
 <cookieJar></cookieJar>
 </regex>
 <regex>
@@ -398,7 +393,7 @@
 <name>tok</name>
 <expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
 <page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>/</referer>
+<referer>http://diskokosmiko.mx/megadino65/the-big-bang-theory-stagione-10-89083</referer>
 <connection>keep-alive</connection>
 <cookieJar></cookieJar>
 </regex>
