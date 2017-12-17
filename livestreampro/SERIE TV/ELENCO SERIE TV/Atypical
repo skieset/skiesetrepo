@@ -1,55 +1,39 @@
 <item>
-<title>-[ATYPICAL S1]-</title>
-<link><link>http://ignorame</link></link>
-<thumbnail>https://imgfire.xyz/image.uploads/14-08-2017/original-1cfa0ca45331ea38d829c7a812849b34.jpg</thumbnail>
-<fanart>https://imgfire.xyz/image.uploads/14-08-2017/original-1cfa0ca45331ea38d829c7a812849b34.jpg</fanart>
-<info></info>
+<title>[B][COLOR white] -> [COLOR blue] STAGIONE 1[/COLOR][/B]</title>
+<fanart>http://wwwcdn.scriptmag.com/wp-content/uploads/atypical.jpg</fanart>
+<thumbnail>https://pbs.twimg.com/media/DG_0CwoVoAE1MPM.jpg</thumbnail>
+<link>$doregex[makelist]</link>
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+       <title> [makelist.param3]</title>
+       <link>$doregex[getUrl]</link>
+<fanart>http://wwwcdn.scriptmag.com/wp-content/uploads/atypical.jpg</fanart>
+<thumbnail>https://pbs.twimg.com/media/DG_0CwoVoAE1MPM.jpg</thumbnail>
+]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/giulioromano/atypical-mp4-85004</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/giulioromano/atypical-mp4-85004</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
 </item>
-<item><title>Atypical 1×01 - Antartide</title>
-<thumbnail>https://imgfire.xyz/image.uploads/14-08-2017/original-1cfa0ca45331ea38d829c7a812849b34.jpg</thumbnail>
-<fanart>https://imgfire.xyz/image.uploads/14-08-2017/original-1cfa0ca45331ea38d829c7a812849b34.jpg</fanart>
-<urlsolve>http://streamango.com/embed/nnlqmkmaadlepqns</urlsolve>
-<info></info>
-</item>
-<item><title>Atypical 1×02 - Una Femmina Di Umano</title>
-<thumbnail>https://imgfire.xyz/image.uploads/14-08-2017/original-1cfa0ca45331ea38d829c7a812849b34.jpg</thumbnail>
-<fanart>https://imgfire.xyz/image.uploads/14-08-2017/original-1cfa0ca45331ea38d829c7a812849b34.jpg</fanart>
-<urlsolve>http://streamango.com/embed/bcdntblnosmemtan</urlsolve>
-<info></info>
-</item>
-<item><title>Atypical 1×03 - Julia che Dice?</title>
-<thumbnail>https://imgfire.xyz/image.uploads/14-08-2017/original-1cfa0ca45331ea38d829c7a812849b34.jpg</thumbnail>
-<fanart>https://imgfire.xyz/image.uploads/14-08-2017/original-1cfa0ca45331ea38d829c7a812849b34.jpg</fanart>
-<urlsolve>http://streamango.com/embed/qfemokcmmlaotdbe</urlsolve>
-<info></info>
-</item>
-<item><title>Atypical 1×04 - Un Odore Buono e Neutro</title>
-<thumbnail>https://imgfire.xyz/image.uploads/14-08-2017/original-1cfa0ca45331ea38d829c7a812849b34.jpg</thumbnail>
-<fanart>https://imgfire.xyz/image.uploads/14-08-2017/original-1cfa0ca45331ea38d829c7a812849b34.jpg</fanart>
-<urlsolve>http://streamango.com/embed/lemsocesfmqdlkeb</urlsolve>
-<info></info>
-</item>
-<item><title>Atypical 1×05 - Quella è La Mia Felpa</title>
-<thumbnail>https://imgfire.xyz/image.uploads/14-08-2017/original-1cfa0ca45331ea38d829c7a812849b34.jpg</thumbnail>
-<fanart>https://imgfire.xyz/image.uploads/14-08-2017/original-1cfa0ca45331ea38d829c7a812849b34.jpg</fanart>
-<urlsolve>http://streamango.com/embed/oottcqntftmmfmrn</urlsolve>
-<info></info>
-</item>
-<item><title>Atypical 1×06 - Il Direttissimo per La Città Del Sesso</title>
-<thumbnail>https://imgfire.xyz/image.uploads/14-08-2017/original-1cfa0ca45331ea38d829c7a812849b34.jpg</thumbnail>
-<fanart>https://imgfire.xyz/image.uploads/14-08-2017/original-1cfa0ca45331ea38d829c7a812849b34.jpg</fanart>
-<urlsolve>http://streamango.com/embed/repkqkmcctebdndc</urlsolve>
-<info></info>
-</item>
-<item><title>Atypical 1×07 - La Mia Povera Polpetta</title>
-<thumbnail>https://imgfire.xyz/image.uploads/14-08-2017/original-1cfa0ca45331ea38d829c7a812849b34.jpg</thumbnail>
-<fanart>https://imgfire.xyz/image.uploads/14-08-2017/original-1cfa0ca45331ea38d829c7a812849b34.jpg</fanart>
-<urlsolve>http://streamango.com/embed/qstetekamlbrcrsb</urlsolve>
-<info></info>
-</item>
-<item><title>Atypical 1×08 - La Neve Assorbe i Suoni</title>
-<thumbnail>https://imgfire.xyz/image.uploads/14-08-2017/original-1cfa0ca45331ea38d829c7a812849b34.jpg</thumbnail>
-<fanart>https://imgfire.xyz/image.uploads/14-08-2017/original-1cfa0ca45331ea38d829c7a812849b34.jpg</fanart>
-<urlsolve>http://streamango.com/embed/bpsllaknqmetknbf</urlsolve>
-<info></info>
-</item>
+
+*********************************************************
