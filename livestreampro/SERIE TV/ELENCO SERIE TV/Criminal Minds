@@ -99,20 +99,3 @@
 <fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail>]]></listrepeat><expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
 <page>http://diskokosmiko.mx/skieset/criminal-minds-stagione-13-98361</page><cookieJar></cookieJar></regex><regex><name>getUrl</name><expres>DownloadUrl":"([^"]+)<expres><page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page><rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost><referer>http://diskokosmiko.mx/[makelist.param2]</referer><connection>keep-alive</connection><accept>*/*</accept><X-Req>XMLHttpRequest</X-Req><cookieJar></cookieJar></regex><regex><name>tok</name><expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres><page>http://diskokosmiko.mx/[makelist.param2]</page>
 <referer>http://diskokosmiko.mx/skieset/criminal-minds-stagione-13-98361</referer><connection>keep-alive</connection><cookieJar></cookieJar></regex></item>
-
-<item><title>Criminal Minds 13x01 - Decolliamo</title>
-<urlsolve>https://streamango.com/embed/qrqkmqfnellscrpk/</urlsolve></item>
-<item><title>Criminal Minds 13x02 - Verso un Posto Migliore</title>
-<urlsolve>http://streamango.com/embed/oqlfktpbnrqffnaf</urlsolve></item>
-<item><title>Criminal Minds 13x03 - L'Angelo Azzurro</title>
-<urlsolve>https://streamango.com/embed/mmlrbnsacqtlsbql/</urlsolve></item>
-<item><title>Criminal Minds 13x04 - Killer App</title>
-<urlsolve>http://streamango.com/embed/opknbalmfslrnaem</urlsolve></item>
-<item><title>Criminal Minds 13x05 - Colpi di Fortuna</title>
-<urlsolve>https://streamango.com/embed/pobrtqrtnnfcbqtn</urlsolve></item>
-<item><title>Criminal Minds 13x06 - Il Bunker</title>
-<urlsolve>https://streamango.com/embed/bcakpsrdodlttosp</urlsolve></item>
-<item><title>Criminal Minds 13x07 - Polvere e Ossa</title>
-<urlsolve>https://streamango.com/embed/farfratsesltrolq/</urlsolve></item>
-<item><title>Criminal Minds 13x08 - Terrore al Neon</title>
-<urlsolve>https://streamango.com/embed/tcmtakddfrsplkoq</urlsolve></item>
