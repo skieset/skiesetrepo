@@ -1,609 +1,105 @@
-<item><title>-[CRIMINAL MINDS S1 ]-</title>
-<link>ignorame</link></item>
-<item><title>Criminal Minds 1x01 - Il Profilo dell'Assassino</title>
-<urlsolve>https://streamango.com/embed/rmmskdaekkpcmcne</urlsolve></item>
-<item><title>Criminal Minds 1x02 - Piromane</title>
-<urlsolve>https://streamango.com/embed/bbrpnedfncsnssar</urlsolve></item>
-<item><title>Criminal Minds 1x03 - Scarica Emotiva</title>
-<urlsolve>https://streamango.com/embed/ndprfesnansqfppk</urlsolve></item>
-<item><title>Criminal Minds 1x04 - Guardami!</title>
-<urlsolve>https://streamango.com/embed/npapffdbqkredqbo</urlsolve></item>
-<item><title>Criminal Minds 1x05 - Doppia Immagine</title>
-<urlsolve>https://streamango.com/embed/dstpmefsatqlplsr</urlsolve></item>
-<item><title>Criminal Minds 1x06 - L'Uomo Nel Mirino</title>
-<urlsolve>https://streamango.com/embed/bdolmdcnnqteemfc</urlsolve></item>
-<item><title>Criminal Minds 1x07 - La Volpe</title>
-<urlsolve>https://streamango.com/embed/stamnkpeooqnttkp</urlsolve></item>
-<item><title>Criminal Minds 1x08 - Assassino Nato</title>
-<urlsolve>https://streamango.com/embed/tqbbqempmflnrfpk</urlsolve></item>
-<item><title>Criminal Minds 1x09 - In Ostaggio</title>
-<urlsolve>https://streamango.com/embed/rpmtpdafnbederer</urlsolve></item>
-<item><title>Criminal Minds 1x10 - Nel Segno del Male</title>
-<urlsolve>https://streamango.com/embed/lqrtrtfdcbodofrd</urlsolve></item>
-<item><title>Criminal Minds 1x11 - Sete di Sangue</title>
-<urlsolve>https://streamango.com/embed/eodadffqcqtmcakc</urlsolve></item>
-<item><title>Criminal Minds 1x12 - Una Bambina da Salvare</title>
-<urlsolve>https://streamango.com/embed/fmctdqsnbkrrdcdt</urlsolve></item>
-<item><title>Criminal Minds 1x13 - Veleno</title>
-<urlsolve>https://streamango.com/embed/olqtpanfdmkspndf</urlsolve></item>
-<item><title>Criminal Minds 1x14 - Cavalcando il Fulmine</title>
-<urlsolve>https://streamango.com/embed/flefbsomelptccbc</urlsolve></item>
-<item><title>Criminal Minds 1x15 - Questioni in Sospeso</title>
-<urlsolve>https://streamango.com/embed/crkdkamkarfdmpql</urlsolve></item>
-<item><title>Criminal Minds 1x16 - La Tribù</title>
-<urlsolve>https://streamango.com/embed/entfkbprkeslrdke</urlsolve></item>
-<item><title>Criminal Minds 1x17 - Il Giustiziere</title>
-<urlsolve>https://streamango.com/embed/qopndpfoertrllnf</urlsolve></item>
-<item><title>Criminal Minds 1x18 - Buonanotte, Holliwood</title>
-<urlsolve>https://streamango.com/embed/kombmatsmsdkopee</urlsolve></item>
-<item><title>Criminal Minds 1x19 - Machismo</title>
-<urlsolve>https://streamango.com/embed/sqenrapakacaeoqc</urlsolve></item>
-<item><title>Criminal Minds 1x20 - Il Prezzo dell'Infedeltà</title>
-<urlsolve>https://streamango.com/embed/bnsmsfrbcmsrbdof</urlsolve></item>
-<item><title>Criminal Minds 1x21 - Segreti e Bugie</title>
-<urlsolve>https://streamango.com/embed/lpntqbrqntprkcsp</urlsolve></item>
-<item><title>Criminal Minds 1x22 - Il Re dei Pescatori (1° parte)</title>
-<urlsolve>https://streamango.com/embed/asclrqokbsdnkraq</urlsolve></item>
+<item><title>[B][COLOR white] -> [COLOR blue] STAGIONE 1 [/COLOR][/B]</title>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail><link>$doregex[makelist]</link><regex><name>makelist</name><listrepeat><![CDATA[<title> [makelist.param3]</title><link>$doregex[getUrl]</link>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail>]]></listrepeat><expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/skieset/criminal-minds-stagione-1-98147</page><cookieJar></cookieJar></regex><regex><name>getUrl</name><expres>DownloadUrl":"([^"]+)<expres><page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page><rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost><referer>http://diskokosmiko.mx/[makelist.param2]</referer><connection>keep-alive</connection><accept>*/*</accept><X-Req>XMLHttpRequest</X-Req><cookieJar></cookieJar></regex><regex><name>tok</name><expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres><page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/skieset/criminal-minds-stagione-1-98147</referer><connection>keep-alive</connection><cookieJar></cookieJar></regex></item>
 
+*********************************************************
 
-<item><link>ignorame</link></item>
-<item><title>-[CRIMINAL MINDS S2 ]-</title>
-<link>ignorame</link></item>
-<item><title>Criminal Minds 2x01 - Il Re dei Pescatori (2° parte)</title>
-<urlsolve>https://streamango.com/embed/fftdoldafpccttfl</urlsolve></item>
-<item><title>Criminal Minds 2x02 - Vite all'Asta</title>
-<urlsolve>https://streamango.com/embed/pmmtansolnopberr</urlsolve></item>
-<item><title>Criminal Minds 2x03 - La Tempesta Perfetta</title>
-<urlsolve>https://streamango.com/embed/qcpncrtrlcfmbdbm</urlsolve></item>
-<item><title>Criminal Minds 2x04 - Psicodramma</title>
-<urlsolve>https://streamango.com/embed/bnnplobfpmndcltc</urlsolve></item>
-<item><title>Criminal Minds 2x05 - Conseguenze</title>
-<urlsolve>https://streamango.com/embed/esanastsmnfblpaq</urlsolve></item>
-<item><title>Criminal Minds 2x06 - L'Uomo Nero</title>
-<urlsolve>https://streamango.com/embed/dfqosolffcmnlked</urlsolve></item>
-<item><title>Criminal Minds 2x07 - North Mammon</title>
-<urlsolve>https://streamango.com/embed/nbqpnpqnnpqatkcf</urlsolve></item>
-<item><title>Criminal Minds 2x08 - Pianeta Vuoto</title>
-<urlsolve>https://streamango.com/embed/skmcnckefmoaqspl</urlsolve></item>
-<item><title>Criminal Minds 2x09 - Il Maestro e l'Allievo</title>
-<urlsolve>https://streamango.com/embed/mfndkksflsrptsll</urlsolve></item>
-<item><title>Criminal Minds 2x10 - L'ora della Preghiera</title>
-<urlsolve>https://streamango.com/embed/cntppqqnkmomtdek</urlsolve></item>
-<item><title>Criminal Minds 2x11 - Eros e Thanatos</title>
-<urlsolve>https://streamango.com/embed/dqcptedlfbctakdt</urlsolve></item>
-<item><title>Criminal Minds 2x12 - Il Profilo del Profiler</title>
-<urlsolve>https://streamango.com/embed/kkmefdennsmlcdlo</urlsolve></item>
-<item><title>Criminal Minds 2x13 - Senza Via d'Uscita (1° parte)</title>
-<urlsolve>https://streamango.com/embed/kamqqmanoplfcacr</urlsolve></item>
-<item><title>Criminal Minds 2x14 - Raphael (1° parte)</title>
-<urlsolve>https://streamango.com/embed/obecdoblndfftqtp</urlsolve></item>
-<item><title>Criminal Minds 2x15 - Raphael (2° parte)</title>
-<urlsolve>https://streamango.com/embed/lmtbbebmmfoqpldd</urlsolve></item>
-<item><title>Criminal Minds 2x16 - Note Mortali</title>
-<urlsolve>https://streamango.com/embed/dcrcdnkbdetepplr</urlsolve></item>
-<item><title>Criminal Minds 2x17 - Angoscia</title>
-<urlsolve>https://streamango.com/embed/ttbnplqplbbnsbss</urlsolve></item>
-<item><title>Criminal Minds 2x18 - Jones</title>
-<urlsolve>https://streamango.com/embed/qmdsntpakrfnnklt</urlsolve></item>
-<item><title>Criminal Minds 2x19 - Cenere e Polvere</title>
-<urlsolve>https://streamango.com/embed/aontqbsbncnsmonr</urlsolve></item>
-<item><title>Criminal Minds 2x20 - Il Codice dei Ladri</title>
-<urlsolve>https://streamango.com/embed/ttfncbtmneaqflbd</urlsolve></item>
-<item><title>Criminal Minds 2x21 - Stagione di Caccia</title>
-<urlsolve>https://streamango.com/embed/omsmbbnmtktfnrcp</urlsolve></item>
-<item><title>Criminal Minds 2x22 - Il Lascito</title>
-<urlsolve>https://streamango.com/embed/btknbntblpqfrbmc</urlsolve></item>
-<item><title>Criminal Minds 2x23 - Senza Via d'Uscita (2° parte - Il Ritorno di Frank)</title>
-<urlsolve>https://streamango.com/embed/qrdfcdaqaeckadqa</urlsolve></item>
+<item><title>[B][COLOR white] -> [COLOR blue] STAGIONE 2 [/COLOR][/B]</title>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail><link>$doregex[makelist]</link><regex><name>makelist</name><listrepeat><![CDATA[<title> [makelist.param3]</title><link>$doregex[getUrl]</link>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail>]]></listrepeat><expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/skieset/criminal-minds-stagione-2-98232</page><cookieJar></cookieJar></regex><regex><name>getUrl</name><expres>DownloadUrl":"([^"]+)<expres><page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page><rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost><referer>http://diskokosmiko.mx/[makelist.param2]</referer><connection>keep-alive</connection><accept>*/*</accept><X-Req>XMLHttpRequest</X-Req><cookieJar></cookieJar></regex><regex><name>tok</name><expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres><page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/skieset/criminal-minds-stagione-2-98232</referer><connection>keep-alive</connection><cookieJar></cookieJar></regex></item>
 
+*********************************************************
 
-<item><link>ignorame</link></item>
-<item><title>-[CRIMINAL MINDS S3 ]-</title>
-<link>ignorame</link></item>
-<item><title>Criminal Minds 3x01 - Dubbio</title>
-<urlsolve>https://streamango.com/embed/smoarfqftnlfmbnn</urlsolve></item>
-<item><title>Criminal Minds 3x02 - Nel Nome del Sangue</title>
-<urlsolve>https://streamango.com/embed/aclekebrltfnamst</urlsolve></item>
-<item><title>Criminal Minds 3x03 - Spaventati a Morte</title>
-<urlsolve>https://streamango.com/embed/bnddasdsskkcnncd</urlsolve></item>
-<item><title>Criminal Minds 3x04 - Bambini nel Buio</title>
-<urlsolve>https://streamango.com/embed/rreqomqeedcqqqfp</urlsolve></item>
-<item><title>Criminal Minds 3x05 - Sette Secondi</title>
-<urlsolve>https://streamango.com/embed/msecbatmpqrafefa</urlsolve></item>
-<item><title>Criminal Minds 3x06 - Mi Hai Visto?</title>
-<urlsolve>https://streamango.com/embed/dacfmnrsastckpts</urlsolve></item>
-<item><title>Criminal Minds 3x07 - Identità</title>
-<urlsolve>ttps://streamango.com/embed/fmrrnenbtonflbbq</urlsolve></item>
-<item><title>Criminal Minds 3x08 - Fortunato</title>
-<urlsolve>https://streamango.com/embed/kodcbmkmmbralsmq</urlsolve></item>
-<item><title>Criminal Minds 3x09 - Penelope</title>
-<urlsolve>https://streamango.com/embed/caoteqplkffotkmt</urlsolve></item>
-<item><title>Criminal Minds 3x10 - Il Cavaliere della Notte</title>
-<urlsolve>https://streamango.com/embed/ptcmsedrffbssqbb</urlsolve></item>
-<item><title>Criminal Minds 3x11 - Eredità di Sangue</title>
-<urlsolve>https://streamango.com/embed/qqtqnffoacbpkonr</urlsolve></item>
-<item><title>Criminal Minds 3x12 - La Terza Possibilità</title>
-<urlsolve>https://streamango.com/embed/rclbprklmssbtbnt</urlsolve></item>
-<item><title>Criminal Minds 3x13 - Il Prezzo dell'Ambizione</title>
-<urlsolve>https://streamango.com/embed/cnnrnldpodnneoct</urlsolve></item>
-<item><title>Criminal Minds 3x14 - Il Tassello Mancante</title>
-<urlsolve>https://streamango.com/embed/nmbfdlonlrcsneep</urlsolve></item>
-<item><title>Criminal Minds 3x15 - L'Angelo della Misericordia</title>
-<urlsolve>https://streamango.com/embed/srrbfeslfttabafq</urlsolve></item>
-<item><title>Criminal Minds 3x16 - Memoria da Elefante</title>
-<urlsolve>https://streamango.com/embed/tnfdtalcdftdeamq</urlsolve></item>
-<item><title>Criminal Minds 3x17 - I Segreti degli Altri</title>
-<urlsolve>https://streamango.com/embed/eecpndeftpndnclr</urlsolve></item>
-<item><title>Criminal Minds 3x18 - Vite Incrociate</title>
-<urlsolve>https://streamango.com/embed/spscbopkqappmafl</urlsolve></item>
-<item><title>Criminal Minds 3x19 - Tabula Rasa</title>
-<urlsolve>https://streamango.com/embed/mnrrefnlebkrqabt</urlsolve></item>
-<item><title>Criminal Minds 3x20 - Bassa Intensità</title>
-<urlsolve>https://streamango.com/embed/ckldsdrblakdeqel</urlsolve></item>
+<item><title>[B][COLOR white] -> [COLOR blue] STAGIONE 3 [/COLOR][/B]</title>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail><link>$doregex[makelist]</link><regex><name>makelist</name><listrepeat><![CDATA[<title> [makelist.param3]</title><link>$doregex[getUrl]</link>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail>]]></listrepeat><expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/skieset/criminal-minds-stagione-3-98267</page><cookieJar></cookieJar></regex><regex><name>getUrl</name><expres>DownloadUrl":"([^"]+)<expres><page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page><rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost><referer>http://diskokosmiko.mx/[makelist.param2]</referer><connection>keep-alive</connection><accept>*/*</accept><X-Req>XMLHttpRequest</X-Req><cookieJar></cookieJar></regex><regex><name>tok</name><expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres><page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/skieset/criminal-minds-stagione-3-98267</referer><connection>keep-alive</connection><cookieJar></cookieJar></regex></item>
 
+*********************************************************
 
-<item><link>ignorame</link></item>
-<item><title>-[CRIMINAL MINDS S4 ]-</title>
-<link>ignorame</link></item>
-<item><title>Criminal Minds 4x01 - Ai Confini del Caos</title>
-<urlsolve>https://streamango.com/embed/tdncbamqoamasnom/</urlsolve></item>
-<item><title>Criminal Minds 4x02 - Il Creatore di Angeli</title>
-<urlsolve>https://streamango.com/embed/bbtmlmrtrfmmrfmb/</urlsolve></item>
-<item><title>Criminal Minds 4x03 - Fede Cieca</title>
-<urlsolve>https://streamango.com/embed/cdbbmkcmclkotsrt/</urlsolve></item>
-<item><title>Criminal Minds 4x04 - Motel Paradise</title>
-<urlsolve>https://streamango.com/embed/apeoqbmrnnpbctto/</urlsolve></item>
-<item><title>Criminal Minds 4x05 - La Sete del Viaggiatore</title>
-<urlsolve>https://streamango.com/embed/ropemmlakcrekpqa/</urlsolve></item>
-<item><title>Criminal Minds 4x06 - Istinti Profondi</title>
-<urlsolve>https://streamango.com/embed/dsqdceonsmrbaepe/</urlsolve></item>
-<item><title>Criminal Minds 4x07 - Labirinti della Memoria</title>
-<urlsolve>https://streamango.com/embed/eqkksrfdmssnkaoe/</urlsolve></item>
-<item><title>Criminal Minds 4x08 - Capolavoro della Follia</title>
-<urlsolve>https://streamango.com/embed/ppqnkamfkobccdqm/</urlsolve></item>
-<item><title>Criminal Minds 4x09 - L'Importanza della Pulizia</title>
-<urlsolve>https://streamango.com/embed/aqnllnelllrmmfkt/</urlsolve></item>
-<item><title>Criminal Minds 4x10 - Fratelli di Sangue</title>
-<urlsolve>https://streamango.com/embed/aoanmbtlpstnakcs/</urlsolve></item>
-<item><title>Criminal Minds 4x11 - Il Guerriero della Strada</title>
-<urlsolve>https://streamango.com/embed/lblsndlnmmbtqtom/</urlsolve></item>
-<item><title>Criminal Minds 4x12 - Anime Gemelle</title>
-<urlsolve>https://streamango.com/embed/eksseamprleqedct/</urlsolve></item>
-<item><title>Criminal Minds 4x13 Di Padre in Figlio</title>
-<urlsolve>https://streamango.com/embed/patkmctrcpsftmkl/</urlsolve></item>
-<item><title>Criminal Minds 4x14 - Il Conforto della Morte</title>
-<urlsolve>https://streamango.com/embed/bbckecbpqenqdftk/</urlsolve></item>
-<item><title>Criminal Minds 4x15 - Quando Non C'è Un Perchè</title>
-<urlsolve>https://streamango.com/embed/fcatqkbrdpcebkcp/</urlsolve></item>
-<item><title>Criminal Minds 4x16 - La Deriva del Piacere</title>
-<urlsolve>https://streamango.com/embed/bcoqdlemmecfcqpe/</urlsolve></item>
-<item><title>Criminal Minds 4x17 - Demonologia</title>
-<urlsolve>https://streamango.com/embed/sfdlrpasnamnqcea/</urlsolve></item>
-<item><title>Criminal Minds 4x18 - L'Onnivoro</title>
-<urlsolve>https://streamango.com/embed/dqnfcmmbsramdkap/</urlsolve></item>
-<item><title>Criminal Minds 4x19 - Follia Incendiaria</title>
-<urlsolve>https://streamango.com/embed/mmrndqblcpdfnkso/</urlsolve></item>
-<item><title>Criminal Minds 4x20 - Mostri e Fantasmi dell'Anima</title>
-<urlsolve>https://streamango.com/embed/pplnskdobcnfpnsr/</urlsolve></item>
-<item><title>Criminal Minds 4x21 - Sfumature di Grigio</title>
-<urlsolve>https://streamango.com/embed/oossebofnrrpfmof/</urlsolve></item>
-<item><title>Criminal Minds 4x22 - Aiutatemi</title>
-<urlsolve>https://streamango.com/embed/qaofrpcbnekrmokm/</urlsolve></item>
-<item><title>Criminal Minds 4x23 - Il Killer della Strada</title>
-<urlsolve>https://streamango.com/embed/fmafoenfdolpokkd/</urlsolve></item>
-<item><title>Criminal Minds 4x24 - Arma Biologica</title>
-<urlsolve>https://streamango.com/embed/kqckmnetrafkkqst/</urlsolve></item>
-<item><title>Criminal Minds 4x25 - La Porta dell'Inferno</title>
-<urlsolve>https://streamango.com/embed/lrmnttqqrttscess/</urlsolve></item>
-<item><title>Criminal Minds 4x26 - All'Inferno e Ritorno</title>
-<urlsolve>https://streamango.com/embed/clferrflnfnleqse/</urlsolve></item>
+<item><title>[B][COLOR white] -> [COLOR blue] STAGIONE 4 [/COLOR][/B]</title>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail><link>$doregex[makelist]</link><regex><name>makelist</name><listrepeat><![CDATA[<title> [makelist.param3]</title><link>$doregex[getUrl]</link>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail>]]></listrepeat><expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/skieset/criminal-minds-stagione-4-97971</page><cookieJar></cookieJar></regex><regex><name>getUrl</name><expres>DownloadUrl":"([^"]+)<expres><page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page><rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost><referer>http://diskokosmiko.mx/[makelist.param2]</referer><connection>keep-alive</connection><accept>*/*</accept><X-Req>XMLHttpRequest</X-Req><cookieJar></cookieJar></regex><regex><name>tok</name><expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres><page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/skieset/criminal-minds-stagione-4-97971</referer><connection>keep-alive</connection><cookieJar></cookieJar></regex></item>
 
+*********************************************************
 
-<item><link>ignorame</link></item>
-<item><title>-[CRIMINAL MINDS S5 ]-</title>
-<link>ignorame</link></item>
-<item><title>Criminal Minds 5x01 - Senza Nome Senza Volto</title>
-<urlsolve>https://streamango.com/embed/pesbrlqtcolfdsar/</urlsolve></item>
-<item><title>Criminal Minds 5x02 - Il Trauma della Memoria</title>
-<urlsolve>https://streamango.com/embed/tatqkqcqtopffeck/</urlsolve></item>
-<item><title>Criminal Minds 5x03 - Il Pianificatore</title>
-<urlsolve>https://streamango.com/embed/dmkfqloefnsnrlkk/</urlsolve></item>
-<item><title>Criminal Minds 5x04 - Criminal Minds - Violenza Pura</title>
-<urlsolve>https://streamango.com/embed/poadtnodnlqkndfk/</urlsolve></item>
-<item><title>Criminal Minds 5x05 - Un Terribile Giro di Giostra</title>
-<urlsolve>https://streamango.com/embed/ereosmomldonnsta/</urlsolve></item>
-<item><title>Criminal Minds 5x06 - L'Enucleotore</title>
-<urlsolve>https://streamango.com/embed/amtooqeffdefqfbt/</urlsolve></item>
-<item><title>Criminal Minds 5x07 - La Musica del Sangue</title>
-<urlsolve>https://streamango.com/embed/drklrnntdfecsmlo/</urlsolve></item>
-<item><title>Criminal Minds 5x08 - Caccia alla Volpe</title>
-<urlsolve>https://streamango.com/embed/pasbdcdebpamffmn/</urlsolve></item>
-<item><title>Criminal Minds 5x09 - 100</title>
-<urlsolve>https://streamango.com/embed/bqqmmdsctlpkkeqt/</urlsolve></item>
-<item><title>Criminal Minds 5x10 - Schiavo del Dovere</title>
-<urlsolve>https://streamango.com/embed/cesrddrdrslqotke/</urlsolve></item>
-<item><title>Criminal Minds 5x11 - Vendetta Incrociata</title>
-<urlsolve>https://streamango.com/embed/tlpnndqsmrqbnpmd/</urlsolve></item>
-<item><title>Criminal Minds 5x12 - Il Gioco Continua</title>
-<urlsolve>https://streamango.com/embed/fenplqpmecoqqkrs/</urlsolve></item>
-<item><title>Criminal Minds 5x13 - Giochi Pericolosi</title>
-<urlsolve>https://streamango.com/embed/lkepanpbpctpntrp/</urlsolve></item>
-<item><title>Criminal Minds 5x14 - La Rete dell'Inganno</title>
-<urlsolve>https://streamango.com/embed/qccmdodlpcdffbrq/</urlsolve></item>
-<item><title>Criminal Minds 5x15 - Nemico Pubblico</title>
-<urlsolve>https://streamango.com/embed/tdrsspapmlsfloqs/</urlsolve></item>
-<item><title>Criminal Minds 5x16 - Mosley Lane</title>
-<urlsolve>https://streamango.com/embed/cqdromqmsbckltlr/</urlsolve></item>
-<item><title>Criminal Minds 5x17 - Il Re Solitario</title>
-<urlsolve>https://streamango.com/embed/qppsskeccrdopelq/</urlsolve></item>
-<item><title>Criminal Minds 5x18 - Fino alla Morte</title>
-<urlsolve>https://streamango.com/embed/bcspkkklanspbdlf/</urlsolve></item>
-<item><title>Criminal Minds 5x19 - Caccia all'Uomo</title>
-<urlsolve>https://streamango.com/embed/rssscnlmnpqnparl/</urlsolve></item>
-<item><title>Criminal Minds 5x20 - Il Male Dipinto</title>
-<urlsolve>https://streamango.com/embed/enfnlpenncpmnlmc/</urlsolve></item>
-<item><title>Criminal Minds 5x21 - Sindrome Abbandonica</title>
-<urlsolve>https://streamango.com/embed/mqpeempmtbcprdln/</urlsolve></item>
-<item><title>Criminal Minds 5x22 - Morte Online</title>
-<urlsolve>https://streamango.com/embed/praapdmpnqrenfds/</urlsolve></item>
-<item><title>Criminal Minds 5x23 - Il Principe delle Tenebre</title>
-<urlsolve>https://streamango.com/embed/fpmcmeafdqksoabd/</urlsolve></item>
+<item><title>[B][COLOR white] -> [COLOR blue] STAGIONE 5 [/COLOR][/B]</title>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail><link>$doregex[makelist]</link><regex><name>makelist</name><listrepeat><![CDATA[<title> [makelist.param3]</title><link>$doregex[getUrl]</link>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail>]]></listrepeat><expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/skieset/criminal-minds-stagione-5-98352</page><cookieJar></cookieJar></regex><regex><name>getUrl</name><expres>DownloadUrl":"([^"]+)<expres><page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page><rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost><referer>http://diskokosmiko.mx/[makelist.param2]</referer><connection>keep-alive</connection><accept>*/*</accept><X-Req>XMLHttpRequest</X-Req><cookieJar></cookieJar></regex><regex><name>tok</name><expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres><page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/skieset/criminal-minds-stagione-5-98352</referer><connection>keep-alive</connection><cookieJar></cookieJar></regex></item>
 
+*********************************************************
 
+<item><title>[B][COLOR white] -> [COLOR blue] STAGIONE 6 [/COLOR][/B]</title>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail><link>$doregex[makelist]</link><regex><name>makelist</name><listrepeat><![CDATA[<title> [makelist.param3]</title><link>$doregex[getUrl]</link>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail>]]></listrepeat><expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/skieset/criminal-minds-stagione-6-98357</page><cookieJar></cookieJar></regex><regex><name>getUrl</name><expres>DownloadUrl":"([^"]+)<expres><page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page><rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost><referer>http://diskokosmiko.mx/[makelist.param2]</referer><connection>keep-alive</connection><accept>*/*</accept><X-Req>XMLHttpRequest</X-Req><cookieJar></cookieJar></regex><regex><name>tok</name><expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres><page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/skieset/criminal-minds-stagione-6-98357</referer><connection>keep-alive</connection><cookieJar></cookieJar></regex></item>
 
-<item><link>ignorame</link></item>
-<item><title>-[CRIMINAL MINDS S6 ]-</title>
-<link>ignorame</link></item>
-<item><title>Criminal Minds 6x01 - Una Lunga, Lunga Notte</title>
-<urlsolve>https://streamango.com/embed/bqqdobtppbartsta/</urlsolve></item>
-<item><title>Criminal Minds 6x02 - JJ</title>
-<urlsolve>https://streamango.com/embed/qfptmnsfarbkdqlk/</urlsolve></item>
-<item><title>Criminal Minds 6x03 - Il Ricordo Delle Cose Passate</title>
-<urlsolve>https://streamango.com/embed/dntcccmkdppmnrbn/</urlsolve></item>
-<item><title>Criminal Minds 6x04 - Posizioni Compromettenti</title>
-<urlsolve>https://streamango.com/embed/sldbdcqbrkbemnct/</urlsolve></item>
-<item><title>Criminal Minds 6x05 - Anime Malvagie</title>
-<urlsolve>https://streamango.com/embed/qbqfeakfsfeatcsf/</urlsolve></item>
-<item><title>Criminal Minds 6x06 - La Notte Del Diavolo</title>
-<urlsolve>https://streamango.com/embed/nomsksrtetoeqsrc/</urlsolve></item>
-<item><title>Criminal Minds 6x07 - Bisogno D'Amore</title>
-<urlsolve>https://streamango.com/embed/okcdemnnbqedoqsp/</urlsolve></item>
-<item><title>Criminal Minds 6x08 - Riflesso Del Desiderio</title>
-<urlsolve>https://streamango.com/embed/ospaokssqropaoss/</urlsolve></item>
-<item><title>Criminal Minds 6x09 - Dentro I Boschi</title>
-<urlsolve>https://streamango.com/embed/qfksrflecclcqtna/</urlsolve></item>
-<item><title>Criminal Minds 6x10 - Cercando Il Perdono</title>
-<urlsolve>https://streamango.com/embed/dpkqqaelptmombes/</urlsolve></item>
-<item><title>Criminal Minds 6x11 - Una Storia Complessa</title>
-<urlsolve>https://streamango.com/embed/rcaloqdapqpddfro/</urlsolve></item>
-<item><title>Criminal Minds 6x12 - La Forza Del Cuore</title>
-<urlsolve>https://streamango.com/embed/qsfapkkatsstcbbb/</urlsolve></item>
- <item><title>Criminal Minds 6x13 - l tredicesimo piano</title>
-<urlsolve>https://streamango.com/embed/tloscnbbflqcobqf/</urlsolve></item>
- <item><title>Criminal Minds 6x14 - L'odore del passato</title>
-<urlsolve>https://streamango.com/embed/ectqaccdfprkqadk/</urlsolve></item>
- <item><title>Criminal Minds 6x15 - Il prezzo del cambiamento</title>
-<urlsolve>https://streamango.com/embed/naftqobckdatmnld/</urlsolve></item>
- <item><title>Criminal Minds 6x16 - Note dal profondo</title>
-<urlsolve>https://streamango.com/embed/bmsbansbmlpbocso/</urlsolve></item>
- <item><title>Criminal Minds 6x17 - Valhalla</title>
-<urlsolve>https://streamango.com/embed/tplnmrdfpafcemln/</urlsolve></item>
- <item><title>Criminal Minds 6x18 - Lauren</title>
-<urlsolve>https://streamango.com/embed/eqnaeebnbrektscp/</urlsolve></item>
- <item><title>Criminal Minds 6x19 - Con amici come questi...</title>
-<urlsolve>https://streamango.com/embed/tfbnfksanotqtcmc/</urlsolve></item>
- <item><title>Criminal Minds 6x20 - Stadi del dolore</title>
-<urlsolve>https://streamango.com/embed/amrpsnbtklfaetsa/</urlsolve></item>
- <item><title>Criminal Minds 6x21 - Ombre del passato</title>
-<urlsolve>https://streamango.com/embed/mpcrkeoaadmqqoal/</urlsolve></item>
- <item><title>Criminal Minds 6x22 - Alla ricerca di Rose</title>
-<urlsolve>https://streamango.com/embed/efbqqqpmadettdcs/</urlsolve></item>
- <item><title>Criminal Minds 6x23 - Il mare è grande</title>
-<urlsolve>https://streamango.com/embed/kqbpatnardqennpm/</urlsolve></item>
- <item><title>Criminal Minds 6x24 - Domanda e offerta</title>
-<urlsolve>https://streamango.com/embed/poktdrsoraleoskp/</urlsolve></item>
+*********************************************************
 
-<item><link>ignorame</link></item>
-<item><title>-[CRIMINAL MINDS S7 ]-</title>
-<link>ignorame</link></item>
-<item><title>Criminal Minds 7x01 - Contro ogni nemico</title>
-<urlsolve>http://www.nowvideo.li/video/07acea4cfd811</urlsolve></item>
- <item><title>Criminal Minds 7x02 - Prova estrema</title>
-<urlsolve>http://www.nowvideo.li/video/65bf892b979d2</urlsolve></item>
- <item><title>Criminal Minds 7x03 - Prigioniero della mente</title>
-<urlsolve>http://www.nowvideo.li/video/0a673f02b2964</urlsolve></item>
- <item><title>Criminal Minds 7x04 - L'escluso</title>
-<urlsolve>http://www.nowvideo.li/video/6a4147e74bd35</urlsolve></item>
- <item><title>Criminal Minds 7x05 - Il dolore della colpa</title>
-<urlsolve>http://www.nowvideo.li/video/a54b503b2503f</urlsolve></item>
- <item><title>Criminal Minds 7x06 - Al di là della morte</title>
-<urlsolve>http://www.nowvideo.li/video/34f2bd281a327</urlsolve></item>
-<item><title>Criminal Minds 7x07 - Nell'occhio del tornado</title>
-<urlsolve>http://www.nowvideo.li/video/85a5d5feba70c</urlsolve></item>
- <item><title>Criminal Minds 7x08 - Speranza</title>
-<urlsolve>http://www.nowvideo.li/video/ede0cb993a91e</urlsolve></item>
- <item><title>Criminal Minds 7x09 - Onore e disciplina</title>
-<urlsolve>http://www.nowvideo.li/video/c7f153f141902</urlsolve></item>
- <item><title>Criminal Minds 7x10 - Ultimo round</title>
-<urlsolve>http://www.nowvideo.li/video/bfe56e24e37d0</urlsolve></item>
- <item><title>Criminal Minds 7x11 - Veri geni</title>
-<urlsolve>http://www.nowvideo.li/video/fa9ea71d1ae87</urlsolve></item>
- <item><title>Criminal Minds 7x12 - Soggetto ignoto</title>
-<urlsolve>http://www.nowvideo.li/video/b7a0ac5009e1e</urlsolve></item>
- <item><title>Criminal Minds 7x13 - Il banco vince sempre</title>
-<urlsolve>http://www.nowvideo.li/video/1b46423bd93b3</urlsolve></item>
- <item><title>Criminal Minds 7x14 - L'ultimo bicchiere</title>
-<urlsolve>http://www.nowvideo.li/video/f7fa278642c52</urlsolve></item>
- <item><title>Criminal Minds 7x15 - Una linea sottile</title>
-<urlsolve>http://www.nowvideo.li/video/df9a4d0b3cb43</urlsolve></item>
- <item><title>Criminal Minds 7x16 - Affari di famiglia</title>
-<urlsolve>http://www.nowvideo.li/video/4ea540f97db9d</urlsolve></item>
- <item><title>Criminal Minds 7x17 - Ti amo, Tommy Brown</title>
-<urlsolve>http://www.nowvideo.li/video/8fb4c76a59336</urlsolve></item>
- <item><title>Criminal Minds 7x18 - La moneta del ricordo</title>
-<urlsolve>http://www.nowvideo.li/video/299cdfa556fe9</urlsolve></item>
- <item><title>Criminal Minds 7x19 - La dimora degli Heathridge</title>
-<urlsolve>http://www.nowvideo.li/video/9ef97b80f09ce</urlsolve></item>
- <item><title>Criminal Minds 7x20 - La società</title>
-<urlsolve>http://www.nowvideo.li/video/e6cd885da719d</urlsolve></item>
- <item><title>Criminal Minds 7x21 - La bacchetta del rabdomante</title>
-<urlsolve>http://www.nowvideo.li/video/585bf33b7d51b</urlsolve></item>
- <item><title>Criminal Minds 7x22 - A lezione dai profiler</title>
-<urlsolve>http://www.nowvideo.li/video/c30503bc2b092</urlsolve></item>
- <item><title>Criminal Minds 7x23-24 Colpisci.../...e fuggi</title>
-<urlsolve>http://www.nowvideo.li/video/33086ce0d6288</urlsolve></item>
+<item><title>[B][COLOR white] -> [COLOR blue] STAGIONE 7 [/COLOR][/B]</title>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail><link>$doregex[makelist]</link><regex><name>makelist</name><listrepeat><![CDATA[<title> [makelist.param3]</title><link>$doregex[getUrl]</link>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail>]]></listrepeat><expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/skieset/criminal-minds-stagione-7-98148</page><cookieJar></cookieJar></regex><regex><name>getUrl</name><expres>DownloadUrl":"([^"]+)<expres><page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page><rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost><referer>http://diskokosmiko.mx/[makelist.param2]</referer><connection>keep-alive</connection><accept>*/*</accept><X-Req>XMLHttpRequest</X-Req><cookieJar></cookieJar></regex><regex><name>tok</name><expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres><page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/skieset/criminal-minds-stagione-7-98148</referer><connection>keep-alive</connection><cookieJar></cookieJar></regex></item>
 
-<item><link>ignorame</link></item>
-<item><title>-[CRIMINAL MINDS S8 ]-</title>
-<link>ignorame</link></item>
-<item><title>Criminal Minds 8x01 - Il silenziatore</title>
-<urlsolve>http://www.nowvideo.li/video/194b9644c8354</urlsolve></item>
- <item><title>Criminal Minds 8x02 - L'accordo</title>
-<urlsolve>http://www.nowvideo.li/video/636094a41de23</urlsolve></item>
- <item><title>Criminal Minds 8x03 - Attraverso lo specchio</title>
-<urlsolve>http://www.nowvideo.li/video/47c64af77ba46</urlsolve></item>
- <item><title>Criminal Minds 8x04 - Il complesso di Dio</title>
-<urlsolve>http://www.nowvideo.li/video/d96d44b6e4e27</urlsolve></item>
- <item><title>Criminal Minds 8x05 - La buona terra</title>
-<urlsolve>http://www.nowvideo.li/video/a65214864c615</urlsolve></item>
- <item><title>Criminal Minds 8x06 - L'apprendista</title>
-<urlsolve>http://www.nowvideo.li/video/100d758068f47</urlsolve></item>
-<item><title>Criminal Minds 8x07 - Dedicato a...</title>
-<urlsolve>http://www.nowvideo.li/video/4131a877cebdf</urlsolve></item>
- <item><title>Criminal Minds 8x08 - Dei del combattimento</title>
-<urlsolve>http://www.nowvideo.li/video/379e1ec2205eb</urlsolve></item>
- <item><title>Criminal Minds 8x09 - Magnifica luce</title>
-<urlsolve>http://www.nowvideo.li/video/e02bc7181aa47</urlsolve></item>
- <item><title>Criminal Minds 8x10 - La recita</title>
-<urlsolve>http://www.nowvideo.li/video/98b685855f0db</urlsolve></item>
- <item><title>Criminal Minds 8x11 - Fantasmi dell'anima</title>
-<urlsolve>http://www.nowvideo.li/video/ba2232e500031</urlsolve></item>
- <item><title>Criminal Minds 8x12 - Zugzwang</title>
-<urlsolve>http://www.nowvideo.li/video/cb80a3415c5c5</urlsolve></item>
- <item><title>Criminal Minds 8x13 - Magnum Opus</title>
-<urlsolve>http://www.nowvideo.li/video/c633162727daf</urlsolve></item>
- <item><title>Criminal Minds 8x14 - Quel che resta...</title>
-<urlsolve>http://www.nowvideo.li/video/9bf72f0a230b3</urlsolve></item>
- <item><title>Criminal Minds 8x15 - Identità violate</title>
-<urlsolve>http://www.nowvideo.li/video/427f3cde8987f</urlsolve></item>
- <item><title>Criminal Minds 8x16 - Omicidi fotocopia</title>
-<urlsolve>http://www.nowvideo.li/video/d7be5bcd3e242</urlsolve></item>
- <item><title>Criminal Minds 8x17 - Terapia di gruppo</title>
-<urlsolve>http://www.nowvideo.li/video/309d94a09541a</urlsolve></item>
- <item><title>Criminal Minds 8x18 - Restauro</title>
-<urlsolve>http://www.nowvideo.li/video/29c724bf19d45</urlsolve></item>
- <item><title>Criminal Minds 8x19 - La pagherete in futuro</title>
-<urlsolve>http://www.nowvideo.li/video/a9ce20b2833bf</urlsolve></item>
- <item><title>Criminal Minds 8x20 - Alchimia</title>
-<urlsolve>http://www.nowvideo.li/video/7a60f90ca9eb0</urlsolve></item>
- <item><title>Criminal Minds 8x21 - Mia cara tata</title>
-<urlsolve>http://www.nowvideo.li/video/a79f7160e56a8</urlsolve></item>
- <item><title>Criminal Minds 8x22 - Numero 6</title>
-<urlsolve>http://www.nowvideo.li/video/0cd7b8fef1a50</urlsolve></item>
- <item><title>Criminal Minds 8x23-24 - I fratelli Hotchner/Il replicatore</title>
-<urlsolve>http://www.nowvideo.li/video/88e72fae2fb0a</urlsolve></item>
+*********************************************************
 
-<item><link>ignorame</link></item>
-<item><title>-[CRIMINAL MINDS S9 ]-</title>
-<link>ignorame</link></item>
-<item><title>Criminal Minds 9x01 - L'ispirazione (Parte 1)</title>
-<urlsolve>http://www.nowvideo.li/video/beb7443ede351</urlsolve></item>
- <item><title>Criminal Minds 9x02 - L'ispirazione (Parte 2)</title>
-<urlsolve>http://www.nowvideo.li/video/6f7052d50dc70</urlsolve></item>
- <item><title>Criminal Minds 9x03 - L'ultimo colpo</title>
-<urlsolve>http://www.nowvideo.li/video/ea82df02bb7da</urlsolve></item>
- <item><title>Criminal Minds 9x04 - Prestare testimonianza</title>
-<urlsolve>http://www.nowvideo.li/video/f30e2f94f15c5</urlsolve></item>
- <item><title>Criminal Minds 9x05 - Route 66</title>
-<urlsolve>http://www.nowvideo.li/video/2607b4160ad8a</urlsolve></item>
- <item><title>Criminal Minds 9x06 - Nel sangue</title>
-<urlsolve>http://www.nowvideo.li/video/4cd870b4ab47c</urlsolve></item>
-<item><title>Criminal Minds 9x07 - Il guardiano</title>
-<urlsolve>http://www.nowvideo.li/video/19081f3009fb2</urlsolve></item>
- <item><title>Criminal Minds 9x08 - Il ritorno</title>
-<urlsolve>http://www.nowvideo.li/video/aa01aca46f2c7</urlsolve></item>
- <item><title>Criminal Minds 9x09 - Il frutto dell'odio</title>
-<urlsolve>http://www.nowvideo.li/video/be2bdb19313c0</urlsolve></item>
- <item><title>Criminal Minds 9x10 - Numero privato</title>
-<urlsolve>http://www.nowvideo.li/video/6cdb64cd8eda9</urlsolve></item>
- <item><title>Criminal Minds 9x11 - Rabbia assassina</title>
-<urlsolve>http://www.nowvideo.li/video/06981588847cd</urlsolve></item>
- <item><title>Criminal Minds 9x12 - La Regina Nera</title>
-<urlsolve>http://www.nowvideo.li/video/cda53e7e02f90</urlsolve></item>
- <item><title>Criminal Minds 9x13 - La strada di casa</title>
-<urlsolve>http://www.nowvideo.li/video/9b343d33856f1</urlsolve></item>
- <item><title>Criminal Minds 9x14 - 200</title>
-<urlsolve>http://www.nowvideo.li/video/6d529a85f323e</urlsolve></item>
- <item><title>Criminal Minds 9x15 - Il signore e la signora Anderson</title>
-<urlsolve>http://www.nowvideo.li/video/4d4f602fd425b</urlsolve></item>
- <item><title>Criminal Minds 9x16 - Gabby</title>
-<urlsolve>http://www.nowvideo.li/video/4c8556983a6f5</urlsolve></item>
- <item><title>Criminal Minds 9x17 - Persuasione</title>
-<urlsolve>http://www.nowvideo.li/video/79f655a101ec3</urlsolve></item>
- <item><title>Criminal Minds 9x18 - Idrofobo</title>
-<urlsolve>http://www.nowvideo.li/video/d214019ee05ad</urlsolve></item>
- <item><title>Criminal Minds 9x19 - La realtà dimenticata</title>
-<urlsolve>http://www.nowvideo.li/video/3233fc086a8c3</urlsolve></item>
- <item><title>Criminal Minds 9x20 - Relazioni di sangue</title>
-<urlsolve>http://www.nowvideo.li/video/f404c26c51add</urlsolve></item>
- <item><title>Criminal Minds 9x21 - Che succede a Mecklinburg...</title>
-<urlsolve>http://www.nowvideo.li/video/bf1e077eef906</urlsolve></item>
- <item><title>Criminal Minds 9x22 - Destino</title>
-<urlsolve>http://www.nowvideo.li/video/3d55d863ccc3e</urlsolve></item>
- <item><title>Criminal Minds 9x23 - Angeli</title>
-<urlsolve>http://www.nowvideo.li/video/87162a322f805</urlsolve></item>
- <item><title>Criminal Minds 9x24 - Demoni</title>
-<urlsolve>http://www.nowvideo.li/video/9c03e24fb56dd</urlsolve></item>
+<item><title>[B][COLOR white] -> [COLOR blue] STAGIONE 8 [/COLOR][/B]</title>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail><link>$doregex[makelist]</link><regex><name>makelist</name><listrepeat><![CDATA[<title> [makelist.param3]</title><link>$doregex[getUrl]</link>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail>]]></listrepeat><expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/skieset/criminal-minds-stagione-8-98164</page><cookieJar></cookieJar></regex><regex><name>getUrl</name><expres>DownloadUrl":"([^"]+)<expres><page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page><rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost><referer>http://diskokosmiko.mx/[makelist.param2]</referer><connection>keep-alive</connection><accept>*/*</accept><X-Req>XMLHttpRequest</X-Req><cookieJar></cookieJar></regex><regex><name>tok</name><expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres><page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/skieset/criminal-minds-stagione-8-98164</referer><connection>keep-alive</connection><cookieJar></cookieJar></regex></item>
 
-<item><link>ignorame</link></item>
-<item><title>-[CRIMINAL MINDS S10 ]-</title>
-<link>ignorame</link></item>
-<item><title>Criminal Minds 10x01 - X</title>
-<urlsolve>https://streamango.com/f/tcrrlaccpntecraf/</urlsolve></item>
- <item><title>Criminal Minds 10x02	- Le porte dell'inferno</title>
-<urlsolve>https://streamango.com/f/mbencqccmkrpqdls/</urlsolve></item>
- <item><title>Criminal Minds 10x03 - Mille soli sfolgoranti</title>
-<urlsolve>https://streamango.com/f/qsokeqetrqtdlcco/</urlsolve></item>
- <item><title>Criminal Minds 10x04 - Terrore sotto la pelle</title>
-<urlsolve>https://streamango.com/f/kpmkbsfdopeopscp/</urlsolve></item>
- <item><title>Criminal Minds 10x05 - l castigo di Halloween</title>
-<urlsolve>https://streamango.com/f/tmpbmldsnperbbsp/</urlsolve></item>
- <item><title>Criminal Minds 10x06 - Se la scarpetta...</title>
-<urlsolve>https://streamango.com/f/dqdcnksrppbrcdpb/</urlsolve></item>
-<item><title>Criminal Minds 10x07 - Hashtag</title>
-<urlsolve>https://streamango.com/f/lonflecmbclkrsrn/</urlsolve></item>
- <item><title>Criminal Minds 10x08 - Traumi del passato</title>
-<urlsolve>https://streamango.com/f/krdfeadqkfdplckl/</urlsolve></item>
- <item><title>Criminal Minds 10x09 - Destini incrociati</title>
-<urlsolve>https://vivo.sx/803b58b57f</urlsolve></item>
- <item><title>Criminal Minds 10x10 - Amelia Porter</title>
-<urlsolve>https://vivo.sx/4f06c2ea1d</urlsolve></item>
- <item><title>Criminal Minds 10x11 - Il popolo eterno</title>
-<urlsolve>https://vivo.sx/2e03001e26</urlsolve>
- <item><title>Criminal Minds 10x12 - Anonimo</title>
-<urlsolve>https://vivo.sx/c7ffb1e732</urlsolve>
- <item><title>Criminal Minds 10x13 - Il passero di Nelson</title>
-<urlsolve>https://vivo.sx/966007730c</urlsolve>
- <item><title>Criminal Minds 10x14 - Il culto dell'eroe</title>
-<urlsolve>https://vivo.sx/512b480632</urlsolve></item>
- <item><title>Criminal Minds 10x15 - Urla!</title>
-<urlsolve>https://vivo.sx/fe3f6d76f4</urlsolve>
- <item><title>Criminal Minds 10x16 - Carcere di massima sicurezza</title>
-<urlsolve>https://vivo.sx/ed0a1f93f9</urlsolve></item>
- <item><title>Criminal Minds 10x17 - Asfissia erotica</title>
-<urlsolve>http://www.nowvideo.li/video/3b1a00677184a</urlsolve></item>
- <item><title>Criminal Minds 10x18 - Rock Creek Park</title>
-<urlsolve>https://vivo.sx/0b81da8d85</urlsolve>
- <item><title>Criminal Minds 10x19 - Al di là dei confini</title>
-<urlsolve>https://vivo.sx/97ad1c5ee5</urlsolve>
- <item><title>Criminal Minds 10x20 - Un posto a tavola</title>
-<urlsolve>https://vivo.sx/2ca7e0a395</urlsolve></item>
- <item><title>Criminal Minds 10x21 - Signor Graffio</title>
-<urlsolve>http://www.nowvideo.li/video/c6a77616052ce</urlsolve></item>
- <item><title>Criminal Minds 10x22 - Protezione</title>
-<urlsolve>http://www.nowvideo.li/video/30f52840b72cd</urlsolve></item>
- <item><title>Criminal Minds 10x23 - La caccia</title>
-<urlsolve>https://vivo.sx/b9886777c6</urlsolve></item>
+*********************************************************
 
-<item><link>ignorame</link></item>
-<item><title>-[CRIMINAL MINDS S11 ]-</title>
-<link>ignorame</link></item>
-<item><title>Criminal Minds 11x01 - Un Lavoro Sporco</title>
-<urlsolve>https://streamango.com/f/baqdqqpcpaktdrlp/</urlsolve></item>
- <item><title>Criminal Minds 11x02 - Il Testimone </title>
-<urlsolve>https://streamango.com/f/parqddbnnapelbam/</urlsolve></item>
- <item><title>Criminal Minds 11x03 - Finche Morte non ci Separi</title>
-<urlsolve>https://streamango.com/f/rbmookqkakcksmtp/</urlsolve></item>
- <item><title>Criminal Minds 11x04 - Fuorilegge</title>
-<urlsolve>https://streamango.com/f/nddlfqdtlqcoccfk/</urlsolve></item>
- <item><title>Criminal Minds 11x05 - I Fantasmi della Notte</title>
-<urlsolve>https://streamango.com/f/nqtpadspqtssfpda/</urlsolve></item>
- <item><title>Criminal Minds 11x06 - La Citta dei Reietti</title>
-<urlsolve>https://streamango.com/f/ctodsptrdmptdnkc/</urlsolve></item>
-<item><title>Criminal Minds 11x07 - Un Mondo di Squali</title>
-<urlsolve>https://streamango.com/f/kpflsstdoessapsf/</urlsolve></item>
- <item><title>Criminal Minds 11x08 - Ad Occhi Sbarrati</title>
-<urlsolve>https://streamango.com/f/cfkmrscqdtknalnq/</urlsolve></item>
- <item><title>Criminal Minds 11x09 - Affari Interni</title>
-<urlsolve>https://streamango.com/f/fqlarmlpnbdmbqlc/</urlsolve></item>
- <item><title>Criminal Minds 11x10 - Futuro allo Specchio</title>
-<urlsolve>https://streamango.com/f/fffqkkbaskcnltos/</urlsolve></item>
- <item><title>Criminal Minds 11x11 - Entropia</title>
-<urlsolve>https://streamango.com/f/amscmpqlfpnmnedt/</urlsolve></item>
- <item><title>Criminal Minds 11x12 - Il Conducente</title>
-<urlsolve>https://streamango.com/f/slsqctlrbsomaknf/</urlsolve></item>
- <item><title>Criminal Minds 11x13 - Legami di Sangue</title>
-<urlsolve>https://streamango.com/f/dlpmlbscsfcdkenq/</urlsolve></item>
- <item><title>Criminal Minds 11x14 - Ostaggi</title>
-<urlsolve>https://streamango.com/f/tockpmaqcrpmdcpm/</urlsolve></item>
- <item><title>Criminal Minds 11x15 - Distintivo e Pistola</title>
-<urlsolve>https://streamango.com/f/fbepdloqlofrtlot/</urlsolve></item>
- <item><title>Criminal Minds 11x16 - Derek</title>
-<urlsolve>https://streamango.com/f/marledpmbolqefde/</urlsolve></item>
- <item><title>Criminal Minds 11x17 - L’Uomo della Sabbia</title>
-<urlsolve>https://streamango.com/f/rlcdokrprpksdqmn/</urlsolve></item>
- <item><title>Criminal Minds 11x18 - Ogni Fine Ha anche un Inizio</title>
-<urlsolve>https://streamango.com/f/bnbealleqsfcspsl/</urlsolve></item>
- <item><title>Criminal Minds 11x19 - Omaggio</title>
-<urlsolve>https://streamango.com/f/fsoafpmskdonfspl/</urlsolve></item>
- <item><title>Criminal Minds 11x20 - Bellezza Interiore</title>
-<urlsolve>https://streamango.com/f/osbobfkselbtefdn/</urlsolve></item>
- <item><title>Criminal Minds 11x21 - La Spina Dorsale del Diavolo</title>
-<urlsolve>https://streamango.com/f/ckodflnbpnpkktel/</urlsolve></item>
- <item><title>Criminal Minds 11x22 - La Tempesta</title>
-<urlsolve>https://streamango.com/f/ftknqnmqbskcftpn/</urlsolve></item>
+<item><title>[B][COLOR white] -> [COLOR blue] STAGIONE 9 [/COLOR][/B]</title>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail><link>$doregex[makelist]</link><regex><name>makelist</name><listrepeat><![CDATA[<title> [makelist.param3]</title><link>$doregex[getUrl]</link>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail>]]></listrepeat><expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/skieset/criminal-minds-stagione-9-98175</page><cookieJar></cookieJar></regex><regex><name>getUrl</name><expres>DownloadUrl":"([^"]+)<expres><page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page><rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost><referer>http://diskokosmiko.mx/[makelist.param2]</referer><connection>keep-alive</connection><accept>*/*</accept><X-Req>XMLHttpRequest</X-Req><cookieJar></cookieJar></regex><regex><name>tok</name><expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres><page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/skieset/criminal-minds-stagione-9-98175</referer><connection>keep-alive</connection><cookieJar></cookieJar></regex></item>
 
-<item><link>ignorame</link></item>
-<item><title>-[CRIMINAL MINDS S12 ]-</title>
-<link>ignorame</link></item>
-<item><title>Criminal Minds 12x01 - Il Re Cremisi </title>
-<urlsolve>https://streamango.com/f/kmfeccqdmakkffee</urlsolve></item>
- <item><title>Criminal Minds 12x02 - Sensi Di Colpa </title>
-<urlsolve>https://streamango.com/embed/nnlqkoeqcapfabqm/</urlsolve></item>
- <item><title>Criminal Minds 12x03 - Taboo</title>
-<urlsolve>https://streamango.com/embed/poqfltktfcddcpan/</urlsolve></item>
- <item><title>Criminal Minds 12x04 - Il Custode</title>
-<urlsolve>https://streamango.com/f/caensfpsddcpcdtt/</urlsolve></item>
- <item><title>Criminal Minds 12x05 - Non Fare Agli Altri</title>
-<urlsolve>https://streamango.com/f/faaqedtklnmosacq/</urlsolve></item>
- <item><title>Criminal Minds 12x06 - Lo Stagno Di Elliot</title>
-<urlsolve>https://streamango.com/f/fmfckcfbsokqbbde/</urlsolve></item>
-<item><title>Criminal Minds 12x07 - Immagine Speculare</title>
-<urlsolve>https://streamango.com/f/fetpfqncdsqqcebm/</urlsolve></item>
- <item><title>Criminal Minds 12x08 - Lo Spaventapasseri</title>
-<urlsolve>https://streamango.com/f/qosooaodkefpqlqq/</urlsolve></item>
- <item><title>Criminal Minds 12x09 - Profiling 202</title>
-<urlsolve>https://streamango.com/f/tbotldenlcaknbdf/</urlsolve></item>
- <item><title>Criminal Minds 12x10 - La Rabbia Dentro</title>
-<urlsolve>https://streamango.com/f/ccqkbnpplsotorpn/</urlsolve></item>
- <item><title>Criminal Minds 12x11 - Il Tempo della Memoria</title>
-<urlsolve>https://streamango.com/f/dtasdqtnlebqptnt/</urlsolve></item>
- <item><title>Criminal Minds 12x12 - Un Buon Marito</title>
-<urlsolve>https://streamango.com/f/sborqcecrasssbms/</urlsolve></item>
- <item><title>Criminal Minds 12x13 - Spencer</title>
-<urlsolve>https://streamango.com/f/aspdrfdpcnctkcof/</urlsolve></item>
- <item><title>Criminal Minds 12x14 - Rotta di Collisione</title>
-<urlsolve>https://streamango.com/f/mrpplttdellqfmas/</urlsolve></item>
- <item><title>Criminal Minds 12x15 - Maschio Alfa</title>
-<urlsolve>https://streamango.com/f/fldqtfskkqobedea/</urlsolve></item>
- <item><title>Criminal Minds 12x16 - Un Aiuto Inutile</title>
-<urlsolve>https://streamango.com/f/btbmbpamndrbtmam/</urlsolve></item>
- <item><title>Criminal Minds 12x17 - Nell’Oscurita</title>
-<urlsolve>https://streamango.com/f/epfooarrqlobfaeo/</urlsolve></item>
-<item><title>Criminal Minds 12x18 - Hell Kitcken </title>
-<urlsolve>https://streamango.com/f/kecqbrbccpenqdcl/</urlsolve></item>
-<item><title>Criminal Minds 12x19 - Il Vero Nord</title>
-<urlsolve>https://streamango.com/f/nttodqrlbkodkcsd/</urlsolve></item>
-<item><title>Criminal Minds 12x20 - Indimenticabile</title>
-<urlsolve>https://streamango.com/f/kqtqfboplemnfpqc/</urlsolve></item>
-<item><title>Criminal Minds 12x21 - Luce Verde</title>
-<urlsolve>https://streamango.com/f/etamadtqsfoeacof/</urlsolve></item>
-<item><title>Criminal Minds 12x22 - Luce Rossa</title>
-<urlsolve>https://streamango.com/f/ccebbkctsrcrsfme/</urlsolve></item>
+*********************************************************
 
-<item><link>ignorame</link></item>
-<item><title>-[CRIMINAL MINDS S13 ]-</title>
-<link>https://eurostreaming.club/criminal-minds-episodi/</link></item>
+<item><title>[B][COLOR white] -> [COLOR blue] STAGIONE 10 [/COLOR][/B]</title>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail><link>$doregex[makelist]</link><regex><name>makelist</name><listrepeat><![CDATA[<title> [makelist.param3]</title><link>$doregex[getUrl]</link>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail>]]></listrepeat><expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/skieset/criminal-minds-stagione-10-98358</page><cookieJar></cookieJar></regex><regex><name>getUrl</name><expres>DownloadUrl":"([^"]+)<expres><page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page><rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost><referer>http://diskokosmiko.mx/[makelist.param2]</referer><connection>keep-alive</connection><accept>*/*</accept><X-Req>XMLHttpRequest</X-Req><cookieJar></cookieJar></regex><regex><name>tok</name><expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres><page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/skieset/criminal-minds-stagione-10-98358</referer><connection>keep-alive</connection><cookieJar></cookieJar></regex></item>
+
+*********************************************************
+
+<item><title>[B][COLOR white] -> [COLOR blue] STAGIONE 11 [/COLOR][/B]</title>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail><link>$doregex[makelist]</link><regex><name>makelist</name><listrepeat><![CDATA[<title> [makelist.param3]</title><link>$doregex[getUrl]</link>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail>]]></listrepeat><expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/skieset/criminal-minds-stagione-11-98359</page><cookieJar></cookieJar></regex><regex><name>getUrl</name><expres>DownloadUrl":"([^"]+)<expres><page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page><rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost><referer>http://diskokosmiko.mx/[makelist.param2]</referer><connection>keep-alive</connection><accept>*/*</accept><X-Req>XMLHttpRequest</X-Req><cookieJar></cookieJar></regex><regex><name>tok</name><expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres><page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/skieset/criminal-minds-stagione-11-98359</referer><connection>keep-alive</connection><cookieJar></cookieJar></regex></item>
+
+*********************************************************
+
+<item><title>[B][COLOR white] -> [COLOR blue] STAGIONE 12 [/COLOR][/B]</title>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail><link>$doregex[makelist]</link><regex><name>makelist</name><listrepeat><![CDATA[<title> [makelist.param3]</title><link>$doregex[getUrl]</link>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail>]]></listrepeat><expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/skieset/criminal-minds-stagione-12-98360</page><cookieJar></cookieJar></regex><regex><name>getUrl</name><expres>DownloadUrl":"([^"]+)<expres><page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page><rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost><referer>http://diskokosmiko.mx/[makelist.param2]</referer><connection>keep-alive</connection><accept>*/*</accept><X-Req>XMLHttpRequest</X-Req><cookieJar></cookieJar></regex><regex><name>tok</name><expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres><page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/skieset/criminal-minds-stagione-12-98360</referer><connection>keep-alive</connection><cookieJar></cookieJar></regex></item>
+
+*********************************************************
+
+<item><title>[B][COLOR white] -> [COLOR blue] STAGIONE 13 [/COLOR][/B]</title>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail><link>$doregex[makelist]</link><regex><name>makelist</name><listrepeat><![CDATA[<title> [makelist.param3]</title><link>$doregex[getUrl]</link>
+<fanart>http://www.domanipress.it/wordpress/wp-content/uploads/2016/09/criminal-minds.jpg</fanart><thumbnail>http://www.filmpertutti.black/wp-content/uploads/2011/05/Criminal-Minds-img.jpg</thumbnail>]]></listrepeat><expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>http://diskokosmiko.mx/skieset/criminal-minds-stagione-13-98361</page><cookieJar></cookieJar></regex><regex><name>getUrl</name><expres>DownloadUrl":"([^"]+)<expres><page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page><rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost><referer>http://diskokosmiko.mx/[makelist.param2]</referer><connection>keep-alive</connection><accept>*/*</accept><X-Req>XMLHttpRequest</X-Req><cookieJar></cookieJar></regex><regex><name>tok</name><expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres><page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>http://diskokosmiko.mx/skieset/criminal-minds-stagione-13-98361</referer><connection>keep-alive</connection><cookieJar></cookieJar></regex></item>
+
 <item><title>Criminal Minds 13x01 - Decolliamo</title>
 <urlsolve>https://streamango.com/embed/qrqkmqfnellscrpk/</urlsolve></item>
 <item><title>Criminal Minds 13x02 - Verso un Posto Migliore</title>
