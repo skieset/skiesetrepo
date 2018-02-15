@@ -1,43 +1,10 @@
-<item>
-<title>[COLOR white]ｻ[B][COLOR yellow]SUPERNATURAL ST 1 [/COLOR][/B]</title>
-<thumbnail>https://vignette.wikia.nocookie.net/supernatural/images/a/a6/Season_10_poster.jpg</thumbnail>
-<fanart>http://wallpaperget.com/images/supernatural-wallpaper-hd-9.jpg</fanart>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-       <title> [makelist.param3]</title>
-       <link>$doregex[getUrl]</link>
-<thumbnail>https://vignette.wikia.nocookie.net/supernatural/images/a/a6/Season_10_poster.jpg</thumbnail>
-<fanart>http://wallpaperget.com/images/supernatural-wallpaper-hd-9.jpg</fanart>
-]]></listrepeat>
-<expres><![CDATA[href="¥/.*,(.*?),list.*¥n.*¥n.*¥n.*href="¥/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MAK086/supernatural-st-1-ita-by-mak086-88234/</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MAK086/supernatural-st-1-ita-by-mak086-88234/</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-</item>
+<item><title>[B][COLOR white] -> [COLOR blue] STAGIONE 1 [/COLOR][/B]</title>
+<link>http://ignorame</link>
+<fanart></fanart><thumbnail></thumbnail>
+<info></info>
+<externallink>https://pastebin.com/raw/syYfZPAk</externallink></item>
 
-
-
+*********************************************************
 
 <item>
 <title>[COLOR white]ｻ[B][COLOR yellow]SUPERNATURAL ST 2 [/COLOR][/B]</title>
