@@ -1,14 +1,14 @@
+<item><title>[COLOR white]________________[/COLOR][COLOR violet][B]MENU SERIE TV[/COLOR][/B][COLOR white]________________[/COLOR]</title>  
+<link>ignore</link>
+<fanart>https://www.4fan.it/wp-content/uploads/2017/09/sky-offerte-abbonamento.jpg</fanart>
+</item>
+
 <item>
 <title>[B][COLOR white] -> [COLOR blue] SERIE A-B-C[/COLOR][/B]</title>
 <link>http://ignorame</link>
 <fanart></fanart>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/A-B-C</externallink>
-</item>
-
-<item> 
-<title>[B][COLOR white]     [/COLOR][/B]</title> 
-<link>ignore</link>
 </item>
 
 <item>
@@ -19,11 +19,6 @@
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/D-E-F</externallink>
 </item>
 
-<item> 
-<title>[B][COLOR white]     [/COLOR][/B]</title> 
-<link>ignore</link>
-</item>
-
 <item>
 <title>[B][COLOR white] -> [COLOR blue] SERIE G-H-I[/COLOR][/B]</title>
 <link>http://ignorame</link>
@@ -32,10 +27,6 @@
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/G-H-I</externallink>
 </item>
 
-<item> 
-<title>[B][COLOR white]     [/COLOR][/B]</title> 
-<link>ignore</link>
-</item>
 
 <item>
 <title>[B][COLOR white] -> [COLOR blue] SERIE J-L-M[/COLOR][/B]</title>
@@ -45,10 +36,6 @@
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/J-L-M</externallink>
 </item>
 
-<item> 
-<title>[B][COLOR white]     [/COLOR][/B]</title> 
-<link>ignore</link>
-</item>
 
 <item>
 <title>[B][COLOR white] -> [COLOR blue] SERIE N-O-P[/COLOR][/B]</title>
@@ -56,11 +43,6 @@
 <fanart></fanart>
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/N-O-P</externallink>
-</item>
-
-<item> 
-<title>[B][COLOR white]     [/COLOR][/B]</title> 
-<link>ignore</link>
 </item>
 
 <item>
@@ -71,10 +53,6 @@
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/Q-R-S</externallink>
 </item>
 
-<item> 
-<title>[B][COLOR white]     [/COLOR][/B]</title> 
-<link>ignore</link>
-</item>
 
 <item>
 <title>[B][COLOR white] -> [COLOR blue] SERIE T-U-V-W-Z[/COLOR][/B]</title>
