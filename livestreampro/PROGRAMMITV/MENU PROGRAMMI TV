@@ -1,34 +1,23 @@
-<item> 
-<title>[B][COLOR white] -> [COLOR blue]Programmi Mediaset [/B][/COLOR]</title> 
-<link>ignorme</link>
-<thumbnail>http://www.mediaset.it/sso/res/img/sso-mediaset.png</thumbnail>
-<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_id=TUTTI</jsonrpc> 
-</item>
+<item><title>[COLOR white]________________[/COLOR][COLOR violet][B]MENU PROGRAMMI TV[/COLOR][/B][COLOR white]________________[/COLOR]</title> <link>ignore</link></item>
 
-<item> 
-<title>[B][COLOR white] -> [COLOR blue]Programmi Rai [/B][/COLOR]</title> 
-<link>ignorme</link> 
+<item><title> </title><link>http://ignorame</link></item>
+
+<item> <title>[B][COLOR white] -> [COLOR blue] PROGRAMMI RAI [/B][/COLOR]</title> <link>ignorme</link> 
 <thumbnail>https://yt3.ggpht.com/-QxH950SwR3Y/AAAAAAAAAAI/AAAAAAAAAAA/EW4KzydLWyQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<jsonrpc>plugin://plugin.video.raitv/?mode=ondemand&amp;path_id=%2fraiplay%2fprogrammi%2f%3fjson&amp;sub_type=RaiPlay%20Tipologia%20Page</jsonrpc> 
-</item>
+<jsonrpc>plugin://plugin.video.raitv/?mode=ondemand&amp;path_id=%2fraiplay%2fprogrammi%2f%3fjson&amp;sub_type=RaiPlay%20Tipologia%20Page</jsonrpc> </item>
 
-<item> 
-<title>[B][COLOR white] -> [COLOR blue]Programmi MTV[/B][/COLOR]</title> 
-<link>http://ignorame</link>
+<item> <title>[B][COLOR white] -> [COLOR blue] PROGRAMMI MEDIASET [/B][/COLOR]</title> <link>ignorme</link>
+<thumbnail>http://www.mediaset.it/sso/res/img/sso-mediaset.png</thumbnail>
+<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_id=TUTTI</jsonrpc> </item>
+
+<item> <title>[B][COLOR white] -> [COLOR blue] PROGRAMMI MTV[/B][/COLOR]</title> <link>http://ignorame</link>
 <thumbnail>https://kodi.tv/sites/default/files/addon_assets/plugin.video.mtv.it/icon/icon.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/MENU%20MTV%20SHOW</externallink>
-</item>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/MENU%20MTV%20SHOW</externallink></item>
 
-<item> 
-<title>[B][COLOR white] -> [COLOR blue]Programmi SKY [/B][/COLOR]</title> 
-<link>http://ignorame</link>
+<item> <title>[B][COLOR white] -> [COLOR blue] PROGRAMMI SKY [/B][/COLOR]</title> <link>http://ignorame</link>
 <thumbnail>https://images.everyeye.it/img-singole/articolo-11018.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/MENU%20PROGRAMMI%20SKY</externallink>
-</item>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/MENU%20PROGRAMMI%20SKY</externallink></item>
 
-<item> 
-<title>[B][COLOR white] -> [COLOR blue]Programmi dplay [/B][/COLOR]</title> 
-<link>ignorme</link> 
+<item> <title>[B][COLOR white] -> [COLOR blue] PROGRAMMI DPLAY [/B][/COLOR]</title> <link>ignorme</link> 
 <thumbnail>https://lh3.googleusercontent.com/MqJUJM9XPWshMdrKPrKnZH_ymtnITaiuwp_Rwr7Kp6jaNpEFBC2_dG7DuZ1mGDQ_hy0=w300</thumbnail
-<jsonrpc>plugin://plugin.video.dplay/</jsonrpc> 
-</item>
+<jsonrpc>plugin://plugin.video.dplay/</jsonrpc> </item>
