@@ -1,16 +1,13 @@
-<item> 
-<title>[B][COLOR white] -> [COLOR blue] Ricera Youtube[/COLOR] [/B] </title>
-<link>plugin://plugin.video.youtube/kodion/search/input</link>
-</item>
+<item><title>[COLOR white]________________[/COLOR][COLOR violet][B]MENU MUSICA[/COLOR][/B][COLOR white]________________[/COLOR]</title>  
+<link>ignore</link></item>
 
-<item> 
-<title>Tormentoni del momento</title> 
-<link>ignorme</link> 
-<jsonrpc>plugin://plugin.video.youtube/channel/UCvwCdJ0xl_g8CC2Bguipz3A/playlist/PL2BN1Zd8U_MssIypK2Bu3MhyPWjDbyMOX/</jsonrpc> 
-</item>
+<item><title> </title>  <link>ignore</link></item>
 
-<item> 
-<title>Classifica</title> 
-<link>ignorme</link> 
-<jsonrpc>plugin://plugin.video.youtube/channel/gazzellina58/playlist/PL08MW4hWrm0LerTXrAcpyp5dnjLnCJXUG/</jsonrpc> 
-</item>
+<item> <title>[B][COLOR white] -> [COLOR blue] RICERCA YOUTUBE[/COLOR] [/B] </title>
+<link>plugin://plugin.video.youtube/kodion/search/input</link></item>
+
+<item> <title>[B][COLOR white] -> [COLOR blue] TORMENTONI DEL MOMENTO[/COLOR] [/B] </title> <link>ignorme</link> 
+<jsonrpc>plugin://plugin.video.youtube/channel/UCvwCdJ0xl_g8CC2Bguipz3A/playlist/PL2BN1Zd8U_MssIypK2Bu3MhyPWjDbyMOX/</jsonrpc></item>
+
+<item> <title>[B][COLOR white] -> [COLOR blue] CLASSIFICA[/COLOR] [/B] </title><link>ignorme</link> 
+<jsonrpc>plugin://plugin.video.youtube/channel/gazzellina58/playlist/PL08MW4hWrm0LerTXrAcpyp5dnjLnCJXUG/</jsonrpc> </item>
