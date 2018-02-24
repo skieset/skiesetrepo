@@ -1,44 +1,46 @@
-<item><title>[COLOR white]________________[/COLOR][COLOR violet][B]MENU CANALI TV[/COLOR][/B][COLOR white]________________[/COLOR]</title>  
-<link>ignore</link></item>
+<item><title>[COLOR white]________________[/COLOR][COLOR violet][B]DIGITALE TERRESTRE[/COLOR][/B][COLOR white]________________[/COLOR]</title><link>ignore</link></item>
 
-<item><title> </title>  <link>ignore</link></item>
-
-<item><title>[B][COLOR blue]DIGITALE TERRESTRE[/COLOR][/B]</title><link>http://ignorame</link>
+<item><title>[B][COLOR white] -> [COLOR blue] DIGITALE TERRESTRE[/COLOR][/B]</title><link>http://ignorame</link>
 <thumbnail>https://blog.nicolaselenu.com/wp-content/uploads/scaricare-video-mediaset-it-rai-tv-salvare-programmi-canale5-italia1-rete4-digitale-terrestre.jpg</thumbnail>
 <fanart>http://www.webmasterpoint.org/img/speciali/original/5746.jpg</fanart>
 <externallink>https://pastebin.com/raw/BffdMPVt$$TSDOWNLOADER$$</externallink></item>
+
+<item><title>[B][COLOR white] -> [COLOR blue] CANALI RSI [/COLOR][/B]</title><link>http://ignorame</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/4/4a/RSI-Logo2009.png</thumbnail>
+<jsonrpc>plugin%3A%2F%2Fplugin.video.kodilivetv%2F%3Fdescription%26iconimage%3Dhttps%253a%252f%252fkodilive.eu%252ficon%252fplayrsi.png%26mode%3D2%26name%3D%255bCOLOR%2520gold%255d%255bB%255dRSI.ch%255b%252fB%255d%255b%252fCOLOR%255d%26url%3Drsi.txt%26sf_options%3Dfanart%253Dspecial%253A%252F%252Fhome%252Faddons%255Cplugin.video.kodilivetv%255Cfanart.jpg%2526_options_sf%22%2Creturn%29&amp;image=https%3A%2F%2Fkodilive.eu%2Ficon%2Fplayrsi.png&amp;fanart=special%3A%2F%2Fhome%2Faddons%5Cplugin.video.kodilivetv%5Cfanart.jpg&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.video.kodilivetv%5Cfanart.jpg%26_options_sf</jsonrpc>
+</item>
 
 <item><title>[COLOR white]________________[/COLOR][COLOR violet][B]SKY[/COLOR][/B][COLOR white]________________[/COLOR]</title>  
 <link>ignore</link>
 <fanart>https://www.4fan.it/wp-content/uploads/2017/09/sky-offerte-abbonamento.jpg</fanart>
 </item>
 
-<item><title>[B][COLOR blue]INTRATTENIMENTO[/COLOR][/B]</title> <link>http://Ignoreme</link> 
+<item><title>[B][COLOR white] -> [COLOR blue] INTRATTENIMENTO[/COLOR][/B]</title> <link>http://Ignoreme</link> 
 <thumbnail></thumbnail> 
 <fanart>https://www.4fan.it/wp-content/uploads/2017/09/sky-offerte-abbonamento.jpg</fanart>
 <externallink>https://pastebin.com/raw/w3eaVhE9$$TSDOWNLOADER$$</externallink> </item>
 
-<item><title>[B][COLOR blue]CINEMA[/COLOR][/B]</title><link>http://ignorame</link>
+<item><title>[B][COLOR white] -> [COLOR blue] CINEMA[/COLOR][/B]</title><link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart>https://www.4fan.it/wp-content/uploads/2017/09/sky-offerte-abbonamento.jpg</fanart>
 <externallink>https://pastebin.com/raw/Q8E4xjHk$$TSDOWNLOADER$$</externallink></item>
 
-<item><title>[B][COLOR blue]CULTURA[/COLOR][/B]</title><link>http://ignorame</link>
+<item><title>[B][COLOR white] -> [COLOR blue] CULTURA[/COLOR][/B]</title><link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart>https://www.4fan.it/wp-content/uploads/2017/09/sky-offerte-abbonamento.jpg</fanart>
 <externallink>https://pastebin.com/raw/UJjAkdfk$$TSDOWNLOADER$$</externallink></item>
 
-<item><title>[B][COLOR blue]SPORT[/COLOR][/B]</title><link>http://ignorame</link>
+<item><title>[B][COLOR white] -> [COLOR blue] SPORT[/COLOR][/B]</title><link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart>https://www.4fan.it/wp-content/uploads/2017/09/sky-offerte-abbonamento.jpg</fanart>
 <externallink>https://pastebin.com/raw/zp1p40S2$$TSDOWNLOADER$$</externallink></item>
 
-<item><title>[B][COLOR blue]BAMBINI[/COLOR][/B]</title><link>http://ignorame</link>
+<item><title>[B][COLOR white] -> [COLOR blue] BAMBINI[/COLOR][/B]</title><link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart>https://www.4fan.it/wp-content/uploads/2017/09/sky-offerte-abbonamento.jpg</fanart>
 <externallink>https://pastebin.com/raw/j9HkGunL$$TSDOWNLOADER$$</externallink></item>
 
-<item><title>[B][COLOR blue]DEDICATI KIDS[/COLOR][/B]</title><link>http://ignora.me</link>
+<item><title>[B][COLOR white] -> [COLOR blue] DEDICATI KIDS[/COLOR][/B]</title><link>http://ignora.me</link>
 <thumbnail></thumbnail>
 <fanart>https://www.4fan.it/wp-content/uploads/2017/09/sky-offerte-abbonamento.jpg</fanart>
 <externallink>https://pastebin.com/raw/3hcCHZ2c$$TSDOWNLOADER$$</externallink></item>
@@ -46,12 +48,12 @@
 <item> <title>[COLOR white]____________[/COLOR][COLOR violet][B]MEDIASET PREMIUM[/COLOR][/B][COLOR white]____________[/COLOR]</title><link>ignore</link>
 <fanart>http://www.calcioefinanza.it/wp-content/uploads/2014/11/mediaset-premium.jpg</fanart></item>
 
-<item><title>[B][COLOR blue]CINEMA[/COLOR][/B]</title><link>http://ignorame</link>
+<item><title>[B][COLOR white] -> [COLOR blue] CINEMA[/COLOR][/B]</title><link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart>http://www.calcioefinanza.it/wp-content/uploads/2014/11/mediaset-premium.jpg</fanart>
 <externallink>https://pastebin.com/raw/CWcP3wzF$$TSDOWNLOADER$$</externallink></item>
 
-<item><title>[B][COLOR blue]CALCIO[/COLOR][/B]</title><link>http://ignorame</link>
+<item><title>[B][COLOR white] -> [COLOR blue] CALCIO[/COLOR][/B]</title><link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart>http://www.calcioefinanza.it/wp-content/uploads/2014/11/mediaset-premium.jpg</fanart>
 <externallink>https://pastebin.com/raw/Hxzjczze$$TSDOWNLOADER$$</externallink></item>
