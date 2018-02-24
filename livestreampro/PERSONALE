@@ -1,10 +1,9 @@
-<item><title>[B][COLOR white]::::::::::::::::::::::::::::::  MENU ::::::::::::::::::::::::::::::[/COLOR][/B]</title> <link>ignore</link></item>
+<item><title>[COLOR white]:::::::::::::::::::::::::  [B]MENU[/B] :::::::::::::::::::::::::[/COLOR]</title> <link>ignore</link></item>
 
 <item><title>[B][COLOR white]->  [COLOR blue] TV [/COLOR][/B]</title><link>http://ignorame</link>
-<SetViewMode> 0 </SetViewMode>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/MENU%20TV</externallink></item>
 
-<item><title>[B][COLOR white]-> [COLOR blue] SERIE TV [/COLOR][/B]</title><link>http://ignorame</link>
+<item><title>[B][COLOR white]->  [COLOR blue] SERIE TV [/COLOR][/B]</title><link>http://ignorame</link>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/SERIE%20TV%20MENU</externallink></item>
 
 <item><title>[B][COLOR white]->  [COLOR blue] FILM [/COLOR][/B]</title><link>http://ignorame</link>
