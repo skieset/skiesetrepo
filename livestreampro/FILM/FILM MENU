@@ -1,41 +1,24 @@
-<item>
-<title>[B][COLOR white] -> [COLOR blue] PRIMEVISIONI[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/FILM/PRIMAVISIONE</externallink>
-</item>
+<item><title>[COLOR white]________________[/COLOR][COLOR violet][B]MENU FILM[/COLOR][/B][COLOR white]________________[/COLOR]</title> <link>ignore</link></item>
 
-<item>
-<title>[B][COLOR white] -> [COLOR blue] ANIMAZIONE[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/FILM/ANIMAZIONE</externallink>
-</item>
+<item><title> </title><link>http://ignorame</link></item>
 
-<item>
-<title>[B][COLOR white] -> [COLOR blue] AVVENTURA & AZIONE[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/FILM/AVVENTURA%20%26%20AZIONE</externallink>
-</item>
+<item><title>[B][COLOR white] -> [COLOR blue] PRIMEVISIONI[/COLOR][/B]</title><link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/FILM/PRIMAVISIONE</externallink></item>
 
-<item>
-<title>[B][COLOR white] -> [COLOR blue] COMMEDIA[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;mode=70&amp;url=http%3a%2f%2fbit.ly%2f2z4F5SK</jsonrpc>
-</item>
+<item><title>[B][COLOR white] -> [COLOR blue] ANIMAZIONE[/COLOR][/B]</title><link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/FILM/ANIMAZIONE</externallink></item>
 
-<item>
-<title>[B][COLOR white] -> [COLOR blue] DRAMMATICO[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/FILM/DRAMMATICO</externallink>
-</item>
+<item><title>[B][COLOR white] -> [COLOR blue] AVVENTURA & AZIONE[/COLOR][/B]</title><link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/FILM/AVVENTURA%20%26%20AZIONE</externallink></item>
 
-<item>
-<title>[B][COLOR white] -> [COLOR blue] FANTASCIENZA[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/FILM/FANTASCIENZA</externallink>
-</item>
+<item><title>[B][COLOR white] -> [COLOR blue] COMMEDIA[/COLOR][/B]</title><link>http://ignorame</link>
+<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;mode=70&amp;url=http%3a%2f%2fbit.ly%2f2z4F5SK</jsonrpc></item>
 
-<item>
-<title>[B][COLOR white] -> [COLOR blue] HORROR & THRILLER[/COLOR][/B]</title>
-<link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/FILM/HORROR</externallink>
-</item>
+<item><title>[B][COLOR white] -> [COLOR blue] DRAMMATICO[/COLOR][/B]</title><link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/FILM/DRAMMATICO</externallink></item>
+
+<item><title>[B][COLOR white] -> [COLOR blue] FANTASCIENZA[/COLOR][/B]</title><link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/FILM/FANTASCIENZA</externallink></item>
+
+<item><title>[B][COLOR white] -> [COLOR blue] HORROR & THRILLER[/COLOR][/B]</title><link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/FILM/HORROR</externallink></item>
