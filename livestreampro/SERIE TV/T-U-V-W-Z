@@ -70,14 +70,6 @@
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/ELENCO%20SERIE%20TV/Tutto%20In%20Famiglia</externallink>
 </item>
 
-<item>
-<title>[B][COLOR white] -> [COLOR blue] Una Strega Imbranata[/COLOR][/B]</title>
-<link>ignore</link>
-<thumbnail>https://www.dropbox.com/s/v3qmxwgz5exb88x/3WIV.jpg?dl=1</thumbnail>
-<fanart>https://www.dropbox.com/s/v3qmxwgz5exb88x/3WIV.jpg?dl=1</fanart>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/ELENCO%20SERIE%20TV/Una%20Strega%20Imbranata</externallink>
-<info>Dopo aver scoperto l'esistenza di una scuola per streghe, una goffa eroina si accorge che quello potrebbe essere il suo posto. Tratto dai popolari romanzi di Jill Murphy.</info>
-</item>
 
 <item>
 <title>[B][COLOR white] -> [COLOR blue] V-The Series [/COLOR][/B]</title>
@@ -94,8 +86,9 @@
 <fanart>http://img.mediaset.it/bin/18.$plit/C_116_articolo_3236_articolo.jpg</fanart>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDI5MDgyMTYzNF5BMl5BanBnXkFtZTcwMjAwNzk1Mw@@._V1_UY268_CR7,0,182,268_AL_.jpg</thumbnail>
 <info>L'improbabile collaborazione tra un artista dell'inganno ed un agente FBI che hanno giocato al gatto col topo per anni.</info>
-<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;mode=70&amp;url=http%3a%2f%2fbit.ly%2f2ALt7iq</jsonrpc>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/ELENCO%20SERIE%20TV/White%20Collar</externallink>
 </item>
+
 
 <item>
 <title>[B][COLOR white] -> [COLOR blue] Will & Grace [/COLOR][/B]</title>
@@ -121,5 +114,6 @@
 <fanart>http://mimesis-scenari.it/wp-content/uploads/2017/07/15-UNDERRATED-XFILES-EPISODES.jpg</fanart>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/3/37/The_X-Files_Season_10_DVD.png</thumbnail>
 <info>Dramma sci-fi che ha conquistato milioni di fan in tutto il mondo, segue le indagini dei due agenti dell'FBI Fox Mulder e Dana Scully, impegnati a risolvere casi "bizzarri" e all'apparenza inspiegabili e spesso collegati a incontri del "terzo tipo", senza sapere che loro stessi sono coinvolti in una misteriosa cospirazione sulla colonizzazione della Terra da parte di una razza aliena.</info>
-<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;mode=70&amp;url=http%3a%2f%2fbit.ly%2f2yfetx5</jsonrpc>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/ELENCO%20SERIE%20TV/X-Files</externallink>
 </item>
+
