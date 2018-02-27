@@ -410,11 +410,57 @@
 
 *********************************************************
 
-<item><title>[B][COLOR white] -> [COLOR blue] STAGIONE 9 [/COLOR][/B]</title>
-<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail><fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart><link>$doregex[makelist]</link><regex><name>makelist</name><listrepeat><![CDATA[<title> [makelist.param3]</title><link>$doregex[getUrl]</link>
-<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail><fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>]]></listrepeat><expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st9-ita-by-mak086-86516/</page><cookieJar></cookieJar></regex><regex><name>getUrl</name><expres>DownloadUrl":"([^"]+)<expres><page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page><rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost><referer>http://diskokosmiko.mx/[makelist.param2]</referer><connection>keep-alive</connection><accept>*/*</accept><X-Req>XMLHttpRequest</X-Req><cookieJar></cookieJar></regex><regex><name>tok</name><expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres><page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st9-ita-by-mak086-86516/</referer><connection>keep-alive</connection><cookieJar></cookieJar></regex></item>
+<item><title></title><link>ignorame</link></item>
+<item><title>-[ TBBT S9 ]-</title>
+<link>ignorame</link></item>
+<item><title>TBBT 9x01 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26599.mp4</link></item>
+<item><title>TBBT 9x02 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26600.mp4</link></item>
+<item><title>TBBT  9x03 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26601.mp4</link></item>
+<item><title>TBBT  9x04 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26602.mp4</link></item>
+<item><title>TBBT  9x05 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26603.mp4</link></item>
+<item><title>TBBT  9x06 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26604.mp4</link></item>
+<item><title>TBBT  9x07 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26605.mp4</link></item>
+<item><title>TBBT  9x08 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26606.mp4</link></item>
+<item><title>TBBT  9x09 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/5/26607.mp4</link></item>
+<item><title>TBBT  9x10 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26608.mp4</link></item>
+<item><title>TBBT  9x11 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26609.mp4</link></item>
+<item><title>TBBT  9x12 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26610.mp4</link></item>
+<item><title>TBBT  9x13 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26611.mp4</link></item>
+<item><title>TBBT  9x14 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26612.mp4</link></item>
+<item><title>TBBT  9x15 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26613.mp4</link></item>
+<item><title>TBBT  9x16 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26614.mp4</link></item>
+<item><title>TBBT  9x17 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26615.mp4</link></item>
+<item><title>TBBT  9x18 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26616.mp4</link></item>
+<item><title>TBBT  9x19 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26617.mp4</link></item>
+<item><title>TBBT  9x20 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26618.mp4</link></item>
+<item><title>TBBT  9x21 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26619.mp4</link></item>
+<item><title>TBBT  9x22 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26620.mp4</link></item>
+<item><title>TBBT  9x23 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26621.mp4</link></item>
+<item><title>TBBT  9x24 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/9/26622.mp4</link></item>
 
 *********************************************************
 
