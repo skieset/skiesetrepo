@@ -190,7 +190,7 @@
 <link>http://37.59.9.42/uploads/video/bigbang/4/26496.mp4</link></item>
 <item><title>TBBT  4x23 - </title>
 <link>http://37.59.9.42/uploads/video/bigbang/2/26497.mp4</link></item>
-<item><title>TBBT  4x23 - </title>
+<item><title>TBBT  4x24 - </title>
 <link>http://37.59.9.42/uploads/video/bigbang/2/26498.mp4</link></item>
 
 *********************************************************
@@ -244,16 +244,61 @@
 <link>http://37.59.9.42/uploads/video/bigbang/4/265120.mp4</link></item>
 <item><title>TBBT  5x23 - </title>
 <link>http://37.59.9.42/uploads/video/bigbang/2/26521.mp4</link></item>
-<item><title>TBBT  5x23 - </title>
+<item><title>TBBT  5x24 - </title>
 <link>http://37.59.9.42/uploads/video/bigbang/5/26522.mp4</link></item>
 *********************************************************
 
-<item>
-<title>[B][COLOR white] -> [COLOR blue] STAGIONE 6 [/COLOR][/B]</title>
-<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail><fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart><link>$doregex[makelist]</link><regex><name>makelist</name><listrepeat><![CDATA[<title> [makelist.param3]</title><link>$doregex[getUrl]</link>
-<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail><fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>]]></listrepeat><expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MAK086/big-bang-theory-st-6-ita-by-mak086-86020/</page><cookieJar></cookieJar></regex><regex><name>getUrl</name><expres>DownloadUrl":"([^"]+)<expres><page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page><rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost><referer>http://diskokosmiko.mx/[makelist.param2]</referer><connection>keep-alive</connection><accept>*/*</accept><X-Req>XMLHttpRequest</X-Req><cookieJar></cookieJar></regex><regex><name>tok</name><expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres><page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MAK086/big-bang-theory-st-6-ita-by-mak086-86020/</referer><connection>keep-alive</connection><cookieJar></cookieJar></regex></item>
+<item><title></title><link>ignorame</link></item>
+<item><title>-[ TBBT S6 ]-</title>
+<link>ignorame</link></item>
+<item><title>TBBT 6x01 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/6/26523.mp4</link></item>
+<item><title>TBBT 6x02 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/5/26524.mp4</link></item>
+<item><title>TBBT  6x03 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26525.mp4</link></item>
+<item><title>TBBT  6x04 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26526.mp4</link></item>
+<item><title>TBBT  6x05 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26527.mp4</link></item>
+<item><title>TBBT  6x06 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26528.mp4</link></item>
+<item><title>TBBT  6x07 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26529.mp4</link></item>
+<item><title>TBBT  6x08 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26530.mp4</link></item>
+<item><title>TBBT  6x09 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/5/26531.mp4</link></item>
+<item><title>TBBT  6x10 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26532.mp4</link></item>
+<item><title>TBBT  6x11 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26533.mp4</link></item>
+<item><title>TBBT  6x12 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26534.mp4</link></item>
+<item><title>TBBT  6x13 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26535.mp4</link></item>
+<item><title>TBBT  6x14 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26536.mp4</link></item>
+<item><title>TBBT  6x15 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26537.mp4</link></item>
+<item><title>TBBT  6x16 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26538.mp4</link></item>
+<item><title>TBBT  6x17 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26539.mp4</link></item>
+<item><title>TBBT  6x18 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26540.mp4</link></item>
+<item><title>TBBT  6x19 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26541.mp4</link></item>
+<item><title>TBBT  6x20 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/3/26542.mp4</link></item>
+<item><title>TBBT  6x21 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26543.mp4</link></item>
+<item><title>TBBT  6x22 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/4/265144.mp4</link></item>
+<item><title>TBBT  6x23 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/2/26545.mp4</link></item>
+<item><title>TBBT  6x24 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/6/26546.mp4</link></item>
 
 *********************************************************
 
