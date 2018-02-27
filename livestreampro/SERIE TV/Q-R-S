@@ -8,15 +8,6 @@
 </item>
 
 <item>
-<title>[B][COLOR white] -> [COLOR blue] Rookie Blue [/COLOR][/B]</title>
-<link>http://ignorame</link>
-<fanart>http://1.bp.blogspot.com/-ldhKnlYgjuE/VEP2DDgO2_I/AAAAAAABiH8/jlS-2zmZ-Ww/s1600/Rookie%2BBlue%2Bheader%2B2.jpg</fanart>
-<thumbnail>http://www.gstatic.com/tv/thumb/tvbanners/8085120/p8085120_b_v8_ae.jpg</thumbnail>
-<info>Acation-drama ambientato nell'ambiente della polizia che illustra le vite quotidiane di un gruppo di giovani e inesperti agenti freschi di accademia; li seguiamo mentre imparano che la pratica è molto differente dalla teoria e che bilanciare carriera e vita privata non è facile come sembra.</info>
-<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;mode=70&amp;url=http%3a%2f%2fbit.ly%2f2zhfczU</jsonrpc>
-</item>
-
-<item>
 <title>[B][COLOR white] -> [COLOR blue] Salem [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <fanart>http://www.syfy.com/sites/syfy/files/wire/legacy/Salem_Cast_Season2.jpg</fanart>
@@ -46,34 +37,6 @@
 </item>
 
 <item>
-<title>[B][COLOR white] -> [COLOR blue] Secrets And Lies [/COLOR][/B]</title>
-<link>http://ignorame</link>
-<fanart>https://i.ytimg.com/vi/LYWcLDtB14g/maxresdefault.jpg</fanart>
-<thumbnail>http://cdn1.edgedatg.com/aws/abc/blogs/blog-4d22085f-da55-4477-918e-f8b51304116b_2363x3150.jpg</thumbnail>
-<info>Serie drammatica che ruota intorno a un'indagine di omicidio: la trama segue le vicende di Ben un uomo di famiglia che si ritrova ad essere il primo sospettato di omicidio quando ritrova il cadavere di un ragazzino. L'unica soluzione al suo problema è riuscire a trovare il vero killer in modo da liberarsi dalle accuse e salvare il suo matrimonio e la sua reputazione.</info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/ELENCO%20SERIE%20TV/Secrets%20And%20Lies</externallink>
-</item>
-
-<item>
-<title>[B][COLOR white] -> [COLOR blue] Sex and the City[/COLOR][/B]</title>
-<info>Carrie Bradshaw e le sue tre amiche Miranda Hobbes, Charlotte York e Samantha Jones percorrono sullo sfondo dell'isola di Manhattan la loro vita da single sessualmente attive, alla volta del nuovo millennio. Il telefilm è diventato famoso per le scene ambientate in bar chic, ristoranti lussuosi o club esclusivi, per l'importanza affidata alla moda e per aver mostrato apertamente scene di sesso in un telefilm
-</info>
-<link>http://ignorame</link>
-<thumbnail>http://thetvdb.com/banners/posters/76648-24.jpg</thumbnail>
-<fanart>http://thetvdb.com/banners/fanart/original/76648-19.jpg</fanart>
-<jsonrpc>plugin://plugin.video.kodilivetv/?description&amp;mode=70&amp;url=http%3a%2f%2fbit.ly%2f2zs6th0</jsonrpc>
-</item>
-
-<item>
-<title>[B][COLOR white] -> [COLOR blue] Shadowhunters [/COLOR][/B]</title>
-<link>http://ignorame</link>
-<fanart>https://art-s.nflximg.net/90bc0/e2698315e00a9cb4d311ce687afa8c5db7090bc0.jpg</fanart>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTM4MDcxMTA5Nl5BMl5BanBnXkFtZTgwMjU5MjE4MDI@._V1_UY268_CR9,0,182,268_AL_.jpg</thumbnail>
-<info>Trasposizione sul piccolo schermo della saga letteraria fantasy firmata da Cassandra Clare; la serie segue la avventure di Clary Fray una ragazza che scopre di avere dei poteri speciali e di essere una Shadowhunter, una guerriera prescelta per combattere le forze del male e proteggere gli esseri umani.</info>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/ELENCO%20SERIE%20TV/Shadowhunters</externallink>
-</item>
-
-<item>
 <title>[B][COLOR white] -> [COLOR blue] Sherlock[/COLOR][/B]</title>
 <link>ignore</link>
 <thumbnail>https://www.dropbox.com/s/qomo7tihztljk96/TEMP-Sherlock-poster2.jpg?dl=1</thumbnail>
@@ -92,15 +55,6 @@ Watson è un reduce della guerra in Afghanistan e deve ancora ritrovare il suo p
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/ELENCO%20SERIE%20TV/Smallville</externallink>
 </item>
 
-<item>
-<title>[B][COLOR white] -> [COLOR blue] South Park[/COLOR][/B]</title>
-<info>Stan, Kyle, Eric e Kenny vivono in una piccola città del Colorado in cui accadono cose surreali. Ferocia, dissacrazione, scorrettezze sono il sale di questa serie animata creata da Trey Parker e Matt Stone per questa serie animata stilizzata che prende d'assalto le contraddizioni della società americana.
-</info>
-<link>http://ignorame</link>
-<thumbnail>http://thetvdb.com/banners/posters/75897-5.jpg</thumbnail>
-<fanart>http://thetvdb.com/banners/fanart/original/75897-43.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/ELENCO%20SERIE%20TV/South%20park</externallink>
-</item>
   
 <item>
 <title>[B][COLOR white] -> [COLOR blue] SpongeBob[/COLOR][/B]</title>
