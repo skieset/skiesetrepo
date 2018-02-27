@@ -302,11 +302,57 @@
 
 *********************************************************
 
-<item><title>[B][COLOR white] -> [COLOR blue] STAGIONE 7 [/COLOR][/B]</title>
-<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail><fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart><link>$doregex[makelist]</link><regex><name>makelist</name><listrepeat><![CDATA[<title> [makelist.param3]</title><link>$doregex[getUrl]</link>
-<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail><fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>]]></listrepeat><expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/megadino65/the-big-bang-theory-stagione-7-88933</page><cookieJar></cookieJar></regex><regex><name>getUrl</name><expres>DownloadUrl":"([^"]+)<expres><page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page><rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost><referer>http://diskokosmiko.mx/[makelist.param2]</referer><connection>keep-alive</connection><accept>*/*</accept><X-Req>XMLHttpRequest</X-Req><cookieJar></cookieJar></regex><regex><name>tok</name><expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres><page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/megadino65/the-big-bang-theory-stagione-7-88933</referer><connection>keep-alive</connection><cookieJar></cookieJar></regex></item>
+<item><title></title><link>ignorame</link></item>
+<item><title>-[ TBBT S7 ]-</title>
+<link>ignorame</link></item>
+<item><title>TBBT 7x01 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/7/26551.mp4</link></item>
+<item><title>TBBT 7x02 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/5/26552.mp4</link></item>
+<item><title>TBBT  7x03 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26553.mp4</link></item>
+<item><title>TBBT  7x04 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26554.mp4</link></item>
+<item><title>TBBT  7x05 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26555.mp4</link></item>
+<item><title>TBBT  7x06 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26556.mp4</link></item>
+<item><title>TBBT  7x07 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26557.mp4</link></item>
+<item><title>TBBT  7x08 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26558.mp4</link></item>
+<item><title>TBBT  7x09 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/5/26559.mp4</link></item>
+<item><title>TBBT  7x10 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26560.mp4</link></item>
+<item><title>TBBT  7x11 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26561.mp4</link></item>
+<item><title>TBBT  7x12 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26562.mp4</link></item>
+<item><title>TBBT  7x13 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26563.mp4</link></item>
+<item><title>TBBT  7x14 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26564.mp4</link></item>
+<item><title>TBBT  7x15 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26565.mp4</link></item>
+<item><title>TBBT  7x16 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26566.mp4</link></item>
+<item><title>TBBT  7x17 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26567.mp4</link></item>
+<item><title>TBBT  7x18 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26568.mp4</link></item>
+<item><title>TBBT  7x19 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26569.mp4</link></item>
+<item><title>TBBT  7x20 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/3/26570.mp4</link></item>
+<item><title>TBBT  7x21 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26571.mp4</link></item>
+<item><title>TBBT  7x22 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/4/265172.mp4</link></item>
+<item><title>TBBT  7x23 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/2/26573.mp4</link></item>
+<item><title>TBBT  7x24 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/7/26574.mp4</link></item>
 
 *********************************************************
 
