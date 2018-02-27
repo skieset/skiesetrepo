@@ -195,13 +195,57 @@
 
 *********************************************************
 
-<item>
-<title>[B][COLOR white] -> [COLOR blue] STAGIONE 5 [/COLOR][/B]</title>
-<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail><fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart><link>$doregex[makelist]</link><regex><name>makelist</name><listrepeat><![CDATA[<title> [makelist.param3]</title><link>$doregex[getUrl]</link>
-<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail><fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>]]></listrepeat><expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-5-ita-by-mak086-86331</page><cookieJar></cookieJar></regex><regex><name>getUrl</name><expres>DownloadUrl":"([^"]+)<expres><page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page><rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost><referer>http://diskokosmiko.mx/[makelist.param2]</referer><connection>keep-alive</connection><accept>*/*</accept><X-Req>XMLHttpRequest</X-Req><cookieJar></cookieJar></regex><regex><name>tok</name><expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres><page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-5-ita-by-mak086-86331</referer><connection>keep-alive</connection><cookieJar></cookieJar></regex></item>
-
+<item><title></title><link>ignorame</link></item>
+<item><title>-[ TBBT S5 ]-</title>
+<link>ignorame</link></item>
+<item><title>TBBT 5x01 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/5/26499.mp4</link></item>
+<item><title>TBBT 5x02 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/5/26500.mp4</link></item>
+<item><title>TBBT  5x03 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26501.mp4</link></item>
+<item><title>TBBT  5x04 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26502.mp4</link></item>
+<item><title>TBBT  5x05 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26503.mp4</link></item>
+<item><title>TBBT  5x06 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26504.mp4</link></item>
+<item><title>TBBT  5x07 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26505.mp4</link></item>
+<item><title>TBBT  5x08 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26506.mp4</link></item>
+<item><title>TBBT  5x09 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/5/26507.mp4</link></item>
+<item><title>TBBT  5x10 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26508.mp4</link></item>
+<item><title>TBBT  5x11 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26509.mp4</link></item>
+<item><title>TBBT  5x12 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26510.mp4</link></item>
+<item><title>TBBT  5x13 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26511.mp4</link></item>
+<item><title>TBBT  5x14 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26512.mp4</link></item>
+<item><title>TBBT  5x15 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26513.mp4</link></item>
+<item><title>TBBT  5x16 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26514.mp4</link></item>
+<item><title>TBBT  5x17 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26515.mp4</link></item>
+<item><title>TBBT  5x18 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26516.mp4</link></item>
+<item><title>TBBT  5x19 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26517.mp4</link></item>
+<item><title>TBBT  5x20 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/3/26518.mp4</link></item>
+<item><title>TBBT  5x21 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26519.mp4</link></item>
+<item><title>TBBT  5x22 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/4/265120.mp4</link></item>
+<item><title>TBBT  5x23 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/2/26521.mp4</link></item>
+<item><title>TBBT  5x23 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/5/26522.mp4</link></item>
 *********************************************************
 
 <item>
