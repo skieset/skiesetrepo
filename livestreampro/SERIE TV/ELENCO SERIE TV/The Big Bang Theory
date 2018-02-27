@@ -1,8 +1,39 @@
-<item><title>[B][COLOR white] -> [COLOR blue] STAGIONE 1 [/COLOR][/B]</title>
-<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail><fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart><link>$doregex[makelist]</link><regex><name>makelist</name><listrepeat><![CDATA[<title> [makelist.param3]</title><link>$doregex[getUrl]</link>
-<thumbnail>http://film24.it/wp-content/uploads/2015/06/The-Big-Bang-Theory.jpg</thumbnail><fanart>https://georgespigot.files.wordpress.com/2014/04/the-big-bang-09.jpg</fanart>]]></listrepeat><expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-1-ita-by-mak086-87532/</page><cookieJar></cookieJar></regex><regex><name>getUrl</name><expres>DownloadUrl":"([^"]+)<expres><page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page><rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost><referer>http://diskokosmiko.mx/[makelist.param2]</referer><connection>keep-alive</connection><accept>*/*</accept><X-Req>XMLHttpRequest</X-Req><cookieJar></cookieJar></regex><regex><name>tok</name><expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres><page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/MAK086/the-big-bang-theory-st-1-ita-by-mak086-87532/</referer><connection>keep-alive</connection><cookieJar></cookieJar></regex></item>
+<item><title>-[ TBBT S1 ]-</title>
+<link>ignorame</link></item>
+<item><title>TBBT 1x01 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26409.mp4</link></item>
+<item><title>TBBT 1x02 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26410.mp4</link></item>
+<item><title>TBBT  1x03 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26411.mp4</link></item>
+<item><title>TBBT  1x04 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26412.mp4</link></item>
+<item><title>TBBT  1x05 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26413.mp4</link></item>
+<item><title>TBBT  1x06 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26414.mp4</link></item>
+<item><title>TBBT  1x07 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26415.mp4</link></item>
+<item><title>TBBT  1x08 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26416.mp4</link></item>
+<item><title>TBBT  1x09 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26417.mp4</link></item>
+<item><title>TBBT  1x10 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26418.mp4</link></item>
+<item><title>TBBT  1x11 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26419.mp4</link></item>
+<item><title>TBBT  1x12 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26420.mp4</link></item>
+<item><title>TBBT  1x13 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26421.mp4</link></item>
+<item><title>TBBT  1x14 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26422.mp4</link></item>
+<item><title>TBBT  1x15 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26423.mp4</link></item>
+<item><title>TBBT  1x16 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26424.mp4</link></item>
+<item><title>TBBT  1x17 - </title>
+<link>http://37.59.9.42/uploads/video/bigbang/1/26425.mp4</link></item>
 
 *********************************************************
 
