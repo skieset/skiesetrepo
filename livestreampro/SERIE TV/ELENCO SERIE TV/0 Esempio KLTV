@@ -1,67 +1,85 @@
 <data><type name="channels">
 
-<item><name> </name><link>ignorame</link></item>
-<item><name>-[SERIE S1 ]-</name>
-<link>ignorame</link></item>
-<item><name>Serie 1x01 - </name>
+#NOMESERIETV#
+
+<item><name>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 1[/COLOR][/B][COLOR blue]________________[/COLOR]</name> <link>ignore</link></item>
+<item><name>01. </name>
 <link></link></item>
-<item><name>Serie 1x02 - </name>
+<item><name>02. </name>
 <link></link></item>
-<item><name>Serie 1x03 - </name>
+<item><name>03. </name>
 <link></link></item>
-<item><name>Serie 1x04 - </name>
+<item><name>04. </name>
 <link></link></item>
-<item><name>Serie 1x05 - </name>
+<item><name>05. </name>
 <link></link></item>
-<item><name>Serie 1x06 - </name>
+<item><name>06. </name>
 <link></link></item>
-<item><name>Serie 1x07 - </name>
+<item><name>07. </name>
 <link></link></item>
-<item><name>Serie 1x08 - </name>
+<item><name>08. </name>
 <link></link></item>
-<item><name>Serie 1x09 - </name>
+<item><name>09. </name>
 <link></link></item>
-<item><name>Serie 1x10 - </name>
+<item><name>10. </name>
 <link></link></item>
-<item><name>Serie 1x11 - </name>
+<item><name>11. </name>
 <link></link></item>
-<item><name>Serie 1x12 - </name>
+<item><name>12. </name>
 <link></link></item>
-<item><name>Serie 1x13 - </name>
+<item><name>13. </name>
 <link></link></item>
-<item><name>Serie 1x14 - </name>
+<item><name>14. </name>
 <link></link></item>
-<item><name>Serie 1x15 - </name>
+<item><name>15. </name>
 <link></link></item>
-<item><name>Serie 1x16 - </name>
+<item><name>16. </name>
 <link></link></item>
-<item><name>Serie 1x17 - </name>
+<item><name>17. </name>
 <link></link></item>
-<item><name>Serie 1x18 - </name>
+<item><name>18. </name>
 <link></link></item>
-<item><name>Serie 1x19 - </name>
+<item><name>19. </name>
 <link></link></item>
-<item><name>Serie 1x20 - </name>
+<item><name>20. </name>
 <link></link></item>
-<item><name>Serie 1x21 - </name>
+<item><name>21. </name>
 <link></link></item>
-<item><name>Serie 1x22 - </name>
+<item><name>22. </name>
 <link></link></item>
-<item><name>Serie 1x23 - </name>
+<item><name>23. </name>
 <link></link></item>
-<item><name>Serie 1x24 - </name>
+<item><name>24. </name>
 <link></link></item>
-<item><name>Serie 1x25 - </name>
+<item><name>25. </name>
 <link></link></item>
-<item><name>Serie 1x26 - </name>
+<item><name>26. </name>
 <link></link></item>
-<item><name>Serie 1x27 - </name>
+<item><name>27. </name>
 <link></link></item>
-<item><name>Serie 1x28 - </name>
+<item><name>28. </name>
 <link></link></item>
-<item><name>Serie 1x29 - </name>
+<item><name>29. </name>
 <link></link></item>
-<item><name>Serie 1x30 - </name>
+<item><name>30. </name>
+<link></link></item>
+<item><name>31. </name>
+<link></link></item>
+<item><name>32. </name>
+<link></link></item>
+<item><name>33. </name>
+<link></link></item>
+<item><name>34. </name>
+<link></link></item>
+<item><name>35. </name>
+<link></link></item>
+<item><name>36. </name>
+<link></link></item>
+<item><name>37. </name>
+<link></link></item>
+<item><name>38. </name>
+<link></link></item>
+<item><name>39. </name>
 <link></link></item>
 
 </type></data>
