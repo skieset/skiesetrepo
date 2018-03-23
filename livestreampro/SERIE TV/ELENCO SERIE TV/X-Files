@@ -422,20 +422,18 @@
 <urlsolve>https://vivo.sx/7702ae9560</urlsolve></item>
 
 <item><title>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 10[/COLOR][/B][COLOR blue]________________[/COLOR]</title> <link>ignore</link></item>
-<item><title>X.Files 10x00</title>
-<urlsolve>https://vivo.sx/00a3f138dd</urlsolve></item>
 <item><title>X.Files 10x01</title>
-<urlsolve></urlsolve></item>
+<link>http://37.187.31.137/Serie.tv/theXFile/10/1.mp4</link></item>
 <item><title>X.Files 10x02</title>
-<urlsolve></urlsolve></item>
+<link>http://37.187.31.137/Serie.tv/theXFile/10/2.mp4</link></item>
 <item><title>X.Files 10x03</title>
-<urlsolve></urlsolve></item>
+<link>http://37.187.31.137/Serie.tv/theXFile/10/3.mp4</link></item>
 <item><title>X.Files 10x04</title>
-<urlsolve></urlsolve></item>
+<link>http://37.187.31.137/Serie.tv/theXFile/10/4.mp4</link></item>
 <item><title>X.Files 10x05</title>
-<urlsolve></urlsolve></item>
+<link>http://37.187.31.137/Serie.tv/theXFile/10/5.mp4</link></item>
 <item><title>X.Files 10x06</title>
-<urlsolve></urlsolve></item>
+<link>http://37.187.31.137/Serie.tv/theXFile/10/6.mp4</link></item>
 
 <item><title>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 11[/COLOR][/B][COLOR blue]________________[/COLOR]</title> <link>ignore</link></item>
 <item><title>X.Files.11x01.Memorie.Dal.Futuro</title>
@@ -452,3 +450,9 @@
 <urlsolve>https://vivo.sx/bbae510b51</urlsolve></item>
  <item><title>X.Files.11x07.IA</title>
 <urlsolve>https://vivo.sx/b1ec84aee4</urlsolve></item>
+<item><title>X.Files.11x08.</title>
+<link>http://37.187.31.137/Serie.tv/theXFile/11/8.mp4</link></item>
+<item><title>X.Files.11x09.</title>
+<link></link></item>
+<item><title>X.Files.11x10.</title>
+<link></link></item>
