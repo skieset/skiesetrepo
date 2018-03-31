@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Sport 1
 http://2202.janjuaplayer.com:8088/live/TuttoFreeDirettaStreaming/playlist.m3u8?id=79326&wowzasessionid=97249142&pk=7c47658d841b6d7aa9db123fb33fe86c29b862a8fbbb3423c2aef851950c7333
-#EXTINF:-1,Sport 2
+#EXTINF:-1,Sky calcio 1
 http://2201.janjuaplayer.com:8088/live/campionato5/playlist.m3u8?id=79089&wowzasessionid=3778802742&pk=7c47658d841b6d7aa9db123fb33fe86c29b862a8fbbb3423c2aef851950c7333
+#EXTINF:-1,Sky sport 1
+http://2205.janjuaplayer.com:8088/live/campionato4/playlist.m3u8?id=79085&wowzasessionid=3049948789&pk=7c47658d841b6d7aa9db123fb33fe86c29b862a8fbbb3423c2aef851950c7333
