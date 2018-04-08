@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Svtzzera rsi la2
+http://2d06.janjuaplayer.com:8088/live/rsilancb/playlist.m3u8?id=79529&wowzasessionid=740992499&pk=7c47658d841b6d7aa9db123fb33fe86c29b862a8fbbb3423c2aef851950c7333
 #EXTINF:-1,Sport 1
 http://2202.janjuaplayer.com:8088/live/TuttoFreeDirettaStreaming/playlist.m3u8?id=79326&wowzasessionid=97249142&pk=7c47658d841b6d7aa9db123fb33fe86c29b862a8fbbb3423c2aef851950c7333
 #EXTINF:-1,Sky calcio 1
