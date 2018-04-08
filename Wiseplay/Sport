@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,tv8
+http://cdn.whostreams.net:8081/wsedge/glmtlc/chunks.m3u8?nimblesessionid=10029614&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMTggMTI6Mzg6NTggUE0maGFzaF92YWx1ZT02cGw0YVRwUU1jRlhMU05ObEkvMVF3PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1,Svizzera rsi la2
 http://2d06.janjuaplayer.com:8088/live/rsilancb/playlist.m3u8?id=79529&wowzasessionid=740992499&pk=7c47658d841b6d7aa9db123fb33fe86c29b862a8fbbb3423c2aef851950c7333
 #EXTINF:-1,Sport 1
