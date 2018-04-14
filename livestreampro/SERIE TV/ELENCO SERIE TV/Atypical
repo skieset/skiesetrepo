@@ -1,39 +1,19 @@
-<item>
-<title>[B][COLOR white] -> [COLOR blue] STAGIONE 1[/COLOR][/B]</title>
-<fanart>http://wwwcdn.scriptmag.com/wp-content/uploads/atypical.jpg</fanart>
-<thumbnail>https://pbs.twimg.com/media/DG_0CwoVoAE1MPM.jpg</thumbnail>
-<link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-       <title> [makelist.param3]</title>
-       <link>$doregex[getUrl]</link>
-<fanart>http://wwwcdn.scriptmag.com/wp-content/uploads/atypical.jpg</fanart>
-<thumbnail>https://pbs.twimg.com/media/DG_0CwoVoAE1MPM.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://diskokosmiko.mx/giulioromano/atypical-mp4-85004</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://diskokosmiko.mx/[makelist.param2]</page>
-<referer>http://diskokosmiko.mx/giulioromano/atypical-mp4-85004</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-</item>
+<item><title>                          [COLOR violet][B]ATYPICAL[/COLOR][/B]</title> <link>ignore</link></item>
 
-*********************************************************
+<item><title>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 1[/COLOR][/B][COLOR blue]________________[/COLOR]</title> <link>ignore</link></item>
+<item><title>Atypical 1x01 - </title>
+<urlsolve>https://vivo.sx/5dd22c9f35</urlsolve></item>
+<item><title>Atypical 1x02 - </title>
+<urlsolve>https://vivo.sx/7e547e55c3</urlsolve></item>
+<item><title>Atypical 1x03 - </title>
+<urlsolve>https://vivo.sx/c739c04a36</urlsolve></item>
+<item><title>Atypical 1x04 - </title>
+<urlsolve>https://vivo.sx/7a325d0d36</urlsolve></item>
+<item><title>Atypical 1x05 - </title>
+<urlsolve>https://vivo.sx/0cea847498</urlsolve></item>
+<item><title>Atypical 1x06 - </title>
+<urlsolve>https://vivo.sx/6e77eec8b6</urlsolve></item>
+<item><title>Atypical 1x07 - </title>
+<urlsolve>https://vivo.sx/9c1ba908b7</urlsolve></item>
+<item><title>Atypical 1x08 - </title>
+<urlsolve>https://vivo.sx/0f6f0e7354</urlsolve></item>
