@@ -1,4 +1,4 @@
-<item><title>[COLOR blue][B] Cerca canale tv [/COLOR][/B]</title>
+<item><title>[B][COLOR white] -> [COLOR blue] Cerca canale tv [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <jsonrpc>plugin://plugin.video.live.streamspro/?mode=53&amp;url=plugin%3a%2f%2fplugin.video.kodilivetv%2f%3furl%3dhttps%253A%252F%252Fraw.githubusercontent.com%252Fskieset%252Fskiesetrepo%252Fmaster%252Flivestreampro%252FTV%252FCerca%252520canale</jsonrpc>
 </item>
