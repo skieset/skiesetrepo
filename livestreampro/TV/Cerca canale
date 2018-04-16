@@ -1,0 +1,16 @@
+<data><type name="list">
+
+
+<item><name>iptvthebest</name>
+<link>http://cdn01.iptvthebest.net:15000/get.php?username=Redondo&password=Redondo2&type=m3u&output=mpegts</link></item>
+<item><name>109.102.254.246</name>
+<link>http://109.102.254.246:8000/get.php?username=zBp88Y4fQt&password=O0GClw5N4F&type=m3u&output=mpegts</link></item>
+<item><name>pearsbrokers</name>
+<link>http://pearsbrokers.com:25461/get.php?username=emma&password=emma&type=m3u&output=mpegts</link></item>
+
+<item><name> </name>
+<link></link></item>
+
+
+
+</type></data>
