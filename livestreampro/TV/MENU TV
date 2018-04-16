@@ -1,6 +1,6 @@
 <item><title>[COLOR blue][B] Cerca canale tv [/COLOR][/B]</title>
 <link>http://ignorame</link>
-<jsonrpc>plugin://plugin.video.kodilivetv/?mode=70&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fskieset%2fskiesetrepo%2fmaster%2flivestreampro%2fIPTV%2520GIORNALIERE%2fTutto%2520Free</jsonrpc>
+<jsonrpc>plugin://plugin.video.kodilivetv/?mode=70&amp;url=https%3a%2f%2fraw.githubusercontent.com%2fskieset%2fskiesetrepo%2fmaster%2flivestreampro%2fTV%2fCerca%2520canale</jsonrpc>
 </item>
 
 <item><title> </title>  <link>ignore</link></item>
