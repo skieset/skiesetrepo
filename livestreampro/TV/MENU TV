@@ -1,6 +1,6 @@
-<item><title>[B][COLOR white] -> [COLOR blue] Cerca canale tv [/COLOR][/B]</title>
+<item><title>[B][COLOR white] -> [COLOR blue] CERCA CANALE TV [/COLOR][/B]</title>
 <link>http://ignorame</link>
-<jsonrpc>plugin://plugin.video.live.streamspro/?mode=53&amp;url=plugin%3a%2f%2fplugin.video.kodilivetv%2f%3furl%3dhttps%253A%252F%252Fraw.githubusercontent.com%252Fskieset%252Fskiesetrepo%252Fmaster%252Flivestreampro%252FTV%252FCerca%252520canale</jsonrpc>
+<jsonrpc>plugin://plugin.video.live.streamspro/?fanart=mode=53&amp;name=%5bCOLOR%20yellow%5d%5bB%5dCerca%20canale%20o%20file%20multimediale%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=plugin%3a%2f%2fplugin.video.kodilivetv%2f%3furl%3dhttps%253A%252F%252Fraw.githubusercontent.com%252Fskieset%252Fskiesetrepo%252Fmaster%252Flivestreampro%252FTV%252FCerca%252520canale%26mode%3d66%26name%3d%255BCOLOR%2byellow%255D%255BB%255DCerca%2bcanale%2bo%2bfile%2bmultimediale%255B%252FB%255D%255B%252FCOLOR%255D%26iconimage%3dhttps%253A%252F%252Fkodilive.eu%252Ficon%252Ffolder_search.png%26description%3d</jsonrpc>
 </item>
 
 <item><title> </title>  <link>ignore</link></item>
