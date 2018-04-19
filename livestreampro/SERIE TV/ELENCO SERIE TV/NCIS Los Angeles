@@ -1,368 +1,451 @@
-<data><type name="channels">
+<item><title>                          [COLOR violet][B]NCIS Los Angeles[/COLOR][/B]</title> <link>ignore</link></item>
 
-<item><name>                          [COLOR violet][B]NCIS Los Angeles[/COLOR][/B]</name> <link>ignore</link></item>
+<item><title>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 1[/COLOR][/B][COLOR blue]________________[/COLOR]</title> <link>ignore</link></item>
+<item><title> NCIS: Los Angeles 01x01</title>
+<urlsolve>https://vivo.sx/8c7435cc57</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x02</title>
+<urlsolve>https://vivo.sx/7d14a6b819</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x03</title>
+<urlsolve>https://vivo.sx/28419b4d28</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x04</title>
+<urlsolve>https://vivo.sx/dd83aa55a3</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x05</title>
+<urlsolve>https://vivo.sx/f8c6d7129f</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x06</title>
+<urlsolve>https://vivo.sx/9e07908fe0</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x07</title>
+<urlsolve>https://vivo.sx/02c9cc92f7</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x08</title>
+<urlsolve>https://vivo.sx/9762dec323</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x09</title>
+<urlsolve>https://vivo.sx/7a0bf17eb9</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x10</title>
+<urlsolve>https://vivo.sx/27dad54416</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x11</title>
+<urlsolve>https://vivo.sx/1b2fbacc7e</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x12</title>
+<urlsolve>https://vivo.sx/4ff915aa1d</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x13</title>
+<urlsolve>https://vivo.sx/aae10bbacc</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x14</title>
+<urlsolve>https://vivo.sx/8105e5fb4d</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x15</title>
+<urlsolve>https://vivo.sx/a91abda08b</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x16</title>
+<urlsolve>https://vivo.sx/d16b01829e</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x17</title>
+<urlsolve>https://vivo.sx/f50a30df1f</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x18</title>
+<urlsolve>https://vivo.sx/21d27796d0</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x19</title>
+<urlsolve>https://vivo.sx/4c120cb76f</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x20</title>
+<urlsolve>https://vivo.sx/d700d2b6ee</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x21</title>
+<urlsolve>https://vivo.sx/bf00b1bf59</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x22</title>
+<urlsolve>https://vivo.sx/9515bc8b0e</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x23</title>
+<urlsolve>https://vivo.sx/9c2b5babec</urlsolve></item>
+<item><title>NCIS: Los Angeles 01x24</title>
+<urlsolve>https://vivo.sx/bf2cda144d</urlsolve></item>
 
-<item><name>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 1[/COLOR][/B][COLOR blue]________________[/COLOR]</name> <link>ignore</link></item>
-<item><name>NCIS Los Angeles 1x01 - </name>
-<link>https://vivo.sx/dbc7f08fe9</link></item>
-<item><name>NCIS Los Angeles 1x02</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38140.mkv</link></item>
-<item><name>NCIS Los Angeles 1x04</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38141.mkv</link></item>
-<item><name>NCIS Los Angeles 1x05</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38142.mkv</link></item>
-<item><name>NCIS Los Angeles 1x06</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38143.mkv</link></item>
-<item><name>NCIS Los Angeles 1x07</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38144.mkv</link></item>
-<item><name>NCIS Los Angeles 1x08</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38145.mkv</link></item>
-<item><name>NCIS Los Angeles 1x09</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38146.mkv</link></item>
-<item><name>NCIS Los Angeles 1x10</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38147.mkv</link></item>
-<item><name>NCIS Los Angeles 1x11</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38148.mkv</link></item>
-<item><name>NCIS Los Angeles 1x12</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38149.mkv</link></item>
-<item><name>NCIS Los Angeles 1x13</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38150.mkv</link></item>
-<item><name>NCIS Los Angeles 1x14</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38151.mkv</link></item>
-<item><name>NCIS Los Angeles 1x15</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38152.mkv</link></item>
-<item><name>NCIS Los Angeles 1x16</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38153.mkv</link></item>
-<item><name>NCIS Los Angeles 1x17</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38154.mkv</link></item>
-<item><name>NCIS Los Angeles 1x18</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38155.mkv</link></item>
-<item><name>NCIS Los Angeles 1x19</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38156.mkv</link></item>
-<item><name>NCIS Los Angeles 1x20</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38157.mkv</link></item>
-<item><name>NCIS Los Angeles 1x21</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38158.mkv</link></item>
-<item><name>NCIS Los Angeles 1x22</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38159.mkv</link></item>
-<item><name>NCIS Los Angeles 1x23</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38160.mkv</link></item>
-<item><name>NCIS Los Angeles 1x24</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38161.mkv</link></item>
+<item><title>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 2[/COLOR][/B][COLOR blue]________________[/COLOR]</title> <link>ignore</link></item>
+<item><title>NCIS: Los Angeles  2x01</title>
+<urlsolve>https://vivo.sx/95859bcbd0</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x02</title>
+<urlsolve>https://vivo.sx/e23e3ae41a</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x03</title>
+<urlsolve>https://vivo.sx/8a5d5b4a80</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x04</title>
+<urlsolve>https://vivo.sx/9a72f75c37</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x05</title>
+<urlsolve>https://vivo.sx/2bd3deb985</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x06</title>
+<urlsolve>https://vivo.sx/d082877ca1</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x07</title>
+<urlsolve>https://vivo.sx/385e1353fa</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x08</title>
+<urlsolve>https://vivo.sx/9dafcae55e</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x09</title>
+<urlsolve>https://vivo.sx/74594a50fa</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x10</title>
+<urlsolve>https://vivo.sx/ce1f307f03</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x11</title>
+<urlsolve>https://vivo.sx/d8c72e1aaf</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x12</title>
+<urlsolve>https://vivo.sx/b6ce7848d9</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x13</title>
+<urlsolve>https://vivo.sx/69d3f26be8</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x14</title>
+<urlsolve>https://vivo.sx/00f8a64748</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x15</title>
+<urlsolve>https://vivo.sx/09c51f9935</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x16</title>
+<urlsolve>https://vivo.sx/d344a3e670</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x17</title>
+<urlsolve>https://vivo.sx/9833c530d1</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x18</title>
+<urlsolve>https://vivo.sx/379a33d68f</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x19</title>
+<urlsolve>https://vivo.sx/18679c987a</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x20</title>
+<urlsolve>https://vivo.sx/d0dcae945a</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x21</title>
+<urlsolve>https://vivo.sx/99279de8b1</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x22</title>
+<urlsolve>https://vivo.sx/88b07ece28</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x23</title>
+<urlsolve>https://vivo.sx/3531942282</urlsolve></item>
+<item><title>NCIS: Los Angeles 2x24</title>
+<urlsolve>https://vivo.sx/99e2f57479</urlsolve></item>
 
-<item><name>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 2[/COLOR][/B][COLOR blue]________________[/COLOR]</name> <link>ignore</link></item>
-<item><name>NCIS Los Angeles 2x01</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38115.mkv</link></item>
-<item><name>NCIS Los Angeles 2x02</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38116.mkv</link></item>
-<item><name>NCIS Los Angeles 2x03</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38117.mkv</link></item>
-<item><name>NCIS Los Angeles 2x04</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38118.mkv</link></item>
-<item><name>NCIS Los Angeles 2x05</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38119.mkv</link></item>
-<item><name>NCIS Los Angeles 2x06</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38120.mkv</link></item>
-<item><name>NCIS Los Angeles 2x07</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38121.mkv</link></item>
-<item><name>NCIS Los Angeles 2x08</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38122.mkv</link></item>
-<item><name>NCIS Los Angeles 2x09</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38123.mkv</link></item>
-<item><name>NCIS Los Angeles 2x10</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38124.mkv</link></item>
-<item><name>NCIS Los Angeles 2x11</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38125.mkv</link></item>
-<item><name>NCIS Los Angeles 2x12</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38126.mkv</link></item>
-<item><name>NCIS Los Angeles 2x13</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38127.mkv</link></item>
-<item><name>NCIS Los Angeles 2x14</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38128.mkv</link></item>
-<item><name>NCIS Los Angeles 2x15</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38129.mkv</link></item>
-<item><name>NCIS Los Angeles 2x16</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38130.mkv</link></item>
-<item><name>NCIS Los Angeles 2x17</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38131.mkv</link></item>
-<item><name>NCIS Los Angeles 2x18</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38132.mkv</link></item>
-<item><name>NCIS Los Angeles 2x19</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38133.mkv</link></item>
-<item><name>NCIS Los Angeles 2x20</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38134.mkv</link></item>
-<item><name>NCIS Los Angeles 2x21</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38135.mkv</link></item>
-<item><name>NCIS Los Angeles 2x22</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38136.mkv</link></item>
-<item><name>NCIS Los Angeles 2x23</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38137.mkv</link></item>
-<item><name>NCIS Los Angeles 2x24</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38138.mkv</link></item>
+<item><title>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 3[/COLOR][/B][COLOR blue]________________[/COLOR]</title> <link>ignore</link></item>
+<item><title>NCIS: Los Angeles 03x01</title>
+<urlsolve>https://vivo.sx/387940955b</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x02</title>
+<urlsolve>https://vivo.sx/c073405afe</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x03</title>
+<urlsolve>https://vivo.sx/dd01c293c4</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x04</title>
+<urlsolve>https://vivo.sx/eef4057b8f</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x05</title>
+<urlsolve>https://vivo.sx/82c12c281a</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x06</title>
+<urlsolve>https://vivo.sx/8e7b979785</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x07</title>
+<urlsolve>https://vivo.sx/e7b867eac3</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x08</title>
+<urlsolve>https://vivo.sx/c1436d8d98</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x09</title>
+<urlsolve>https://vivo.sx/c8d9b886c4</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x10</title>
+<urlsolve>https://vivo.sx/509f6a1c16</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x11</title>
+<urlsolve>https://vivo.sx/9ad040d013</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x12</title>
+<urlsolve>https://vivo.sx/e42c29ae8e</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x13</title>
+<urlsolve>https://vivo.sx/4f0c44fda1</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x14</title>
+<urlsolve>https://vivo.sx/8158302e55</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x15</title>
+<urlsolve>https://vivo.sx/cee52373ff</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x16</title>
+<urlsolve>https://vivo.sx/7780032ae0</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x17</title>
+<urlsolve>https://vivo.sx/6b735d120b</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x18</title>
+<urlsolve>https://vivo.sx/df9cf064c4</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x19</title>
+<urlsolve>https://vivo.sx/0a816f5b8b</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x20</title>
+<urlsolve>https://vivo.sx/af0dbc31ab</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x21</title>
+<urlsolve>https://vivo.sx/74b185854a</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x22</title>
+<urlsolve>https://vivo.sx/ab0f4c32ff</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x23</title>
+<urlsolve>https://vivo.sx/87581b3fb6</urlsolve></item>
+<item><title>NCIS: Los Angeles 03x24</title>
+<urlsolve></urlsolve></item>
 
-<item><name>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 3[/COLOR][/B][COLOR blue]________________[/COLOR]</name> <link>ignore</link></item>
-<item><name>NCIS Los Angeles 3x01</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38162.mkv</link></item>
-<item><name>NCIS Los Angeles 3x02</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38163.mkv</link></item>
-<item><name>NCIS Los Angeles 3x03</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38164.mkv</link></item>
-<item><name>NCIS Los Angeles 3x04</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38165.mkv</link></item>
-<item><name>NCIS Los Angeles 3x05</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38166.mkv</link></item>
-<item><name>NCIS Los Angeles 3x06</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38167.mkv</link></item>
-<item><name>NCIS Los Angeles 3x07</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38168.mkv</link></item>
-<item><name>NCIS Los Angeles 3x08</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38169.mkv</link></item>
-<item><name>NCIS Los Angeles 3x09</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38170.mkv</link></item>
-<item><name>NCIS Los Angeles 3x10</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38171.mkv</link></item>
-<item><name>NCIS Los Angeles 3x11</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38172.mkv</link></item>
-<item><name>NCIS Los Angeles 3x12</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38173.mkv</link></item>
-<item><name>NCIS Los Angeles 3x13</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38174.mkv</link></item>
-<item><name>NCIS Los Angeles 3x14</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38175.mkv</link></item>
-<item><name>NCIS Los Angeles 3x15</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38176.mkv</link></item>
-<item><name>NCIS Los Angeles 3x16</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38177.mkv</link></item>
-<item><name>NCIS Los Angeles 3x17</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38178.mkv</link></item>
-<item><name>NCIS Los Angeles 3x18</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38179.mkv</link></item>
-<item><name>NCIS Los Angeles 3x19</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38180.mkv</link></item>
-<item><name>NCIS Los Angeles 3x20</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38181.mkv</link></item>
-<item><name>NCIS Los Angeles 3x21</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38182.mkv</link></item>
-<item><name>NCIS Los Angeles 3x22</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38183.mkv</link></item>
-<item><name>NCIS Los Angeles 3x23-24</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38184.mkv</link></item>
+<item><title>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 4[/COLOR][/B][COLOR blue]________________[/COLOR]</title> <link>ignore</link></item>
+<item><title>NCIS: Los Angeles 4x01</title>
+<urlsolve>https://vivo.sx/6210aad8c6</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x02</title>
+<urlsolve>https://vivo.sx/06b37155c8</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x03</title>
+<urlsolve>https://vivo.sx/04270dde2c</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x04</title>
+<urlsolve>https://vivo.sx/c36bb5bf19</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x05</title>
+<urlsolve>https://vivo.sx/2bbf315cbb</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x06</title>
+<urlsolve>https://vivo.sx/71f465ea33</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x07</title>
+<urlsolve>https://vivo.sx/d13868cb41</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x08</title>
+<urlsolve>https://vivo.sx/ebb6c14917</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x09</title>
+<urlsolve>https://vivo.sx/f5b0b873a5</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x10</title>
+<urlsolve>https://vivo.sx/0c5a2fe4ee</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x11</title>
+<urlsolve>https://vivo.sx/10ce4b62ad</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x12</title>
+<urlsolve>https://vivo.sx/f945c4d899</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x13</title>
+<urlsolve>https://vivo.sx/6692c18dff</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x14</title>
+<urlsolve>https://vivo.sx/c26105f92b</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x15</title>
+<urlsolve>https://vivo.sx/d600aabad6</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x16</title>
+<urlsolve>https://vivo.sx/3f4ba15c5e</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x17</title>
+<urlsolve>https://vivo.sx/e9876b2135</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x18</title>
+<urlsolve>https://vivo.sx/257d886c32</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x19</title>
+<urlsolve>https://vivo.sx/35dc1109af</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x20</title>
+<urlsolve>https://vivo.sx/82a725ac0c</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x21</title>
+<urlsolve>https://vivo.sx/5afb92329e</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x22</title>
+<urlsolve>https://vivo.sx/a75ebe4674</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x23</title>
+<urlsolve>https://vivo.sx/46195bdb98</urlsolve></item>
+<item><title>NCIS: Los Angeles 4x24</title>
+<urlsolve>https://vivo.sx/254ecd5d4b</urlsolve></item>
 
-<item><name>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 4[/COLOR][/B][COLOR blue]________________[/COLOR]</name> <link>ignore</link></item>
-<item><name>NCIS Los Angeles 4x01</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38185.mkv</link></item>
-<item><name>NCIS Los Angeles 4x02</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38186.mkv</link></item>
-<item><name>NCIS Los Angeles 4x03</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38187.mkv</link></item>
-<item><name>NCIS Los Angeles 4x04</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38188.mkv</link></item>
-<item><name>NCIS Los Angeles 4x05</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38189.mkv</link></item>
-<item><name>NCIS Los Angeles 4x06</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38190.mkv</link></item>
-<item><name>NCIS Los Angeles 4x07</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38191.mkv</link></item>
-<item><name>NCIS Los Angeles 4x08</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38192.mkv</link></item>
-<item><name>NCIS Los Angeles 4x09</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38193.mkv</link></item>
-<item><name>NCIS Los Angeles 4x10</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38194.mkv</link></item>
-<item><name>NCIS Los Angeles 4x11</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38195.mkv</link></item>
-<item><name>NCIS Los Angeles 4x12</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38196.mkv</link></item>
-<item><name>NCIS Los Angeles 4x13</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38197.mkv</link></item>
-<item><name>NCIS Los Angeles 4x14</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38198.mkv</link></item>
-<item><name>NCIS Los Angeles 4x15</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38199.mkv</link></item>
-<item><name>NCIS Los Angeles 4x16</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38200.mkv</link></item>
-<item><name>NCIS Los Angeles 4x17</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38201.mkv</link></item>
-<item><name>NCIS Los Angeles 4x18</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38202.mkv</link></item>
-<item><name>NCIS Los Angeles 4x19</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38203.mkv</link></item>
-<item><name>NCIS Los Angeles 4x20</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38204.mkv</link></item>
-<item><name>NCIS Los Angeles 4x21</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38205.mkv</link></item>
-<item><name>NCIS Los Angeles 4x22</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38206.mkv</link></item>
-<item><name>NCIS Los Angeles 4x23</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38207.mkv</link></item>
-<item><name>NCIS Los Angeles 4x24</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38208.mkv</link></item>
+<item><title>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 5[/COLOR][/B][COLOR blue]________________[/COLOR]</title> <link>ignore</link></item>
+<item><title>NCIS: Los Angeles 5x01</title>
+<urlsolve>https://vivo.sx/d29dedc8bf</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x02</title>
+<urlsolve>https://vivo.sx/4d694935b5</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x03</title>
+<urlsolve>https://vivo.sx/75c98e6211</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x04</title>
+<urlsolve>https://vivo.sx/a31234f9bf</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x05</title>
+<urlsolve>https://vivo.sx/df6effd403</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x06</title>
+<urlsolve>https://vivo.sx/c44c67817c</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x07</title>
+<urlsolve>https://vivo.sx/8acd417a37</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x08</title>
+<urlsolve>https://vivo.sx/586e5776fa</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x09</title>
+<urlsolve>https://vivo.sx/260cbc735e</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x10</title>
+<urlsolve>https://vivo.sx/69dab0643b</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x11</title>
+<urlsolve>https://vivo.sx/c77d249696</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x12</title>
+<urlsolve>https://vivo.sx/a43be41557</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x13</title>
+<urlsolve>https://vivo.sx/64d81f400d</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x14</title>
+<urlsolve>https://vivo.sx/45d69d6a29</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x15</title>
+<urlsolve>https://vivo.sx/ecd7d8b16e</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x16</title>
+<urlsolve>https://vivo.sx/2d209c262d</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x17</title>
+<urlsolve>https://vivo.sx/6664da3a90</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x18</title>
+<urlsolve>https://vivo.sx/c8098e796b</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x19</title>
+<urlsolve>https://vivo.sx/291d0ec232</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x20</title>
+<urlsolve>https://vivo.sx/6670ed2117</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x21</title>
+<urlsolve>https://vivo.sx/33596bcb61</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x22</title>
+<urlsolve>https://vivo.sx/79e1806400</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x23</title>
+<urlsolve>https://vivo.sx/c25ab05b86</urlsolve></item>
+<item><title>NCIS: Los Angeles 5x24</title>
+<urlsolve>https://vivo.sx/82fe9c1c4d</urlsolve></item>
 
-<item><name>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 5[/COLOR][/B][COLOR blue]________________[/COLOR]</name> <link>ignore</link></item>
-<item><name>NCIS Los Angeles 5x01</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38333.mkv</link></item>
-<item><name>NCIS Los Angeles 5x02</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38334.mkv</link></item>
-<item><name>NCIS Los Angeles 5x03</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38335.mkv</link></item>
-<item><name>NCIS Los Angeles 5x04</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38336.mkv</link></item>
-<item><name>NCIS Los Angeles 5x05</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38337.mkv</link></item>
-<item><name>NCIS Los Angeles 5x06</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38338.mkv</link></item>
-<item><name>NCIS Los Angeles 5x07</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38339.mkv</link></item>
-<item><name>NCIS Los Angeles 5x08</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38340.mkv</link></item>
-<item><name>NCIS Los Angeles 5x09</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38341.mkv</link></item>
-#EXTINF:-1,NCIS Los Angeles-5x10</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38342.mkv</link></item>
-#EXTINF:-1,NCIS Los Angeles-5x11</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38343.mkv</link></item>
-#EXTINF:-1,NCIS Los Angeles-5x12</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38344.mkv</link></item>
-#EXTINF:-1,NCIS Los Angeles-5x13</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38345.mkv</link></item>
-#EXTINF:-1,NCIS Los Angeles-5x14</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38346.mkv</link></item>
-#EXTINF:-1,NCIS Los Angeles-5x15</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38347.mkv</link></item>
-#EXTINF:-1,NCIS Los Angeles-5x16</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38348.mkv</link></item>
-#EXTINF:-1,NCIS Los Angeles-5x17</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38349.mkv</link></item>
-#EXTINF:-1,NCIS Los Angeles-5x18</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38350.mkv</link></item>
-#EXTINF:-1,NCIS Los Angeles-5x19</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38351.mkv</link></item>
-#EXTINF:-1,NCIS Los Angeles-5x20</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38352.mkv</link></item>
-#EXTINF:-1,NCIS Los Angeles-5x21</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38353.mkv</link></item>
-#EXTINF:-1,NCIS Los Angeles-5x22</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38354.mkv</link></item>
-#EXTINF:-1,NCIS Los Angeles-5x23</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38355.mkv</link></item>
-#EXTINF:-1,NCIS Los Angeles-5x24</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38356.mkv</link></item>
+<item><title>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 6[/COLOR][/B][COLOR blue]________________[/COLOR]</title> <link>ignore</link></item>
+<item><title>NCIS: Los Angeles 06x01</title>
+<urlsolve>https://vivo.sx/221a432c41</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x02</title>
+<urlsolve>https://vivo.sx/b7bfb9b461</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x03</title>
+<urlsolve>https://vivo.sx/f0fcbdd0f4</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x04</title>
+<urlsolve>https://vivo.sx/bdfda1e9b8</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x05</title>
+<urlsolve>https://vivo.sx/16733cd102</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x06</title>
+<urlsolve>https://vivo.sx/c1b62a209c</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x07</title>
+<urlsolve>https://vivo.sx/314b069780</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x08</title>
+<urlsolve>https://vivo.sx/c412c6833c</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x09</title>
+<urlsolve>https://vivo.sx/3bdb6490e7</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x10</title>
+<urlsolve>https://vivo.sx/03c7d5ed4a</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x11</title>
+<urlsolve>https://vivo.sx/0f25e6d08d</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x12</title>
+<urlsolve>https://vivo.sx/40d6b010eb</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x13</title>
+<urlsolve>https://vivo.sx/eca200b50e</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x14</title>
+<urlsolve>https://vivo.sx/409a23eae6</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x15</title>
+<urlsolve>https://vivo.sx/ae454e5100</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x16</title>
+<urlsolve>https://vivo.sx/0fd81cf446</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x17</title>
+<urlsolve>https://vivo.sx/ee96c90e49</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x18</title>
+<urlsolve>https://vivo.sx/c04c60d213</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x19</title>
+<urlsolve>https://vivo.sx/eff70ad944</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x20</title>
+<urlsolve>https://vivo.sx/9afe67d790</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x21</title>
+<urlsolve>https://vivo.sx/e1e3ff058c</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x22</title>
+<urlsolve>https://vivo.sx/454209623f</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x23</title>
+<urlsolve>https://vivo.sx/2ef7d63dcc</urlsolve></item>
+<item><title>NCIS: Los Angeles 06x24</title>
+<urlsolve>https://vivo.sx/f66f06a572</urlsolve></item>
 
-<item><name>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 6[/COLOR][/B][COLOR blue]________________[/COLOR]</name> <link>ignore</link></item>
-<item><name>NCIS Los Angeles 6x01</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38357.mkv</link></item>
-<item><name>NCIS Los Angeles 6x02</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38358.mkv</link></item>
-<item><name>NCIS Los Angeles 6x03</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38359.mkv</link></item>
-<item><name>NCIS Los Angeles 6x04</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38360.mkv</link></item>
-<item><name>NCIS Los Angeles 6x05</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38361.mkv</link></item>
-<item><name>NCIS Los Angeles 6x06</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38362.mkv</link></item>
-<item><name>NCIS Los Angeles 6x07</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38363.mkv</link></item>
-<item><name>NCIS Los Angeles 6x08</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38364.mkv</link></item>
-<item><name>NCIS Los Angeles 6x09</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38365.mkv</link></item>
-<item><name>NCIS Los Angeles 6x10</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38366.mkv</link></item>
-<item><name>NCIS Los Angeles 6x11</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38367.mkv</link></item>
-<item><name>NCIS Los Angeles 6x12</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38368.mkv</link></item>
-<item><name>NCIS Los Angeles 6x13</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38369.mkv</link></item>
-<item><name>NCIS Los Angeles 6x14</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38370.mkv</link></item>
-<item><name>NCIS Los Angeles 6x15</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38371.mkv</link></item>
-<item><name>NCIS Los Angeles 6x16</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38372.mkv</link></item>
-<item><name>NCIS Los Angeles 6x17</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38373.mkv</link></item>
-<item><name>NCIS Los Angeles 6x18</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38374.mkv</link></item>
-<item><name>NCIS Los Angeles 6x19</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38375.mkv</link></item>
-<item><name>NCIS Los Angeles 6x20</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38376.mkv</link></item>
-<item><name>NCIS Los Angeles 6x21</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38377.mkv</link></item>
-<item><name>NCIS Los Angeles 6x22</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38378.mkv</link></item>
-<item><name>NCIS Los Angeles 6x23</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38379.mkv</link></item>
-<item><name>NCIS Los Angeles 6x24</name>
-<link>http://vod.now-dns.top:24000/movie/lumetta/lumetta2/38380.mkv</link></item>
+<item><title>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 7[/COLOR][/B][COLOR blue]________________[/COLOR]</title> <link>ignore</link></item>
+<item><title> NCIS: Los Angeles.7x01</title>
+<urlsolve>https://vivo.sx/6fbe923e4a</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x02</title>
+<urlsolve>https://vivo.sx/e2807e725c</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x03</title>
+<urlsolve>https://vivo.sx/31bc72225c</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x04</title>
+<urlsolve>https://vivo.sx/d3cff3fe8f</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x05</title>
+<urlsolve>https://vivo.sx/12cf9c3dee</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x06</title>
+<urlsolve>https://vivo.sx/f270f636be</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x07</title>
+<urlsolve>https://vivo.sx/b22076341e</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x08</title>
+<urlsolve>https://vivo.sx/3b77b1c710</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x09</title>
+<urlsolve>https://vivo.sx/57639ec5f9</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x10</title>
+<urlsolve>https://vivo.sx/9a159176c7</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x11</title>
+<urlsolve>https://vivo.sx/490d0804f0</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x12</title>
+<urlsolve>https://vivo.sx/fd271cb451</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x13</title>
+<urlsolve>https://vivo.sx/2d582cd1a1</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x14</title>
+<urlsolve>https://vivo.sx/56107d7ddf</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x15</title>
+<urlsolve>https://vivo.sx/bb9429d388</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x16</title>
+<urlsolve>https://vivo.sx/a0bb36ea3d</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x17</title>
+<urlsolve>https://vivo.sx/f74ea6e835</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x18</title>
+<urlsolve>https://vivo.sx/72797e89b4</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x19</title>
+<urlsolve>https://vivo.sx/2471d6b191</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x20</title>
+<urlsolve>https://vivo.sx/bba10156e6</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x21</title>
+<urlsolve>https://vivo.sx/5c50342e77</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x22</title>
+<urlsolve>https://vivo.sx/6ca8e8e34b</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x23</title>
+<urlsolve>https://vivo.sx/0d49e04886</urlsolve></item>
+<item><title>NCIS: Los Angeles 7x24</title>
+<urlsolve>https://vivo.sx/ba87af3715</urlsolve></item>
 
-<item><name>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 7[/COLOR][/B][COLOR blue]________________[/COLOR]</name> <link>ignore</link></item>
+<item><title>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 8[/COLOR][/B][COLOR blue]________________[/COLOR]</title> <link>ignore</link></item>
+<item><title> NCIS: Los Angeles.8x01</title>
+<urlsolve>https://vivo.sx/61f632a6f6</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x02</title>
+<urlsolve></urlsolve></item>
+<item><title>NCIS: Los Angeles 8x03</title>
+<urlsolve>https://vivo.sx/4e6f6b7e09</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x04</title>
+<urlsolve>https://vivo.sx/f752b88d06</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x05</title>
+<urlsolve>https://vivo.sx/1a737c38ec</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x06</title>
+<urlsolve>https://vivo.sx/a888dacbf9</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x07</title>
+<urlsolve>https://vivo.sx/6c532fe927</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x08</title>
+<urlsolve>https://vivo.sx/336e865e3f</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x09</title>
+<urlsolve>https://vivo.sx/2f21097f79</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x10</title>
+<urlsolve>https://vivo.sx/04bc1cf04b</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x11</title>
+<urlsolve>https://vivo.sx/705929b3ef</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x12</title>
+<urlsolve>https://vivo.sx/526de0690e</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x13</title>
+<urlsolve>https://vivo.sx/3f29bae7df</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x14</title>
+<urlsolve>https://vivo.sx/2db560370a</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x15</title>
+<urlsolve>https://vivo.sx/00f7e90f40</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x16</title>
+<urlsolve>https://vivo.sx/5699862a53</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x17</title>
+<urlsolve>https://vivo.sx/4add7acbb0</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x18</title>
+<urlsolve>https://vivo.sx/2e3953c5cd</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x19</title>
+<urlsolve>https://vivo.sx/3581b3282f</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x20</title>
+<urlsolve>https://vivo.sx/4a420a161e</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x21</title>
+<urlsolve>https://vivo.sx/2e1a2f17ad</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x22</title>
+<urlsolve>https://vivo.sx/e49da6036a</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x23</title>
+<urlsolve>https://vivo.sx/4a572f012f</urlsolve></item>
+<item><title>NCIS: Los Angeles 8x24</title>
+<urlsolve>https://vivo.sx/1c7a66b199</urlsolve></item>
 
-
-<item><name>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 8[/COLOR][/B][COLOR blue]________________[/COLOR]</name> <link>https://eurostreaming.club/ncis-los-angeles-links/</link></item>
-item><name>NCIS Los Angeles 8x01/02 - Obiettivo Primario/Nel Ventre Della Bestia</name>
-<link>https://openload.co/embed/gawpZuPzvVo/</link></item>
-<item><name>NCIS Los Angeles 8x03 - </name>
-<link>https://openload.co/f/D2V1f2_Yibc</link></item>
-<item><name>NCIS Los Angeles 8x04 - </name>
-<link>https://openload.co/f/oeGS7loC7tA</link></item>
-<item><name>NCIS Los Angeles 8x05 - </name>
-<link>https://openloads.co/f/b5kSWjCeu4E</link></item>
-<item><name>NCIS Los Angeles 8x06 - </name>
-<link>https://openloads.co/f/mzEWwThbKDg</link></item>
-<item><name>NCIS Los Angeles 8x07 - </name>
-<link>https://openloads.co/f/WlzL-lCdXkY</link></item>
-<item><name>NCIS Los Angeles 8x08 - </name>
-<link>https://openload.co/f/AcdEVUPwgwA</link></item>
-<item><name>NCIS Los Angeles 8x09 - </name>
-<link>https://openload.co/f/5KWgHhwnZEc</link></item>
-<item><name>NCIS Los Angeles 8x10 - </name>
-<link>https://openload.co/f/puoh8wYfnso</link></item>
-<item><name>NCIS Los Angeles 8x11 - </name>
-<link>https://openload.co/f/omajAbBUbZQ</link></item>
-<item><name>NCIS Los Angeles 8x12 - </name>
-<link>https://openloads.co/f/OtEIf8Kn00E</link></item>
-<item><name>NCIS Los Angeles 8x13 - </name>
-<link>https://openload.co/f/GATZIFN9VkU</link></item>
-<item><name>NCIS Los Angeles 8x14 - </name>
-<link>https://openloads.co/f/lKnZeZ7FU0w</link></item>
-<item><name>NCIS Los Angeles 8x15 - </name>
-<link>https://openload.co/f/tbzBA2MilHc</link></item>
-<item><name>NCIS Los Angeles 8x16 - </name>
-<link>https://openload.co/f/3-GTkMAKRgE</link></item>
-<item><name>NCIS Los Angeles 8x17 - </name>
-<link>https://openload.co/f/whxyoy-R_To</link></item>
-<item><name>NCIS Los Angeles 8x18 - </name>
-<link>https://openload.co/f/lNWJNJhIaso</link></item>
-<item><name>NCIS Los Angeles 8x19 - </name>
-<link>https://openload.co/f/0rBoFEqiTsU</link></item>
-<item><name>NCIS Los Angeles 8x20 - </name>
-<link>https://openload.co/f/lw4leBWqesc</link></item>
-<item><name>NCIS Los Angeles 8x21 - </name>
-<link>https://openloads.co/f/vvl53uE9BHo</link></item>
-<item><name>NCIS Los Angeles 8x22 - </name>
-<link>https://openload.co/f/tBu_1M6wC4o</link></item>
-<item><name>NCIS Los Angeles 8x23 - </name>
-<link>https://openload.co/f/1pirmz3FJFA</link></item>
-<item><name>NCIS Los Angeles 8x24 - </name>
-<link>https://openloads.co/f/6N24dOtFZOY</link></item>
-
-<item><name>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 9[/COLOR][/B][COLOR blue]________________[/COLOR]</name> <link>ignore</link></item>
-item><name>NCIS Los Angeles 9x01 - </name>
-<link>https://openload.co/embed/29tgF5OImso/NCIS.Los.Angeles.9x01.Il.Guastafeste.WEBRip.iTALiAN.x264.mp4</link></item>
-<item><name>NCIS Los Angeles 9x02 - </name>
-<link>https://openload.co/embed/yh5LYVZI2KQ/NCIS.Los.Angeles.9x02.Falsita.WEBMux.iTALiAN.x264.mkv</link></item>
-<item><name>NCIS Los Angeles 9x03 - </name>
-<link>https://openload.co/embed/0DlgIK-zdPk/NCIS.Los.Angeles.9x03.Nuovi.Equilibri.WEBMux.iTALiAN.x264.mp4</link></item>
-<item><name>NCIS Los Angeles 9x04 - </name>
-<link>https://openload.co/embed/0qZOUGQjcBY/NCIS.Los.Angeles.9x04.Addio.Alle.Armi.WEBRip.iTALiAN.x264.mp4</link></item>
-<item><name>NCIS Los Angeles 9x05 - </name>
-<link>https://openload.co/embed/n3jlW1J08Bg/NCIS.Los.Angeles.9x05.Alias.mp4</link></item>
-<item><name>NCIS Los Angeles 9x06 - </name>
-<link>https://openload.co/embed/PeHcFZWX1Os/NCIS.Los.Angeles.9x06.Mele.Marce.mp4</link></item>
-<item><name>NCIS Los Angeles 9x07 - </name>
-<link>https://openload.co/embed/oOVU7K3mDz8/NCIS.Los.Angeles.9x07.Minaccia.Nucleare.mp4</link></item>
-
-</type></data>
+<item><title>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 9[/COLOR][/B][COLOR blue]________________[/COLOR]</title> <link>ignore</link></item>
+<item><title>NCIS: Los Angeles 9x01</title>
+<urlsolve>https://vivo.sx/cb4f152cbe</urlsolve></item>
+<item><title>NCIS: Los Angeles 9x02</title>
+<urlsolve>https://vivo.sx/709825a283</urlsolve></item>
+<item><title>NCIS: Los Angeles 9x03</title>
+<urlsolve>https://vivo.sx/9dba29d4bc</urlsolve></item>
+<item><title>NCIS: Los Angeles 9x04</title>
+<urlsolve>https://vivo.sx/09f43210d6</urlsolve></item>
+<item><title>NCIS: Los Angeles 9x05</title>
+<urlsolve>https://vivo.sx/db82d98db0</urlsolve></item>
+<item><title>NCIS: Los Angeles 9x06</title>
+<urlsolve>https://vivo.sx/c528b177c8</urlsolve></item>
+<item><title>NCIS: Los Angeles 9x07</title>
+<urlsolve>https://vivo.sx/bf83092285</urlsolve></item>
+<item><title>NCIS: Los Angeles 9x08</title>
+<urlsolve>https://vivo.sx/8a4356cf81</urlsolve></item>
+<item><title>NCIS: Los Angeles 9x09</title>
+<urlsolve>https://vivo.sx/13fcad9810</urlsolve></item>
+<item><title>NCIS: Los Angeles 9x10</title>
+<urlsolve></urlsolve></item>
+<item><title>NCIS: Los Angeles 9x11</title>
+<urlsolve></urlsolve></item>
+<item><title>NCIS: Los Angeles 9x12</title>
+<urlsolve></urlsolve></item>
+<item><title>NCIS: Los Angeles 9x13</title>
+<urlsolve></urlsolve></item>
+<item><title>NCIS: Los Angeles 9x14</title>
+<urlsolve></urlsolve></item>
+<item><title>NCIS: Los Angeles 9x15</title>
+<urlsolve></urlsolve></item>
+<item><title>NCIS: Los Angeles 9x16</title>
+<urlsolve></urlsolve></item>
+<item><title>NCIS: Los Angeles 9x17</title>
+<urlsolve></urlsolve></item>
+<item><title>NCIS: Los Angeles 9x18</title>
+<urlsolve></urlsolve></item>
+<item><title>NCIS: Los Angeles 9x19</title>
+<urlsolve></urlsolve></item>
+<item><title>NCIS: Los Angeles 9x20</title>
+<urlsolve></urlsolve></item>
+<item><title>NCIS: Los Angeles 9x21</title>
+<urlsolve></urlsolve></item>
+<item><title>NCIS: Los Angeles 9x22</title>
+<urlsolve></urlsolve></item>
+<item><title>NCIS: Los Angeles 9x23</title>
+<urlsolve></urlsolve></item>
+<item><title>NCIS: Los Angeles 9x24</title>
+<urlsolve></urlsolve></item>
