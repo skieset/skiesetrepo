@@ -28,17 +28,18 @@
 <link>http://supermyspace.xyz/LISTE/e2.m3u</link></item>
 <item><name>E3</name>
 <link>http://supermyspace.xyz/LISTE/e3.m3u</link></item>
+<item><name>E4</name>
+<link>http://supermyspace.xyz/LISTE/e4.m3u</link></item>
+<item><name>E5</name>
+<link>http://supermyspace.xyz/LISTE/e5.m3u</link></item>
+<item><name>NANOMIXAPP</name>
+<link>http://supermyspace.xyz/LISTE/NANOMIXAPP.m3u</link></item>
+<item><name>Salva1</name>
+<link>https://pastebin.com/raw/Z7ZKykjZ/.m3u</link></item>
+<item><name>Salva2</name>
+<link>https://pastebin.com/raw/39DGSiMM/.m3u</link></item>
 
 <item><name> </name>
 <link> </link></item>
-
-http://supermyspace.xyz/LISTE/e1.m3u
-http://supermyspace.xyz/LISTE/e2.m3u
-http://supermyspace.xyz/LISTE/e3.m3u
-http://supermyspace.xyz/LISTE/e4.m3u
-http://supermyspace.xyz/LISTE/e5.m3u
-http://supermyspace.xyz/LISTE/NANOMIXAPP.m3u
-https://pastebin.com/raw/Z7ZKykjZ/.m3u
-https://pastebin.com/raw/39DGSiMM/.m3u
 
 </type></data>
