@@ -22,6 +22,8 @@
 
 <item><name>Iptvpro</name>
 <link>http://iptvpro.vision-new.org:8789/get.php?username=enzo&password=skype&type=m3u</link></item>
+<item><name>darklimitless</name>
+<link>http://darklimitless.dyndns.org:19553/get.php?username=gennaro&password=gennaro&type=m3u</link></item>
 
 <item><name> </name>
 <link> </link></item>
