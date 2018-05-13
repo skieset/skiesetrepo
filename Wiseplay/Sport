@@ -1,7 +1,11 @@
 #EXTM3U
 #EXTINF:-1,sky f1
-http://2206.janjuaplayer.com:8088/live/campionato5/playlist.m3u8?id=79089&wowzasessionid=583139050&pk=7c47658d841b6d7aa9db123fb33fe86c29b862a8fbbb3423c2aef851950c7333
+http://31.220.1.54:8088/live/skysf1/playlist.m3u8
 #EXTINF:-1,sky sport
-http://cdn.cast4u.pw:1935/tv/UcGL4xM0Ku20180425/chunklist_w310061136_tkaGxzZW5kdGltZT0xNTI1MDA2OTIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9Z3h1QnZHVUdua2lRZUFqTTJDc0JZc2lHN0p1VDJuRC1YMDNyQlR1X0RoYz0=.m3u8
-#EXTINF:-1,sky f1 2
-http://2231.janjuaplayer.com:8088/live/campionato5/playlist.m3u8?id=79089&wowzasessionid=950548071&pk=7c47658d841b6d7aa9db123fb33fe86c29b862a8fbbb3423c2aef851950c7333
+http://31.220.0.176:8088/live/formula1it/playlist.m3u8
+#EXTINF:-1,sky f1 app
+http://stream.tvtap.net:8081/live/it-skysport-f1.stream/playlist.m3u8
+#EXTINF:-1,sky sport app
+http://stream.tvtap.net:8081/live/it-skysport-1.stream/playlist.m3u8
+#EXTINF:-1,sky calcio app
+http://stream.tvtap.net:8081/live/it-sky-calcio1.stream/playlist.m3u8
