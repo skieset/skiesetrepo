@@ -8,7 +8,7 @@
 
 <item> <title>[B][COLOR white] -> [COLOR blue] PROGRAMMI MEDIASET [/B][/COLOR]</title> <link>ignorme</link>
 <thumbnail>http://www.mediaset.it/sso/res/img/sso-mediaset.png</thumbnail>
-<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_id=TUTTI</jsonrpc> </item>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/MENU%20PROGRAMMI%20MEDIASET</externallink></item>
 
 <item> <title>[B][COLOR white] -> [COLOR blue] PROGRAMMI MTV[/B][/COLOR]</title> <link>http://ignorame</link>
 <thumbnail>https://kodi.tv/sites/default/files/addon_assets/plugin.video.mtv.it/icon/icon.png</thumbnail>
