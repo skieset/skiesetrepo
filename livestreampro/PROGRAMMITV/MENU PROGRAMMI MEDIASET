@@ -1,71 +1,60 @@
+<item><title>[B][COLOR white] -> [COLOR blue] Cerca... [/B][/COLOR]</title><link>http://ignorame</link>
+<jsonrpc>plugin://plugin.video.videomediaset/?mode=cerca</jsonrpc></item>
+
+<item><title> </title><link>http://ignorame</link></item>
+
 <item><title>[B][COLOR white] -> [COLOR blue] Amici [/B][/COLOR]</title>
 <link>http://ignorame</link>
 <fanart></fanart>
 <thumbnail>http://imgr.video.mediaset.it/bin/646.$plit/C_2_brandInfo_31_upiOnAir.jpg</thumbnail>
 <info></info>
-<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_url=%2fprogramma%2famici%2farchivio-video.shtml</jsonrpc>
-</item>
+<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_url=%2fprogramma%2famici%2farchivio-video.shtml</jsonrpc></item>
 
 <item><title>[B][COLOR white] -> [COLOR blue] Belli dentro [/B][/COLOR]</title>
 <link>http://ignorame</link>
 <fanart></fanart>
 <thumbnail>http://imgr.video.mediaset.it/bin/282.$plit/C_2_brandInfo_53_upiOnAir.jpg</thumbnail>
 <info></info>
-<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_url=%2fprogramma%2fbellidentro%2farchivio-video.shtml</jsonrpc>
-</item>
+<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_url=%2fprogramma%2fbellidentro%2farchivio-video.shtml</jsonrpc></item>
 
 <item><title>[B][COLOR white] -> [COLOR blue] Buona la prima [/B][/COLOR]</title>
 <link>http://ignorame</link>
 <fanart></fanart>
 <thumbnail>http://imgr.video.mediaset.it/bin/445.$plit/C_2_brandInfo_887_upiOnAir.jpg</thumbnail>
 <info></info>
-<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_url=%2fprogramma%2fbuona_la_prima%2farchivio-video.shtml</jsonrpc>
-</item>
+<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_url=%2fprogramma%2fbuona_la_prima%2farchivio-video.shtml</jsonrpc></item>
 
 <item><title>[B][COLOR white] -> [COLOR blue] Colorado [/B][/COLOR]</title>
 <link>http://ignorame</link>
 <fanart></fanart>
 <thumbnail>http://imgr.video.mediaset.it/bin/336.$plit/C_2_brandInfo_73_upiOnAir.jpg</thumbnail>
 <info></info>
-<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_url=%2fprogramma%2fcolorado_cafe%2farchivio-video.shtml</jsonrpc>
-</item>
+<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_url=%2fprogramma%2fcolorado_cafe%2farchivio-video.shtml</jsonrpc></item>
 
 <item><title>[B][COLOR white] -> [COLOR blue] Emigratis [/B][/COLOR]</title>
 <link>http://ignorame</link>
 <fanart></fanart>
 <thumbnail>http://imgr.video.mediaset.it/bin/491.$plit/C_2_brandInfo_753_upiOnAir.png</thumbnail>
 <info></info>
-<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_url=%2fprogramma%2femigratis%2farchivio-video.shtml</jsonrpc>
-</item>
+<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_url=%2fprogramma%2femigratis%2farchivio-video.shtml</jsonrpc></item>
 
 <item><title>[B][COLOR white] -> [COLOR blue] iPantellas [/B][/COLOR]</title>
 <link>http://ignorame</link>
 <fanart></fanart>
 <thumbnail>http://imgr.video.mediaset.it/bin/795.$plit/C_2_brandInfo_423_upiOnAir.jpg</thumbnail>
 <info></info>
-<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_url=%2fprogramma%2fpantellas%2farchivio-video.shtml</jsonrpc>
-</item>
+<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_url=%2fprogramma%2fpantellas%2farchivio-video.shtml</jsonrpc></item>
 
 <item><title>[B][COLOR white] -> [COLOR blue] Le iene [/B][/COLOR]</title>
 <link>http://ignorame</link>
 <fanart></fanart>
 <thumbnail>http://imgr.video.mediaset.it/bin/205.$plit/C_2_brandInfo_43_upiOnAir.jpg</thumbnail>
 <info></info>
-<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_url=%2fprogramma%2fiene%2farchivio-video.shtml</jsonrpc>
-</item>
+<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_url=%2fprogramma%2fiene%2farchivio-video.shtml</jsonrpc></item>
 
 <item><title>[B][COLOR white] -> [COLOR blue] Zelig [/B][/COLOR]</title>
 <link>http://ignorame</link>
 <fanart></fanart>
 <thumbnail>http://imgr.video.mediaset.it/bin/32.$plit/C_2_brandInfo_51_upiOnAir.jpg</thumbnail>
 <info></info>
-<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_url=%2fprogramma%2fzelig%2farchivio-video.shtml</jsonrpc>
-</item>
-
-<item><title>[B][COLOR white] -> [COLOR blue]  [/B][/COLOR]</title>
-<link>http://ignorame</link>
-<fanart></fanart>
-<thumbnail></thumbnail>
-<info></info>
-<jsonrpc></jsonrpc>
-</item>
+<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_url=%2fprogramma%2fzelig%2farchivio-video.shtml</jsonrpc></item>
