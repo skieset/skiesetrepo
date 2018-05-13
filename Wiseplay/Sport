@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,sky f1
-http://31.220.1.54:8088/live/skysf1/playlist.m3u8
-#EXTINF:-1,sky sport
-http://31.220.0.176:8088/live/formula1it/playlist.m3u8
 #EXTINF:-1,sky f1 app
 http://stream.tvtap.net:8081/live/it-skysport-f1.stream/playlist.m3u8
 #EXTINF:-1,sky sport app
