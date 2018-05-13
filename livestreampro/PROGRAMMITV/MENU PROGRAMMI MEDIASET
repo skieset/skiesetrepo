@@ -1,0 +1,27 @@
+<item><title>[B][COLOR white] -> [COLOR blue] PROGRAMMI MEDIASET [/B][/COLOR]</title> <link>ignorme</link>
+<thumbnail>http://www.mediaset.it/sso/res/img/sso-mediaset.png</thumbnail>
+<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_id=TUTTI</jsonrpc> </item>
+
+<item><title>[B][COLOR white] -> [COLOR blue] Amici [/B][/COLOR]</title>
+<link>http://ignorame</link>
+<fanart></fanart>
+<thumbnail>http://imgr.video.mediaset.it/bin/646.$plit/C_2_brandInfo_31_upiOnAir.jpg</thumbnail>
+<info></info>
+<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_url=%2fprogramma%2famici%2farchivio-video.shtml</jsonrpc>
+</item>
+
+<item><title>[B][COLOR white] -> [COLOR blue] Le iene [/B][/COLOR]</title>
+<link>http://ignorame</link>
+<fanart></fanart>
+<thumbnail>http://imgr.video.mediaset.it/bin/205.$plit/C_2_brandInfo_43_upiOnAir.jpg</thumbnail>
+<info></info>
+<jsonrpc>plugin://plugin.video.videomediaset/?mode=elenco_programmi&amp;prog_url=%2fprogramma%2fiene%2farchivio-video.shtml</jsonrpc>
+</item>
+
+<item><title>[B][COLOR white] -> [COLOR blue]  [/B][/COLOR]</title>
+<link>http://ignorame</link>
+<fanart></fanart>
+<thumbnail></thumbnail>
+<info></info>
+<jsonrpc></jsonrpc>
+</item>
