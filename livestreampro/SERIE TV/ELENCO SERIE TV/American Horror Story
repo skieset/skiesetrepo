@@ -7,7 +7,7 @@
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>American Horror Story $pyFunction:'[makelist.param2]'.replace(".mp4", " ")</title>
+        <title>American Horror Story $pyFunction:'[makelist.param2]'.replace(".mp4", "     ")</title>
         <link>$doregex[getUrl]</link>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
