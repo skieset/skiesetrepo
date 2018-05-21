@@ -10,7 +10,7 @@
         <title>American Horror Story [makelist.param2]</title>
         <link>$doregex[getUrl]</link>
 ]]></listrepeat>
-<expres><![CDATA[class="name[\w\W\s]{0,60}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
+<expres><![CDATA[class="name[\w\W\s]{0,50}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
 <page>http://kbagi.com/PlanetAndroid/americanhorror-652257</page>
 <cookieJar></cookieJar>
 </regex>
