@@ -3,55 +3,15 @@
 <fanart>http://blog.emp-online.it/wp-content/uploads/2016/11/AHS-6.png</fanart>
 <thumbnail>http://www.filmscoop.it/locandine/americanhorrorstorystagione1.jpg</thumbnail>
 <link>$doregex[makelist]</link>
-<regex>
-  <name>makelist</name>
-  <listrepeat><![CDATA[
-       <title> [COLOR blue]American Horror Story [makelist.param3]</title>
-       <link>$doregex[getUrl]</link>
-<fanart>http://blog.emp-online.it/wp-content/uploads/2016/11/AHS-6.png</fanart>
-<thumbnail>http://www.filmscoop.it/locandine/americanhorrorstorystagione1.jpg</thumbnail>
-]]></listrepeat>
-<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
-<page>http://kbagi.com/PlanetAndroid/americanhorror-652257/gallery,1,1</page>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>getUrl</name>
-<expres>DownloadUrl":"([^"]+)<expres>
-<page>http://kbagi.com/action/DownloadFile?location=fi&f=[makelist.param1]</page>
-<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
-<referer>http://kbagi.com/[makelist.param2]</referer>
-<connection>keep-alive</connection>
-<accept>*/*</accept>
-<X-Req>XMLHttpRequest</X-Req>
-<cookieJar></cookieJar>
-</regex>
-<regex>
-<name>tok</name>
-<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
-<page>http://kbagi.com/[makelist.param2]</page>
-<referer>http://kbagi.com/PlanetAndroid/americanhorror-652257/gallery,1,1</referer>
-<connection>keep-alive</connection>
-<cookieJar></cookieJar>
-</regex>
-</item>
-
-===================================================================================================================
-
-<item>
-<title>[B][COLOR white] -> [COLOR greenyellow] SERIE COMPLETA  [/COLOR][/B]</title>
-<link>$doregex[makelist]</link>
  
 <regex>
   <name>makelist</name>
   <listrepeat><![CDATA[
-        <title>[COLOR white]+ [/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
+        <title>American Horror Story [makelist.param2][/COLOR]</title>
         <link>$doregex[getUrl]</link>
-        <thumbnail>http://www.atresplayer.com/clipping/2013/06/24/00715/705.jpg</thumbnail>
-        <fanart>http://www.atresplayer.com/clipping/2013/06/24/00715/705.jpg</fanart>
 ]]></listrepeat>
 <expres><![CDATA[class="name[\w\W\s]{0,35}href="(.*?)"[\w\W\s]{0,50}preview">(.*?)<]]></expres>
-<page>http://kbagi.com/PlanetAndroid/americanhorror-652257/gallery,1,1</page>
+<page>http://kbagi.com/PlanetAndroid/americanhorror-652257</page>
 <cookieJar></cookieJar>
 </regex>
  
@@ -59,7 +19,6 @@
 <expres><![CDATA[#$pyFunction
 import re , requests ,json
 def GetLSProData(page_data,Cookie_Jar,m):
- 
  ref = 'http://kbagi.com/'
  url='http://kbagi.com[makelist.param1]'
  headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Referer': ref ,
@@ -67,7 +26,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
  session = requests.Session()
  r = session.get(url, headers=headers)
  rv1 = r.cookies
- 
  vfile , vtoken = re.findall('action/DownloadFile.*?fileId.*?value="(.*?)".*?Token".*?value="(.*?)"', r.text)[0]
  data_a ={'fileId': vfile , '__RequestVerificationToken': vtoken}
  nr = requests.post('http://kbagi.com/action/DownloadFile?location=fi&f=%s'%vfile , headers=headers,cookies=rv1 , data=data_a).text
@@ -88,6 +46,4 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>http://www.atresplayer.com/clipping/2013/06/24/00715/705.jpg</thumbnail>
-<fanart>http://www.atresplayer.com/clipping/2013/06/24/00715/705.jpg</fanart>
 </item>
