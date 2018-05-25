@@ -21,12 +21,8 @@
 <link>http://darklimitless.dyndns.org:19553/get.php?username=gennaro&password=gennaro&type=m3u</link></item>
 <item><name>galaxy </name>
 <link>http://srv1.galaxyiptv.net:8080/get.php?username=stcevoyk&password=Pqp864gc9I&type=m3u</link></item>
-<item><name>skystreaming m3u </name>
-<link>http://m3u.iptvstreaming.org:25461/get.php?username=giu.desantis%40libero.it&password=g4dmlwpftu763pgglnzw&type=m3u&output=mpegts</link></item>
 <item><name>skystreaming ts</name>
 <link>http://m3u.iptvstreaming.org:25461/get.php?username=giu.desantis%40libero.it&password=g4dmlwpftu763pgglnzw&type=m3u&output=mpegts</link></item>
-<item><name>skystreaming m3u8</name>
-<link>http://m3u.iptvstreaming.org:25461/get.php?username=giu.desantis%40libero.it&password=g4dmlwpftu763pgglnzw&type=m3u&output=hls</link></item>
 
 <item><name> </name>
 <link> </link></item>
