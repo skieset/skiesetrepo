@@ -1,16 +1,5 @@
 <data><type name="list">
 
-<item><name>E1</name>
-<link>http://supermyspace.xyz/LISTE/e1.m3u</link></item>
-<item><name>E2</name>
-<link>http://supermyspace.xyz/LISTE/e2.m3u</link></item>
-<item><name>E3</name>
-<link>http://supermyspace.xyz/LISTE/e3.m3u</link></item>
-<item><name>E4</name>
-<link>http://supermyspace.xyz/LISTE/e4.m3u</link></item>
-<item><name>E5</name>
-<link>http://supermyspace.xyz/LISTE/e5.m3u</link></item>
-
 <item><name>Iptvpro</name>
 <link>http://iptvpro.vision-new.org:8789/get.php?username=enzo&password=skype&type=m3u&output=mpegts</link></item>
 <item><name>darklimitless</name>
