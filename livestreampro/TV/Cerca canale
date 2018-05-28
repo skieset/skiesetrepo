@@ -10,10 +10,6 @@
 <link>http://europa-iptv.net:8080/get.php?username=nexh&password=gjakov&type=m3u&output=mpegts</link></item>
 <item><name>leaderpro </name>
 <link>http://leaderpro.pt:25461/get.php?username=Junia&password=Junia&type=m3u&output=mpegts</link></item>
-<item><name>geniptv </name>
-<link>http://portal.geniptv.com:8080/get.php?username=live:kral__smart&password=UYjqUviEyW&type=m3u&output=mpegts</link></item>
-<item><name>globiptv </name>
-<link>http://globiptv.com:8000/get.php?username=CLIENTY855&password=HzCHIg1xLC&type=m3u&output=mpegts</link></item>
 <item><name>livenow </name>
 <link>http://live.now-dns.top:23000/get.php?username=maecelli&password=Mor0CGbe33&type=m3u&output=mpegts</link></item>
 <item><name>daddyiptv </name>
