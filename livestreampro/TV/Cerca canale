@@ -10,10 +10,6 @@
 <link>http://supermyspace.xyz/LISTE/e4.m3u</link></item>
 <item><name>E5</name>
 <link>http://supermyspace.xyz/LISTE/e5.m3u</link></item>
-<item><name>Salva1</name>
-<link>https://pastebin.com/raw/Z7ZKykjZ/.m3u</link></item>
-<item><name>Salva2</name>
-<link>https://pastebin.com/raw/39DGSiMM/.m3u</link></item>
 
 <item><name>Iptvpro</name>
 <link>http://iptvpro.vision-new.org:8789/get.php?username=enzo&password=skype&type=m3u&output=mpegts</link></item>
@@ -31,6 +27,8 @@
 <link>http://globiptv.com:8000/get.php?username=CLIENTY855&password=HzCHIg1xLC&type=m3u&output=mpegts</link></item>
 <item><name>livenow </name>
 <link>http://live.now-dns.top:23000/get.php?username=maecelli&password=Mor0CGbe33&type=m3u&output=mpegts</link></item>
+<item><name>daddyiptv </name>
+<link>http://217.182.173.184:8000/get.php?username=micha&password=micha&type=m3u&output=mpegts</link></item>
 
 <item><name> </name>
 <link> </link></item>
