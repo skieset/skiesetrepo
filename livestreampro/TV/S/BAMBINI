@@ -1,45 +1,32 @@
 #EXTM3U
-#EXTINF:-1,Nick Junior
-http://best-anonymous.eu:8000/live/milani/michele/2233.ts
-#EXTINF:-1,Nickelodeon
-http://best-anonymous.eu:8000/live/milani/michele/5728.ts
-#EXTINF:-1,Cartoon Network HD
-http://best-anonymous.eu:8000/live/milani/michele/2326.ts
-#EXTINF:-1,Boomerang
-http://best-anonymous.eu:8000/live/milani/michele/2336.ts
-#EXTINF:-1,Disney Junior HD
-http://best-anonymous.eu:8000/live/milani/michele/2286.ts
-#EXTINF:-1,Disney Channel HD
-http://best-anonymous.eu:8000/live/milani/michele/2289.ts
-#EXTINF:-1,Disney XD
-http://best-anonymous.eu:8000/live/milani/michele/2287.ts
-#EXTINF:-1,Disney Junior HD
-http://best-anonymous.eu:8000/live/milani/michele/2286.ts
-#EXTINF:-1,Dea Junior
-http://best-anonymous.eu:8000/live/milani/michele/2299.ts
-#EXTINF:-1,Baby TV
-http://best-anonymous.eu:8000/live/milani/michele/27200.ts
-#EXTINF:-1,Super
-http://best-anonymous.eu:8000/live/milani/michele/2126.ts
-#EXTINF:-1,K2
-http://best-anonymous.eu:8000/live/milani/michele/2252.ts
 #EXTINF:-1,Frisbee
-http://best-anonymous.eu:8000/live/milani/michele/2262.ts
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/123.ts
+#EXTINF:-1,DeaKids
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/10.ts
+#EXTINF:-1,Disney Channel HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/138.ts
+#EXTINF:-1,Disney Junior HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/137.ts
+#EXTINF:-1,Disney XD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/136.ts
+#EXTINF:-1,Cartonito
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1621.ts
 #EXTINF:-1,Boing
-http://best-anonymous.eu:8000/live/milani/michele/2337.ts
-#EXTINF:-1,Cartoonito
-http://best-anonymous.eu:8000/live/milani/michele/2328.ts
-#EXTINF:-1,Manga
-http://best-anonymous.eu:8000/live/milani/michele/2244.ts
-#EXTINF:-1,rai yoyo
-http://best-anonymous.eu:8000/live/milani/michele/2181.ts
-#EXTINF:-1,Rai Gulp
-http://best-anonymous.eu:8000/live/milani/michele/2187.ts
-#EXTINF:-1,Masha e Orso TV
-http://best-anonymous.eu:8000/live/milani/michele/27247.ts
-#EXTINF:-1,Winx Club TV
-http://best-anonymous.eu:8000/live/milani/michele/27250.ts
-#EXTINF:-1,Teen Titans TV
-http://best-anonymous.eu:8000/live/milani/michele/27249.ts
-#EXTINF:-1,Paw Patrol TV
-http://best-anonymous.eu:8000/live/milani/michele/27248.ts
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/288.ts
+#EXTINF:-1,Nick Junior
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/102.ts
+#EXTINF:-1,Nickelodeon
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/101.ts
+#EXTINF:-1,Super!
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/28.ts
+#EXTINF:-1,K2
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/114.ts
+#EXTINF:-1,Man-Ga
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/108.ts
+#EXTINF:-1,POP
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1612.ts
+#EXTINF:-1,Cartoon Network
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/146.ts
+#EXTINF:-1,Baby TV
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1622.ts
+
