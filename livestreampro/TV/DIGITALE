@@ -31,6 +31,8 @@ http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pggl
 http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/798.ts
 #EXTINF:-1,Nove HD
 http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/100.ts
+#EXTINF:-1,Canale 20 Mediaset
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1512.ts
 #EXTINF:-1,Rai 4 HD
 http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/291.ts
 #EXTINF:-1,Rai 5 HD
@@ -53,6 +55,8 @@ http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pggl
 http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1585.ts
 #EXTINF:-1,Rai Premium HD
 http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1582.ts
+#EXTINF:-1,RAI SPORT   HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1579.ts
 #EXTINF:-1,Spike
 http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1573.ts
 #EXTINF:-1,Focus
@@ -61,3 +65,13 @@ http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pggl
 http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/8.ts
 #EXTINF:-1,Dmax
 http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/135.ts
+#EXTINF:-1,VH-1 Italia
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1563.ts
+#EXTINF:-1,Top Crime
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1447.ts
+#EXTINF:-1,Top Calcio 24
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1567.ts
+#EXTINF:-1,RSI La 1 HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/16.ts
+#EXTINF:-1,RSI La 2 HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/15.ts
