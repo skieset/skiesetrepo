@@ -1,15 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" group-title="RAI HD" tvg-logo="http://www.rai.it/dl/img/2016/09/1473429803381logo-rai1-2016.png",Rai 1 HD
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
-#EXTINF:-1 tvg-id="" group-title="RAI HD" tvg-logo="http://www.rai.it/dl/img/2016/09/1473149101555logo-rai2-2016.png",Rai 2 HD
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=30871
-#EXTINF:-1 tvg-id="" group-title="RAI HD" tvg-logo="http://www.rai.it/dl/img/2016/09/1473429907779logo-rai3-2016.png",Rai 3 HD
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
-#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/28/Rete_4.svg/100px-Rete_4.svg.png",Rete 4
-https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch03)/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/ae/Canale_5.svg/200px-Canale_5.svg.png",Canale 5
-https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/30/Logo_Italia_1.svg/200px-Logo_Italia_1.svg.png",Italia 1
-https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="http://www.la7.it/sites/default/files/la7_logo_0102_def.png",La7
-http://bit.ly/la7qdr
+#EXTINF:-1,Rai 1 Full HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1103.ts
+#EXTINF:-1,Rai 1 HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/72.ts
+#EXTINF:-1,Rai 2 Full HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1102.ts
+#EXTINF:-1,Rai 2 HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/71.ts
+#EXTINF:-1,Rai 3 Full HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1101.ts
+#EXTINF:-1,Rai 3 HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/70.ts
+#EXTINF:-1,Rete 4 Full HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1576.ts
+#EXTINF:-1,Rete 4 HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/61.ts
+#EXTINF:-1,Canale 5 Full HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1117.ts
+#EXTINF:-1,Canale 5 HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/147.ts
+#EXTINF:-1,Italia 1 Full HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1107.ts
+#EXTINF:-1,Italia 1 HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/117.ts
+#EXTINF:-1,La 7 Full HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1619.ts
+#EXTINF:-1,La 7 HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/112.ts
+#EXTINF:-1,TV 8 HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/798.ts
+#EXTINF:-1,Nove HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/100.ts
+#EXTINF:-1,Rai 4 HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/291.ts
+#EXTINF:-1,Rai 5 HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1589.ts
+#EXTINF:-1,Cielo
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/144.ts
+#EXTINF:-1,La 7d HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/111.ts
+#EXTINF:-1,La 5
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/113.ts
+#EXTINF:-1,Real Time
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/63.ts
+#EXTINF:-1,Mediaset Extra
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/107.ts
+#EXTINF:-1,Italia 2
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/116.ts
+#EXTINF:-1,Iris
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1620.ts
+#EXTINF:-1,Rai Movie HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1585.ts
+#EXTINF:-1,Rai Premium HD
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1582.ts
+#EXTINF:-1,Spike
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1573.ts
+#EXTINF:-1,Focus
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/1936.ts
+#EXTINF:-1,Cine Sony
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/8.ts
+#EXTINF:-1,Dmax
+http://m3u.iptvstreaming.org:25461/live/giu.desantis@libero.it/g4dmlwpftu763pgglnzw/135.ts
