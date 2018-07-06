@@ -2,15 +2,15 @@
 #EXTINF:-1,Rai 1 Full HD
 http://m3u.iptvstreaming.org:25461/live/gveronico99@gmail.com/pbl8hqui7u07el8me5hf/1103.ts
 #EXTINF:-1,Rai 1 HD
-http://m3u.iptvstreaming.org:25461/live/gveronico99@gmail.com/pbl8hqui7u07el8me5hf/72.ts
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
 #EXTINF:-1,Rai 2 Full HD
 http://m3u.iptvstreaming.org:25461/live/gveronico99@gmail.com/pbl8hqui7u07el8me5hf/1102.ts
 #EXTINF:-1,Rai 2 HD
-http://m3u.iptvstreaming.org:25461/live/gveronico99@gmail.com/pbl8hqui7u07el8me5hf/71.ts
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=180116
 #EXTINF:-1,Rai 3 Full HD
 http://m3u.iptvstreaming.org:25461/live/gveronico99@gmail.com/pbl8hqui7u07el8me5hf/1101.ts
 #EXTINF:-1,Rai 3 HD
-http://m3u.iptvstreaming.org:25461/live/gveronico99@gmail.com/pbl8hqui7u07el8me5hf/70.ts
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=180117
 #EXTINF:-1,Rete 4 Full HD
 http://m3u.iptvstreaming.org:25461/live/gveronico99@gmail.com/pbl8hqui7u07el8me5hf/1576.ts
 #EXTINF:-1,Rete 4 HD
@@ -18,11 +18,11 @@ http://m3u.iptvstreaming.org:25461/live/gveronico99@gmail.com/pbl8hqui7u07el8me5
 #EXTINF:-1,Canale 5 Full HD
 http://m3u.iptvstreaming.org:25461/live/gveronico99@gmail.com/pbl8hqui7u07el8me5hf/1117.ts
 #EXTINF:-1,Canale 5 HD
-http://m3u.iptvstreaming.org:25461/live/gveronico99@gmail.com/pbl8hqui7u07el8me5hf/147.ts
+https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/index.m3u8
 #EXTINF:-1,Italia 1 Full HD
 http://m3u.iptvstreaming.org:25461/live/gveronico99@gmail.com/pbl8hqui7u07el8me5hf/1107.ts
 #EXTINF:-1,Italia 1 HD
-http://m3u.iptvstreaming.org:25461/live/gveronico99@gmail.com/pbl8hqui7u07el8me5hf/117.ts
+https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/index.m3u8
 #EXTINF:-1,La 7 Full HD
 http://m3u.iptvstreaming.org:25461/live/gveronico99@gmail.com/pbl8hqui7u07el8me5hf/1619.ts
 #EXTINF:-1,La 7 HD
