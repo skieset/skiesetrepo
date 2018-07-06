@@ -1,7 +1,5 @@
 <item><title>[COLOR white]________________[/COLOR][COLOR violet][B]MENU PROGRAMMI TV[/COLOR][/B][COLOR white]________________[/COLOR]</title> <link>ignore</link></item>
 
-<SetViewMode>500</SetViewMode>
-
 <item><title> </title><link>http://ignorame</link></item>
 
 <item> <title>[B][COLOR white] -> [COLOR blue] PROGRAMMI RAI [/B][/COLOR]</title> <link>ignorme</link> 
