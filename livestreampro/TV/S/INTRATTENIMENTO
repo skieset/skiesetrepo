@@ -1,37 +1,41 @@
 #EXTM3U
+#EXTINF:-1,---- SKY INTRATTENIMENTO ----
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/99.ts
 #EXTINF:-1,Sky Uno Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1078.ts
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1459.ts
 #EXTINF:-1,Sky Uno HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/30.ts
-#EXTINF:-1,Sky Atlantic Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1098.ts
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1.ts
+#EXTINF:-1,Sky Uno +1 HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/198.ts
+#EXTINF:-1,Sky Atlantic SUPER HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1472.ts
 #EXTINF:-1,Sky Atlantic HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/56.ts
-#EXTINF:-1,Fox Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1111.ts
-#EXTINF:-1,Fox HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1.ts
-#EXTINF:-1,Fox Crime Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1112.ts
-#EXTINF:-1,Fox Crime HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/126.ts
-#EXTINF:-1,Fox Life Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1110.ts
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/32.ts
 #EXTINF:-1,Fox Life HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/125.ts
-#EXTINF:-1,Fox Animation Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1114.ts
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/83.ts
+#EXTINF:-1,Fox HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/84.ts
+#EXTINF:-1,Fox +1 HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/188.ts
 #EXTINF:-1,Fox Animation HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/128.ts
-#EXTINF:-1,Fox Comedy Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1113.ts
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/87.ts
 #EXTINF:-1,Fox Comedy HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/127.ts
-#EXTINF:-1,Comedy Central
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/143.ts
-#EXTINF:-1,Blaze HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/25.ts
-#EXTINF:-1,MTV HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/14.ts
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/86.ts
+#EXTINF:-1,Fox Crime HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/85.ts
+#EXTINF:-1,Crime Inv HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/91.ts
+#EXTINF:-1,Laeffe
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/95.ts
 #EXTINF:-1,Lei
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/109.ts
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/282.ts
+#EXTINF:-1,Cielo HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/92.ts
+#EXTINF:-1,Realtime HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/35.ts
+#EXTINF:-1,DMAX HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/202.ts
+#EXTINF:-1,Classica HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/203.ts
+#EXTINF:-1,MTV HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/207.ts
