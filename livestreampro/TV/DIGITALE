@@ -1,77 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/899_home.png",Rai 1 Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1103.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/899_home.png",Rai 1 HD
-http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/898_home.png",Rai 2 Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1102.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/898_home.png",Rai 2 HD
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=180116
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/897_home.png",Rai 3 Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1101.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/897_home.png",Rai 3 HD
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=180117
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6603_home.png",Rete 4 Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1576.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6603_home.png",Rete 4 HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/61.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6604_home.png",Canale 5 Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1117.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6604_home.png",Canale 5 HD
-https://live1-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch01)/index.m3u8
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6605_home.png",Italia 1 Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1107.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6605_home.png",Italia 1 HD
-https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/index.m3u8
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/27088_home.png",La 7 Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1619.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/27088_home.png",La 7 HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/112.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8327_home.png",TV 8 HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/798.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8328_home.png",Nove HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/100.ts
-#EXTINF:-1 tvg-logo="",Canale 20 Mediaset
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1512.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9213_home.png",Rai 4 HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/291.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6607_home.png",Rai 5 HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1589.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8773_home.png",Cielo
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/144.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/23844_home.png",La 7d HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/111.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6625_home.png",La 5
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/113.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/27127_home.png",Real Time
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/63.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6627_home.png",Mediaset Extra
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/107.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/7967_home.png",Italia 2
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/116.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6606_home.png",Iris
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1620.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6608_home.png",Rai Movie HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1585.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/6623_home.png",Rai Premium HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1582.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/8317_home.png",RAI SPORT HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1579.ts
-#EXTINF:-1 tvg-logo="http://www.spiketv.it/wp-content/uploads/2017/10/SpikeLogo_dtt.png",Spike
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1573.ts
-#EXTINF:-1 tvg-logo="",Focus
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1936.ts
-#EXTINF:-1 tvg-logo="",Cine Sony
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/8.ts
-#EXTINF:-1 tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/9233_home.png",Dmax
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/135.ts
-#EXTINF:-1 tvg-logo="",VH-1 Italia
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1563.ts
-#EXTINF:-1 tvg-logo="",Top Crime
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1447.ts
-#EXTINF:-1 tvg-logo="",Top Calcio 24
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1567.ts
-#EXTINF:-1 tvg-logo="",RSI La 1 HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/16.ts
-#EXTINF:-1 tvg-logo="",RSI La 2 HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/15.ts
+#EXTINF:-1,---- TOP ITALIA ----
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/97.ts
+#EXTINF:-1,Rai1 HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/38.ts
+#EXTINF:-1,Rai2 HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/37.ts
+#EXTINF:-1,Rai3 HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/36.ts
+#EXTINF:-1,Rete 4 HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/34.ts
+#EXTINF:-1,Canale 5 HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/93.ts
+#EXTINF:-1,Italia 1 HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/78.ts
+#EXTINF:-1,La7
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/201.ts
+#EXTINF:-1,La7d
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1572.ts
+#EXTINF:-1,TV8
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1583.ts
+#EXTINF:-1,Alice
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1579.ts
+#EXTINF:-1,Cine Sony
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1577.ts
+#EXTINF:-1,Dove TV
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1576.ts
+#EXTINF:-1,Focus
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1575.ts
+#EXTINF:-1,Giallo
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1574.ts
+#EXTINF:-1,Nove HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1569.ts
+#EXTINF:-1,La5
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/77.ts
+#EXTINF:-1,Iris
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/79.ts
+#EXTINF:-1,Paramount Channel
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1567.ts
+#EXTINF:-1,Rai 4
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/233.ts
+#EXTINF:-1,Rai 5
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/230.ts
+#EXTINF:-1,Rai Movie
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1566.ts
+#EXTINF:-1,Rai Premium
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/224.ts
+#EXTINF:-1,Rai Scuola
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/223.ts
+#EXTINF:-1,Rai Storia
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/220.ts
+#EXTINF:-1,Rai Sport 1 HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/222.ts
+#EXTINF:-1,RSI LA 1 HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/195.ts
+#EXTINF:-1,RSI LA 2 HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/196.ts
