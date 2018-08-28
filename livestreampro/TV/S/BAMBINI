@@ -1,31 +1,40 @@
-#EXTM3U
-#EXTINF:-1,Frisbee
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/123.ts
-#EXTINF:-1,DeaKids
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/10.ts
-#EXTINF:-1,Disney Channel HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/138.ts
-#EXTINF:-1,Disney Junior HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/137.ts
-#EXTINF:-1,Disney XD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/136.ts
-#EXTINF:-1,Cartonito
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1621.ts
-#EXTINF:-1,Boing
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/288.ts
-#EXTINF:-1,Nick Junior
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/102.ts
-#EXTINF:-1,Nickelodeon
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/101.ts
-#EXTINF:-1,Super!
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/28.ts
-#EXTINF:-1,K2
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/114.ts
-#EXTINF:-1,Man-Ga
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/108.ts
-#EXTINF:-1,POP
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1612.ts
+#EXTINF:-1,---- Ragazzi - BAMBINI ----
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/102.ts
 #EXTINF:-1,Cartoon Network
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/146.ts
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/60.ts
+#EXTINF:-1,Nickelodeon
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/249.ts
+#EXTINF:-1,Boomerang
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/251.ts
+#EXTINF:-1,MAN-GA
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/288.ts
 #EXTINF:-1,Baby TV
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1622.ts
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/252.ts
+#EXTINF:-1,DisneyChannel HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/205.ts
+#EXTINF:-1,Disney XD HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/206.ts
+#EXTINF:-1,Premium Boing
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/71.ts
+#EXTINF:-1,Premium Cartoonito
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/59.ts
+#EXTINF:-1,Rai YoYo
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/219.ts
+#EXTINF:-1,Rai Gulp
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/226.ts
+#EXTINF:-1,Dea Junior HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1478.ts
+#EXTINF:-1,DeAKids
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/240.ts
+#EXTINF:-1,Frisbee
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1482.ts
+#EXTINF:-1,K2
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1481.ts
+#EXTINF:-1,Nick Jr
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/250.ts
+#EXTINF:-1,POP
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1584.ts
+#EXTINF:-1,Teen Nick HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1479.ts
+#EXTINF:-1,Super
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/253.ts
