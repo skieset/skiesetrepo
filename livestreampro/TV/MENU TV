@@ -7,8 +7,7 @@
 
 <item><title>[COLOR white]________________[/COLOR][COLOR violet][B]SKY[/COLOR][/B][COLOR white]________________[/COLOR]</title>  
 <link>ignore</link>
-<fanart>https://www.4fan.it/wp-content/uploads/2017/09/sky-offerte-abbonamento.jpg</fanart>
-</item>
+<fanart>https://www.4fan.it/wp-content/uploads/2017/09/sky-offerte-abbonamento.jpg</fanart></item>
 
 <item><title>[B][COLOR white] -> [COLOR blue] INTRATTENIMENTO[/COLOR][/B]</title> <link>http://Ignoreme</link> 
 <thumbnail></thumbnail> 
@@ -30,6 +29,11 @@
 <fanart>https://www.4fan.it/wp-content/uploads/2017/09/sky-offerte-abbonamento.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/S/SPORT$$TSDOWNLOADER$$</externallink></item>
 
+<item><title>[B][COLOR white] -> [COLOR blue] DAZN[/COLOR][/B]</title><link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart>https://www.4fan.it/wp-content/uploads/2017/09/sky-offerte-abbonamento.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/S/DAZN</externallink>
+
 <item><title>[B][COLOR white] -> [COLOR blue] BAMBINI[/COLOR][/B]</title><link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart>https://www.4fan.it/wp-content/uploads/2017/09/sky-offerte-abbonamento.jpg</fanart>
@@ -38,12 +42,7 @@
 <item> <title>[COLOR white]____________[/COLOR][COLOR violet][B]MEDIASET PREMIUM[/COLOR][/B][COLOR white]____________[/COLOR]</title><link>ignore</link>
 <fanart>http://www.calcioefinanza.it/wp-content/uploads/2014/11/mediaset-premium.jpg</fanart></item>
 
-<item><title>[B][COLOR white] -> [COLOR blue] CINEMA[/COLOR][/B]</title><link>http://ignorame</link>
+<item><title>[B][COLOR white] -> [COLOR blue] CINEMA & CALCIO[/COLOR][/B]</title><link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart>http://www.calcioefinanza.it/wp-content/uploads/2014/11/mediaset-premium.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/M/CINEMA$$TSDOWNLOADER$$</externallink></item>
-
-<item><title>[B][COLOR white] -> [COLOR blue] SPORT[/COLOR][/B]</title><link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart>http://www.calcioefinanza.it/wp-content/uploads/2014/11/mediaset-premium.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/M/SPORT$$TSDOWNLOADER$$</externallink></item>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/M/CINEMA%20%26%20CALCIO$$TSDOWNLOADER$$</externallink></item>
