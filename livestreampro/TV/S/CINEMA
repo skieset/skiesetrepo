@@ -1,35 +1,117 @@
 #EXTM3U
-#EXTINF:-1,Sky Cinema 1 Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1087.ts
+#EXTINF:-1,---- SKY CINEMA ----
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/98.ts
+#EXTINF:-1,Sky Cinema 1 SUPER HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1443.ts
 #EXTINF:-1,Sky Cinema 1 HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/45.ts
-#EXTINF:-1,Sky Cinema  24 Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1094.ts
-#EXTINF:-1,Sky Cinema  24 HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/46.ts
-#EXTINF:-1,Sky Cinema Comedy Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1093.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/43.ts
-#EXTINF:-1,Sky Cinema Cult Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1092.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/42.ts
-#EXTINF:-1,Sky Cinema Family Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1091.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/41.ts
-#EXTINF:-1,Sky Cinema Hits Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1090.ts
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/22.ts
+#EXTINF:-1,Sky Cinema +24 Full HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1445.ts
+#EXTINF:-1,Sky Cinema +24 HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/23.ts
+#EXTINF:-1,Sky Cinema Hits SUPER HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1446.ts
 #EXTINF:-1,Sky Cinema Hits HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/40.ts
-#EXTINF:-1,Sky Cinema Max Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1089.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/39.ts
-#EXTINF:-1,Sky Cinema Passion Full HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/1088.ts
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/17.ts
+#EXTINF:-1,Sky Cinema Family SUPER HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1453.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/18.ts
+#EXTINF:-1,Sky Cinema Passion SUPER HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1452.ts
 #EXTINF:-1,Sky Cinema Passion HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/38.ts
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/15.ts
+#EXTINF:-1,Sky Cinema Comedy SUPER HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1458.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/20.ts
+#EXTINF:-1,Sky Cinema Max SUPER HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1444.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/16.ts
+#EXTINF:-1,Sky Cinema Cult Full HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1447.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/19.ts
+#EXTINF:-1,Sky Cinema Classic Full HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1451.ts
 #EXTINF:-1,Sky Cinema Classic HD
-http://m3u.iptvstreaming.org:25461/live/girolamoruggiero5@hotmail.com/i5youvnvhiqsf8tmenbv/44.ts
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/21.ts
+#EXTINF:-1,---- VETRINA PRIMAFILA  ----
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/107.ts
+#EXTINF:-1,Primafila 1 HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/165.ts
+#EXTINF:-1,Primafila 2
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/166.ts
+#EXTINF:-1,Primafila 3 HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/167.ts
+#EXTINF:-1,Primafila 4
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/168.ts
+#EXTINF:-1,Primafila 5 HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/169.ts
+#EXTINF:-1,Primafila 6
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/170.ts
+#EXTINF:-1,Primafila 7 HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/171.ts
+#EXTINF:-1,Primafila 8
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/172.ts
+#EXTINF:-1,Primafila 9 HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/173.ts
+#EXTINF:-1,Primafila 10
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/174.ts
+#EXTINF:-1,Primafila 11 HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/175.ts
+#EXTINF:-1,Primafila 12
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/176.ts
+#EXTINF:-1,Primafila 13 HD
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/177.ts
+#EXTINF:-1,Primafila 14
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/178.ts
+#EXTINF:-1,Primafila 15
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/179.ts
+#EXTINF:-1,Primafila 16
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/180.ts
+#EXTINF:-1,Primafila 17
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/181.ts
+#EXTINF:-1,Primafila 18
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/182.ts
+#EXTINF:-1,Primafila 19
+http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/183.ts
+#EXTINF:-1,Primafila 1 Hd On Demand
+http://cdnlive1.win:80/movie/lxGPg0iiW1/RYP005NOgw/163.mkv
+#EXTINF:-1,Primafila 2 On Demand
+http://cdnlive1.win:80/movie/lxGPg0iiW1/RYP005NOgw/154.avi
+#EXTINF:-1,Primafila 3 Hd On Demand
+http://cdnlive1.win:80/movie/lxGPg0iiW1/RYP005NOgw/155.mkv
+#EXTINF:-1,Primafila 4 On Demand
+http://cdnlive1.win:80/movie/lxGPg0iiW1/RYP005NOgw/156.avi
+#EXTINF:-1,Primafila 5 Hd On Demand
+http://cdnlive1.win:80/movie/lxGPg0iiW1/RYP005NOgw/157.mkv
+#EXTINF:-1,Primafila 6 On Demand
+http://cdnlive1.win:80/movie/lxGPg0iiW1/RYP005NOgw/158.avi
+#EXTINF:-1,Primafila 7 Hd On Demand
+http://cdnlive1.win:80/movie/lxGPg0iiW1/RYP005NOgw/159.mkv
+#EXTINF:-1,Primafila 8 On Demand
+http://cdnlive1.win:80/movie/lxGPg0iiW1/RYP005NOgw/160.avi
+#EXTINF:-1,Primafila 9 Hd On Demand
+http://cdnlive1.win:80/movie/lxGPg0iiW1/RYP005NOgw/161.mkv
+#EXTINF:-1,Primafila 10 On Demand
+http://cdnlive1.win:80/movie/lxGPg0iiW1/RYP005NOgw/144.avi
+#EXTINF:-1,Primafila 11 Hd On Demand
+http://cdnlive1.win:80/movie/lxGPg0iiW1/RYP005NOgw/145.mkv
+#EXTINF:-1,Primafila 12 On Demand
+http://cdnlive1.win:80/movie/lxGPg0iiW1/RYP005NOgw/146.avi
+#EXTINF:-1,Primafila 13 Hd On Demand
+http://cdnlive1.win:80/movie/lxGPg0iiW1/RYP005NOgw/147.mkv
+#EXTINF:-1,Primafila 14 On Demand
+http://cdnlive1.win:80/movie/lxGPg0iiW1/RYP005NOgw/148.avi
+#EXTINF:-1,Primafila 15 On Demand
+http://cdnlive1.win:80/movie/lxGPg0iiW1/RYP005NOgw/149.avi
+#EXTINF:-1,Primafila 16 On Demand
+http://cdnlive1.win:80/movie/lxGPg0iiW1/RYP005NOgw/150.avi
+#EXTINF:-1,Primafila 17 On Demand
+http://cdnlive1.win:80/movie/lxGPg0iiW1/RYP005NOgw/151.avi
+#EXTINF:-1,Primafila 18 On Demand
+http://cdnlive1.win:80/movie/lxGPg0iiW1/RYP005NOgw/152.avi
+#EXTINF:-1,Primafila 19 On Demand
+http://cdnlive1.win:80/movie/lxGPg0iiW1/RYP005NOgw/153.avi
