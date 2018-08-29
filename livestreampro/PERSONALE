@@ -6,7 +6,7 @@
 <externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/GUIDATV</externallink></item>
 
 <item><title>[B][COLOR white]->  [COLOR blue] CERCA CANALE TV [/COLOR][/B]</title><link>ignore</link>
-<jsonrpc>plugin://plugin.video.evilkingplus30/?mode=53&amp;name=%5bB%5d%5bCOLOR%20cyan%5dCerca%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=plugin%3a%2f%2fscript.module.evilsearch%2f%3faction%3daddSearch</jsonrpc></item>
+<jsonrpc>plugin://plugin.video.evilkingplus30/?fanart=http://i63.tinypic.com/2jadxmc.jpg;mode=53&amp;name=%5bB%5d%5bCOLOR%20cyan%5dCerca%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=plugin%3a%2f%2fscript.module.evilsearch%2f%3faction%3daddSearch</jsonrpc></item>
 
 <item><title>[B][COLOR white]->  [COLOR blue] CANALI TV [/COLOR][/B]</title><link>http://ignorame</link>
 <externallink>https://rebrand.ly/skiesetTV$$TSDOWNLOADER$$</externallink></item>
