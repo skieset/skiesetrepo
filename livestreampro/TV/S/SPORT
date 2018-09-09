@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1,=== SKY SPORT ===
 #EXTINF:-1,Sky Sport Uno Full HD
 http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1086.ts
 #EXTINF:-1,Sky Sport Uno HD
@@ -59,3 +60,55 @@ http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95su
 http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1236.ts
 #EXTINF:-1,Sky Sport Golf Full HD
 http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1109.ts
+#EXTINF:-1,=== SKY CALCIO ===
+#EXTINF:-1,Sky Sport Serie A Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1079.ts
+#EXTINF:-1,Sky Sport Serie A HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/31.ts
+#EXTINF:-1,Sky Calcio 1 Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1097.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/55.ts
+#EXTINF:-1,Sky Calcio 2 Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1096.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/54.ts
+#EXTINF:-1,Sky Calcio 3 Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1095.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/53.ts
+#EXTINF:-1,Sky Calcio 4 Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1416.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/52.ts
+#EXTINF:-1,Sky Calcio 5 Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1417.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/51.ts
+#EXTINF:-1,Sky Calcio 6 Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1418.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/50.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/49.ts
+#EXTINF:-1,Sky Calcio 8 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/48.ts
+#EXTINF:-1,Sky Calcio 9 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/47.ts
+#EXTINF:-1,Sky Calcio 10 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/4.ts
+#EXTINF:-1,Sky Calcio 11 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1662.ts
+#EXTINF:-1,Lazio Style Ch
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/110.ts
+#EXTINF:-1,Milan TV
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/106.ts
+#EXTINF:-1,Inter Channel
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/118.ts
+#EXTINF:-1,Roma TV
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/60.ts
+#EXTINF:-1,Roma TV Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1100.ts
+#EXTINF:-1,Torino Channel
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/26.ts
+
