@@ -1,39 +1,29 @@
 #EXTM3U
-#EXTINF:-1,---- MEDIASET PREMIUM ----
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/105.ts
+#EXTINF:-1,Premium Cinema Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1608.ts
 #EXTINF:-1,Premium Cinema HD
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/58.ts
-#EXTINF:-1,Premium Cinema Energy HD
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/50.ts
-#EXTINF:-1,20 Mediaset
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1580.ts
-#EXTINF:-1,Premium Emotion
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/51.ts
-#EXTINF:-1,Premium Action
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/212.ts
-#EXTINF:-1,Premium Comedy
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/57.ts
-#EXTINF:-1,Premium Joi
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/43.ts
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/81.ts
+#EXTINF:-1,Premium Cinema 24 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/87.ts
+#EXTINF:-1,Premium Action HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/95.ts
+#EXTINF:-1,Premium Crime HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/79.ts
+#EXTINF:-1,Premium Stories Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/3004.ts
 #EXTINF:-1,Premium Stories
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/42.ts
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/74.ts
+#EXTINF:-1,Premium Joi Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/3003.ts
+#EXTINF:-1,Premium Joi
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/77.ts
 #EXTINF:-1,Premium Studio Universal
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/40.ts
-#EXTINF:-1,Premium TopCrime
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/39.ts
-#EXTINF:-1,Premium Investigation Discovery
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/55.ts
-#EXTINF:-1,Premium Crime
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/211.ts
-#EXTINF:-1,Premium Italiadue
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/44.ts
-#EXTINF:-1,Premium Extra
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/47.ts
-#EXTINF:-1,Premium Sport Italia
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/41.ts
-#EXTINF:-1,Premium Eurosport
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/49.ts
-#EXTINF:-1,Premium Eurosport 2
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/48.ts
-#EXTINF:-1,Premium Sport 2
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/63.ts
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/73.ts
+#EXTINF:-1,Premium Cinema Energy HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/82.ts
+#EXTINF:-1,Premium Cinema Emotion HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/83.ts
+#EXTINF:-1,Premium Cinema Comedy HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/84.ts
+#EXTINF:-1,Canale 20 Mediaset
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1512.ts
