@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,---- SKY CULTURA ----
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/157.ts
 #EXTINF:-1,National Geographic HD
 http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/103.ts
 #EXTINF:-1,National Geographic Full HD
@@ -13,6 +11,8 @@ http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95su
 http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/57.ts
 #EXTINF:-1,Animal Planet
 http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/150.ts
+#EXTINF:-1,Discovery Sci Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1115.ts
 #EXTINF:-1,Discovery Channel HD
 http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/141.ts
 #EXTINF:-1,Discovery Science HD
@@ -35,16 +35,7 @@ http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95su
 http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/120.ts
 #EXTINF:-1,History Full HD
 http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1415.ts
-#EXTINF:-1,Gambero Rosso HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/122.ts
 #EXTINF:-1,Rai Storia HD
 http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/65.ts
-
-#EXTINF:-1,---- NEWS ----
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/103.ts
-#EXTINF:-1,Sky Tg 24 HD
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/2.ts
-#EXTINF:-1,Rai News 24
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/225.ts
-#EXTINF:-1,Tgcom24
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/96.ts
+#EXTINF:-1,Sky TG 24
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/11.ts
