@@ -1,34 +1,45 @@
 #EXTM3U
 #EXTINF:-1,---- SKY CULTURA ----
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/101.ts
-#EXTINF:-1,Sky Arte Full HD
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1448.ts
-#EXTINF:-1,Sky Arte HD
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/33.ts
-#EXTINF:-1,Discovery Channel HD
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/90.ts
-#EXTINF:-1,National Geo HD
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/76.ts
-#EXTINF:-1,Discovery Sci Full HD
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1460.ts
-#EXTINF:-1,Discovery Sci HD
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/89.ts
-#EXTINF:-1,Discovery Travel & Living Full HD
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1461.ts
-#EXTINF:-1,Discovery Travel & Living HD
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/204.ts
-#EXTINF:-1,History HD
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/80.ts
-#EXTINF:-1,National Wild Full HD
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1462.ts
-#EXTINF:-1,National Wild HD
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/74.ts
-#EXTINF:-1,National Geo People Full HD
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/1463.ts
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/157.ts
+#EXTINF:-1,National Geographic HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/103.ts
+#EXTINF:-1,National Geographic Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/2456.ts
 #EXTINF:-1,National Geo People HD
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/75.ts
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/105.ts
+#EXTINF:-1,National Geo Wild HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/104.ts
+#EXTINF:-1,Sky Arte HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/57.ts
+#EXTINF:-1,Animal Planet
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/150.ts
+#EXTINF:-1,Discovery Channel HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/141.ts
+#EXTINF:-1,Discovery Science HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/140.ts
+#EXTINF:-1,Discovery Travel e Living HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/139.ts
+#EXTINF:-1,Premium Investigation Discovery
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/78.ts
+#EXTINF:-1,Criminal Investigation HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/142.ts
+#EXTINF:-1,Dmax
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/135.ts
+#EXTINF:-1,Food Network
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/287.ts
+#EXTINF:-1,Caccia
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/148.ts
+#EXTINF:-1,Pesca
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/99.ts
+#EXTINF:-1,History
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/120.ts
+#EXTINF:-1,History Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1415.ts
 #EXTINF:-1,Gambero Rosso HD
-http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/11.ts
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/122.ts
+#EXTINF:-1,Rai Storia HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/65.ts
+
 #EXTINF:-1,---- NEWS ----
 http://cdnlive1.win:80/live/lxGPg0iiW1/RYP005NOgw/103.ts
 #EXTINF:-1,Sky Tg 24 HD
