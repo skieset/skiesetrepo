@@ -1,61 +1,121 @@
-<item><title> [COLOR lime]=====DIGITALE TERRESTRE=====[/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/97.m3u8&amp;streamtype=HLS&amp;name=---- TOP ITALIA ----</link></item> 
-<item><title>Rai1 HD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/38.m3u8&amp;streamtype=HLS&amp;name=Rai1 HD</link></item> 
-<item><title>Rai2 HD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/37.m3u8&amp;streamtype=HLS&amp;name=Rai2 HD</link></item> 
-<item><title>Rai3 HD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/36.m3u8&amp;streamtype=HLS&amp;name=Rai3 HD</link></item> 
-<item><title>Rete 4 HD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/34.m3u8&amp;streamtype=HLS&amp;name=Rete 4 HD</link></item> 
-<item><title>Canale 5 HD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/93.m3u8&amp;streamtype=HLS&amp;name=Canale 5 HD</link></item> 
-<item><title>Italia 1 HD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/78.m3u8&amp;streamtype=HLS&amp;name=Italia 1 HD</link></item> 
-<item><title>La7</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/201.m3u8&amp;streamtype=HLS&amp;name=La7</link></item> 
-<item><title>La7d</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1572.m3u8&amp;streamtype=HLS&amp;name=La7d</link></item> 
-<item><title>TV8</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1583.m3u8&amp;streamtype=HLS&amp;name=TV8</link></item> 
-<item><title>Comedy Central HD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1563.m3u8&amp;streamtype=HLS&amp;name=Comedy Central HD</link></item> 
-<item><title>Alice</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1579.m3u8&amp;streamtype=HLS&amp;name=Alice</link></item> 
-<item><title>Blaze HD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1578.m3u8&amp;streamtype=HLS&amp;name=Blaze HD</link></item> 
-<item><title>Cine Sony</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1577.m3u8&amp;streamtype=HLS&amp;name=Cine Sony</link></item> 
-<item><title>Dove TV</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1576.m3u8&amp;streamtype=HLS&amp;name=Dove TV</link></item> 
-<item><title>Focus</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1575.m3u8&amp;streamtype=HLS&amp;name=Focus</link></item> 
-<item><title>Giallo</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1574.m3u8&amp;streamtype=HLS&amp;name=Giallo</link></item> 
-<item><title>Nove HD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1569.m3u8&amp;streamtype=HLS&amp;name=Nove HD</link></item> 
-<item><title>La5</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/77.m3u8&amp;streamtype=HLS&amp;name=La5</link></item> 
-<item><title>Iris</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/79.m3u8&amp;streamtype=HLS&amp;name=Iris</link></item> 
-<item><title>Rai 4</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/233.m3u8&amp;streamtype=HLS&amp;name=Rai 4</link></item> 
-<item><title>Rai 5</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/230.m3u8&amp;streamtype=HLS&amp;name=Rai 5</link></item> 
-<item><title>Rai Movie</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1566.m3u8&amp;streamtype=HLS&amp;name=Rai Movie</link></item> 
-<item><title>Rai Premium</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/224.m3u8&amp;streamtype=HLS&amp;name=Rai Premium</link></item> 
-<item><title>Rai Scuola</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/223.m3u8&amp;streamtype=HLS&amp;name=Rai Scuola</link></item> 
-<item><title>Rai Storia</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/220.m3u8&amp;streamtype=HLS&amp;name=Rai Storia</link></item> 
-<item><title>Rai Sport 1 HD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/222.m3u8&amp;streamtype=HLS&amp;name=Rai Sport 1 HD</link></item> 
-<item><title>RSI LA 1 HD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/195.m3u8&amp;streamtype=HLS&amp;name=RSI LA 1 HD</link></item> 
-<item><title>RSI LA 2 HD</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/196.m3u8&amp;streamtype=HLS&amp;name=RSI LA 2 HD</link></item> 
-<item><title>Paramount Channel</title> 
-<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1567.m3u8&amp;streamtype=HLS&amp;name=Paramount Channel</link></item> 
-  
+#EXTM3U
+#EXTINF:-1,Rai 1 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/72.ts
+#EXTINF:-1,Rai 2 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/71.ts
+#EXTINF:-1,Rai 3 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/70.ts
+#EXTINF:-1,Rete 4 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/61.ts
+#EXTINF:-1,Canale 5 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/147.ts
+#EXTINF:-1,Italia 1 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/117.ts
+#EXTINF:-1,Rai 4 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/291.ts
+#EXTINF:-1,Rai 5 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1589.ts
+#EXTINF:-1,Italia 2
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/116.ts
+#EXTINF:-1,La 5
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/113.ts
+#EXTINF:-1,La 7 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/112.ts
+#EXTINF:-1,La 7d HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/111.ts
+#EXTINF:-1,Canale 8
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1661.ts
+#EXTINF:-1,Nove HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/100.ts
+#EXTINF:-1,Rai Gulp HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1587.ts
+#EXTINF:-1,Rai Movie HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1585.ts
+#EXTINF:-1,Rai 1 Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1103.ts
+#EXTINF:-1,Rai 2 Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1102.ts
+#EXTINF:-1,Rai 3 Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1101.ts
+#EXTINF:-1,Rete 4 Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1576.ts
+#EXTINF:-1,Rai 4 Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1591.ts
+#EXTINF:-1,Rai 5 Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1590.ts
+#EXTINF:-1,Canale 5 Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1117.ts
+#EXTINF:-1,Italia 1 Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1107.ts
+#EXTINF:-1,La 7 Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1619.ts
+#EXTINF:-1,La 7D Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1618.ts
+#EXTINF:-1,Nove Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1615.ts
+#EXTINF:-1,Rai Gulp Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1588.ts
+#EXTINF:-1,Rai News 24 Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1584.ts
+#EXTINF:-1,Rai Premium Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1583.ts
+#EXTINF:-1,Rai Sport   Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1580.ts
+#EXTINF:-1,Rai Scuola Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1581.ts
+#EXTINF:-1,Rai Storia Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1578.ts
+#EXTINF:-1,Rai Yoyo Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1577.ts
+#EXTINF:-1,Rai Movie Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1586.ts
+#EXTINF:-1,Iris
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1620.ts
+#EXTINF:-1,Rai Premium HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1582.ts
+#EXTINF:-1,RAI SPORT HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1579.ts
+#EXTINF:-1,Marcopolo
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1617.ts
+#EXTINF:-1,RSI La 1 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/16.ts
+#EXTINF:-1,RSI La 2 HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/15.ts
+#EXTINF:-1,NBA TV
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1755.ts
+#EXTINF:-1,WWE USA
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/5.ts
+#EXTINF:-1,ITV4
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1934.ts
+#EXTINF:-1,Alice
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1623.ts
+#EXTINF:-1,Baby TV
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1622.ts
+#EXTINF:-1,Cine Sony
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/8.ts
+#EXTINF:-1,Focus
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1936.ts
+#EXTINF:-1,QVC
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1603.ts
+#EXTINF:-1,Spike
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1573.ts
+#EXTINF:-1,Telelombardia
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1570.ts
+#EXTINF:-1,Teleticino Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1569.ts
+#EXTINF:-1,TGCOM 24
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1568.ts
+#EXTINF:-1,Top Calcio 24
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1567.ts
+#EXTINF:-1,Padre Pio TV
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1614.ts
+#EXTINF:-1,TV2000
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1566.ts
+#EXTINF:-1,UnireSat Full HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1565.ts
+#EXTINF:-1,UnireSat HD
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1564.ts
+#EXTINF:-1,VH-1 Italia
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1563.ts
+#EXTINF:-1,Top Crime
+http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1447.ts
