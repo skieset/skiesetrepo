@@ -1,40 +1,40 @@
-#EXTINF:-1,---- SKY INTRATTENIMENTO ----
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/99.m3u8
-#EXTINF:-1,Sky Uno Full HD
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1459.m3u8
-#EXTINF:-1,Sky Uno HD
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1.m3u8
-#EXTINF:-1,Sky Uno +1 HD
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/198.m3u8
-#EXTINF:-1,Sky Atlantic SUPER HD
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1472.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/32.m3u8
-#EXTINF:-1,Fox Life HD
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/83.m3u8
-#EXTINF:-1,Fox HD
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/84.m3u8
-#EXTINF:-1,Fox +1 HD
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/188.m3u8
-#EXTINF:-1,Fox Animation HD
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/87.m3u8
-#EXTINF:-1,Fox Comedy HD
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/86.m3u8
-#EXTINF:-1,Fox Crime HD
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/85.m3u8
-#EXTINF:-1,Crime Inv HD
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/91.m3u8
-#EXTINF:-1,Laeffe
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/95.m3u8
-#EXTINF:-1,Lei
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/282.m3u8
-#EXTINF:-1,Cielo HD
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/92.m3u8
-#EXTINF:-1,Realtime HD
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/35.m3u8
-#EXTINF:-1,DMAX HD
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/202.m3u8
-#EXTINF:-1,Classica HD
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/203.m3u8
-#EXTINF:-1,MTV HD
-http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/207.m3u8
+<item><title> [COLOR lime]=====SKY INTRATTENIMENTO=====[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/99.m3u8&amp;streamtype=HLS&amp;name=---- SKY INTRATTENIMENTO ----</link></item> 
+<item><title>Sky Uno Full HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1459.m3u8&amp;streamtype=HLS&amp;name=Sky Uno Full HD</link></item> 
+<item><title>Sky Uno HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1.m3u8&amp;streamtype=HLS&amp;name=Sky Uno HD</link></item> 
+<item><title>Sky Uno +1 HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/198.m3u8&amp;streamtype=HLS&amp;name=Sky Uno +1 HD</link></item> 
+<item><title>Sky Atlantic SUPER HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1472.m3u8&amp;streamtype=HLS&amp;name=Sky Atlantic SUPER HD</link></item> 
+<item><title>Sky Atlantic HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/32.m3u8&amp;streamtype=HLS&amp;name=Sky Atlantic HD</link></item> 
+<item><title>Fox Life HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/83.m3u8&amp;streamtype=HLS&amp;name=Fox Life HD</link></item> 
+<item><title>Fox HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/84.m3u8&amp;streamtype=HLS&amp;name=Fox HD</link></item> 
+<item><title>Fox +1 HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/188.m3u8&amp;streamtype=HLS&amp;name=Fox +1 HD</link></item> 
+<item><title>Fox Animation HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/87.m3u8&amp;streamtype=HLS&amp;name=Fox Animation HD</link></item> 
+<item><title>Fox Comedy HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/86.m3u8&amp;streamtype=HLS&amp;name=Fox Comedy HD</link></item> 
+<item><title>Fox Crime HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/85.m3u8&amp;streamtype=HLS&amp;name=Fox Crime HD</link></item> 
+<item><title>Crime Inv HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/91.m3u8&amp;streamtype=HLS&amp;name=Crime Inv HD</link></item> 
+<item><title>Laeffe</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/95.m3u8&amp;streamtype=HLS&amp;name=Laeffe</link></item> 
+<item><title>Lei</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/282.m3u8&amp;streamtype=HLS&amp;name=Lei</link></item> 
+<item><title>Cielo HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/92.m3u8&amp;streamtype=HLS&amp;name=Cielo HD</link></item> 
+<item><title>Realtime HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/35.m3u8&amp;streamtype=HLS&amp;name=Realtime HD</link></item> 
+<item><title>DMAX HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/202.m3u8&amp;streamtype=HLS&amp;name=DMAX HD</link></item> 
+<item><title>Classica HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/203.m3u8&amp;streamtype=HLS&amp;name=Classica HD</link></item> 
+<item><title>MTV HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/207.m3u8&amp;streamtype=HLS&amp;name=MTV HD</link></item> 
