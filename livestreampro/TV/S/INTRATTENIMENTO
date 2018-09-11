@@ -1,59 +1,40 @@
-#EXTM3U
+#EXTINF:-1,---- SKY INTRATTENIMENTO ----
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/99.m3u8
 #EXTINF:-1,Sky Uno Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1078.ts
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1459.m3u8
 #EXTINF:-1,Sky Uno HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/30.ts
-#EXTINF:-1,Sky Atlantic Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1098.ts
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1.m3u8
+#EXTINF:-1,Sky Uno +1 HD
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/198.m3u8
+#EXTINF:-1,Sky Atlantic SUPER HD
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1472.m3u8
 #EXTINF:-1,Sky Atlantic HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/56.ts
-#EXTINF:-1,Fox Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1111.ts
-#EXTINF:-1,Fox HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1.ts
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/32.m3u8
 #EXTINF:-1,Fox Life HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/125.ts
-#EXTINF:-1,Fox Life Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1110.ts
-#EXTINF:-1,Fox Crime HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/126.ts
-#EXTINF:-1,Fox Comedy Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1113.ts
-#EXTINF:-1,Fox Comedy HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/127.ts
-#EXTINF:-1,Fox Animation Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1114.ts
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/83.m3u8
+#EXTINF:-1,Fox HD
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/84.m3u8
+#EXTINF:-1,Fox +1 HD
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/188.m3u8
 #EXTINF:-1,Fox Animation HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/128.ts
-#EXTINF:-1,Blaze Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1118.ts
-#EXTINF:-1,Blaze HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/25.ts
-#EXTINF:-1,Comedy Central
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/143.ts
-#EXTINF:-1,Man-Ga
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/108.ts
-#EXTINF:-1,MTV HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/14.ts
-#EXTINF:-1,Giallo
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/121.ts
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/87.m3u8
+#EXTINF:-1,Fox Comedy HD
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/86.m3u8
+#EXTINF:-1,Fox Crime HD
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/85.m3u8
+#EXTINF:-1,Crime Inv HD
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/91.m3u8
+#EXTINF:-1,Laeffe
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/95.m3u8
 #EXTINF:-1,Lei
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/109.ts
-#EXTINF:-1,Cielo
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/144.ts
-#EXTINF:-1,Real Time
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/63.ts
-#EXTINF:-1,TV 8 HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/798.ts
-#EXTINF:-1,Paramount Channel
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1613.ts
-#EXTINF:-1,Mediaset Extra
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/107.ts
-#EXTINF:-1,Sky Arte Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1099.ts
-#EXTINF:-1,Crime Investigation Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1116.ts
-#EXTINF:-1,Gambero Rosso Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1108.ts
-#EXTINF:-1,Gambero Rosso HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/122.ts
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/282.m3u8
+#EXTINF:-1,Cielo HD
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/92.m3u8
+#EXTINF:-1,Realtime HD
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/35.m3u8
+#EXTINF:-1,DMAX HD
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/202.m3u8
+#EXTINF:-1,Classica HD
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/203.m3u8
+#EXTINF:-1,MTV HD
+http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/207.m3u8
