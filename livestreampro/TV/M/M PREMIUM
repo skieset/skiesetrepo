@@ -1,29 +1,38 @@
-#EXTM3U
-#EXTINF:-1,Premium Cinema Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1608.ts
-#EXTINF:-1,Premium Cinema HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/81.ts
-#EXTINF:-1,Premium Cinema 24 HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/87.ts
-#EXTINF:-1,Premium Action HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/95.ts
-#EXTINF:-1,Premium Crime HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/79.ts
-#EXTINF:-1,Premium Stories Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/3004.ts
-#EXTINF:-1,Premium Stories
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/74.ts
-#EXTINF:-1,Premium Joi Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/3003.ts
-#EXTINF:-1,Premium Joi
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/77.ts
-#EXTINF:-1,Premium Studio Universal
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/73.ts
-#EXTINF:-1,Premium Cinema Energy HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/82.ts
-#EXTINF:-1,Premium Cinema Emotion HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/83.ts
-#EXTINF:-1,Premium Cinema Comedy HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/84.ts
-#EXTINF:-1,Canale 20 Mediaset
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1512.ts
+<item><title> [COLOR lime]=====MEDIASET PREMIUM=====[/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/105.m3u8&amp;streamtype=HLS&amp;name=---- MEDIASET PREMIUM ----</link></item> 
+<item><title>Premium Cinema HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/58.m3u8&amp;streamtype=HLS&amp;name=Premium Cinema HD</link></item> 
+<item><title>Premium Cinema Energy HD</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/50.m3u8&amp;streamtype=HLS&amp;name=Premium Cinema Energy HD</link></item> 
+<item><title>20 Mediaset</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/1580.m3u8&amp;streamtype=HLS&amp;name=20 Mediaset</link></item> 
+<item><title>Premium Emotion</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/51.m3u8&amp;streamtype=HLS&amp;name=Premium Emotion</link></item> 
+<item><title>Premium Action</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/212.m3u8&amp;streamtype=HLS&amp;name=Premium Action</link></item> 
+<item><title>Premium Comedy</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/57.m3u8&amp;streamtype=HLS&amp;name=Premium Comedy</link></item> 
+<item><title>Premium Joi</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/43.m3u8&amp;streamtype=HLS&amp;name=Premium Joi</link></item> 
+<item><title>Premium Stories</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/42.m3u8&amp;streamtype=HLS&amp;name=Premium Stories</link></item> 
+<item><title>Premium Studio Universal</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/40.m3u8&amp;streamtype=HLS&amp;name=Premium Studio Universal</link></item> 
+<item><title>Premium TopCrime</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/39.m3u8&amp;streamtype=HLS&amp;name=Premium TopCrime</link></item> 
+<item><title>Premium Investigation Discovery</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/55.m3u8&amp;streamtype=HLS&amp;name=Premium Investigation Discovery</link></item> 
+<item><title>Premium Crime</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/211.m3u8&amp;streamtype=HLS&amp;name=Premium Crime</link></item> 
+<item><title>Premium Italiadue</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/44.m3u8&amp;streamtype=HLS&amp;name=Premium Italiadue</link></item> 
+<item><title>Premium Extra</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/47.m3u8&amp;streamtype=HLS&amp;name=Premium Extra</link></item> 
+<item><title>Premium Sport Italia</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/41.m3u8&amp;streamtype=HLS&amp;name=Premium Sport Italia</link></item> 
+<item><title>Premium Eurosport</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/49.m3u8&amp;streamtype=HLS&amp;name=Premium Eurosport</link></item> 
+<item><title>Premium Eurosport 2</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/48.m3u8&amp;streamtype=HLS&amp;name=Premium Eurosport 2</link></item> 
+<item><title>Premium Sport 2</title> 
+<link>plugin://plugin.video.f4mTester/?url=http://cdnlive1.win:80/live/Ccw9DJgbZZ/O4iWjaLtnp/63.m3u8&amp;streamtype=HLS&amp;name=Premium Sport 2</link></item> 
