@@ -1,53 +1,240 @@
 #EXTM3U
-#EXTINF:-1,SKY UNO FHD
-http://realspeedymomy.com:8000/live/Nando/123456/39300.ts
-#EXTINF:-1,SKY UNO HD
-http://realspeedymomy.com:8000/live/Nando/123456/86.ts
-#EXTINF:-1,SKY UNO +1 HD
-http://realspeedymomy.com:8000/live/Nando/123456/8081.ts
-#EXTINF:-1,SKY ATLANTIC FHD
-http://realspeedymomy.com:8000/live/Nando/123456/39321.ts
-#EXTINF:-1,SKY ATLANTIC HD
-http://realspeedymomy.com:8000/live/Nando/123456/2082.ts
-#EXTINF:-1,SKY ATLANTIC +1 HD
-http://realspeedymomy.com:8000/live/Nando/123456/2083.ts
+#EXTINF:-1,Sky Uno FHD
+http://secure.selling-team.net:80/live/carl2/2carl/22088.ts
+#EXTINF:-1,Fox FHD
+http://secure.selling-team.net:80/live/carl2/2carl/22089.ts
+#EXTINF:-1,Fox Animation FHD
+http://secure.selling-team.net:80/live/carl2/2carl/26944.ts
+#EXTINF:-1,Fox Comedy FHD
+http://secure.selling-team.net:80/live/carl2/2carl/26945.ts
+#EXTINF:-1,Fox Crime FHD
+http://secure.selling-team.net:80/live/carl2/2carl/22090.ts
+#EXTINF:-1,Fox Life FHD
+http://secure.selling-team.net:80/live/carl2/2carl/22130.ts
+#EXTINF:-1,Focus Prima
+http://secure.selling-team.net:80/live/carl2/2carl/935.ts
+#EXTINF:-1,Blaze FHD
+http://secure.selling-team.net:80/live/carl2/2carl/63665.ts
+#EXTINF:-1,Boomerang FHD
+http://secure.selling-team.net:80/live/carl2/2carl/68317.ts
+#EXTINF:-1,Sky Disney Channel FHD
+http://secure.selling-team.net:80/live/carl2/2carl/68316.ts
+#EXTINF:-1,Sky Disney Junior FHD
+http://secure.selling-team.net:80/live/carl2/2carl/68315.ts
+#EXTINF:-1,CI Crime Investigation FHD
+http://secure.selling-team.net:80/live/carl2/2carl/63664.ts
 #EXTINF:-1,MTV FHD
-http://realspeedymomy.com:8000/live/Nando/123456/39536.ts
+http://secure.selling-team.net:80/live/carl2/2carl/1276.ts
+#EXTINF:-1,Sky Fox Mosaico HD
+http://secure.selling-team.net:80/live/carl2/2carl/107890.ts
+#EXTINF:-1,Sky Uno HD
+http://secure.selling-team.net:80/live/carl2/2carl/900.ts
+#EXTINF:-1,Sky Uno SD
+http://secure.selling-team.net:80/live/carl2/2carl/28086.ts
+#EXTINF:-1,Sky Uno HD H265 (DTT Premium)
+http://secure.selling-team.net:80/live/carl2/2carl/114023.ts
+#EXTINF:-1,Sky Uno +1HD
+http://secure.selling-team.net:80/live/carl2/2carl/4166.ts
+#EXTINF:-1,Sky Uno +1 SD
+http://secure.selling-team.net:80/live/carl2/2carl/28087.ts
+#EXTINF:-1,Sky Uno +2HD
+http://secure.selling-team.net:80/live/carl2/2carl/26845.ts
+#EXTINF:-1,Sky Uno +3HD
+http://secure.selling-team.net:80/live/carl2/2carl/32315.ts
+#EXTINF:-1,Sky Uno +4HD
+http://secure.selling-team.net:80/live/carl2/2carl/32316.ts
+#EXTINF:-1,Sky Uno +5HD
+http://secure.selling-team.net:80/live/carl2/2carl/32317.ts
+#EXTINF:-1,Sky Uno +6HD
+http://secure.selling-team.net:80/live/carl2/2carl/32318.ts
+#EXTINF:-1,Sky Uno +7HD
+http://secure.selling-team.net:80/live/carl2/2carl/32319.ts
+#EXTINF:-1,Sky Uno +24HD
+http://secure.selling-team.net:80/live/carl2/2carl/35950.ts
+#EXTINF:-1,Sky Atlantic HD
+http://secure.selling-team.net:80/live/carl2/2carl/901.ts
+#EXTINF:-1,Sky Atlantic SD
+http://secure.selling-team.net:80/live/carl2/2carl/85433.ts
+#EXTINF:-1,Sky Atlantic H265 (DTT Premium)
+http://secure.selling-team.net:80/live/carl2/2carl/114026.ts
+#EXTINF:-1,Sky Atlantic +1HD
+http://secure.selling-team.net:80/live/carl2/2carl/4167.ts
+#EXTINF:-1,Sky Atlantic +2HD
+http://secure.selling-team.net:80/live/carl2/2carl/26844.ts
+#EXTINF:-1,Sky Atlantic +3HD
+http://secure.selling-team.net:80/live/carl2/2carl/32310.ts
+#EXTINF:-1,Sky Atlantic +4HD
+http://secure.selling-team.net:80/live/carl2/2carl/32311.ts
+#EXTINF:-1,Sky Atlantic +5HD
+http://secure.selling-team.net:80/live/carl2/2carl/32312.ts
+#EXTINF:-1,Sky Atlantic +6HD
+http://secure.selling-team.net:80/live/carl2/2carl/32313.ts
+#EXTINF:-1,Sky Atlantic +7HD
+http://secure.selling-team.net:80/live/carl2/2carl/32314.ts
+#EXTINF:-1,Sky Atlantic +24HD
+http://secure.selling-team.net:80/live/carl2/2carl/35951.ts
+#EXTINF:-1,Fox HD
+http://secure.selling-team.net:80/live/carl2/2carl/902.ts
+#EXTINF:-1,Fox SD
+http://secure.selling-team.net:80/live/carl2/2carl/28088.ts
+#EXTINF:-1,Fox H265 (DTT Premium)
+http://secure.selling-team.net:80/live/carl2/2carl/114029.ts
+#EXTINF:-1,Fox +1HD
+http://secure.selling-team.net:80/live/carl2/2carl/4168.ts
+#EXTINF:-1,Fox +1 SD
+http://secure.selling-team.net:80/live/carl2/2carl/28089.ts
+#EXTINF:-1,Fox +2HD
+http://secure.selling-team.net:80/live/carl2/2carl/11014.ts
+#EXTINF:-1,Fox +3HD
+http://secure.selling-team.net:80/live/carl2/2carl/30587.ts
+#EXTINF:-1,Fox +4HD
+http://secure.selling-team.net:80/live/carl2/2carl/30608.ts
+#EXTINF:-1,Fox +5HD
+http://secure.selling-team.net:80/live/carl2/2carl/32289.ts
+#EXTINF:-1,Fox +6HD
+http://secure.selling-team.net:80/live/carl2/2carl/32320.ts
+#EXTINF:-1,Fox +7HD
+http://secure.selling-team.net:80/live/carl2/2carl/32321.ts
+#EXTINF:-1,Fox +24HD
+http://secure.selling-team.net:80/live/carl2/2carl/35952.ts
+#EXTINF:-1,Fox Life HD
+http://secure.selling-team.net:80/live/carl2/2carl/903.ts
+#EXTINF:-1,Fox Life SD
+http://secure.selling-team.net:80/live/carl2/2carl/28090.ts
+#EXTINF:-1,Fox Life +1HD
+http://secure.selling-team.net:80/live/carl2/2carl/4169.ts
+#EXTINF:-1,Fox Life +1 SD
+http://secure.selling-team.net:80/live/carl2/2carl/28091.ts
+#EXTINF:-1,Fox Life +2HD
+http://secure.selling-team.net:80/live/carl2/2carl/26843.ts
+#EXTINF:-1,Fox Life +24HD
+http://secure.selling-team.net:80/live/carl2/2carl/35953.ts
+#EXTINF:-1,Fox Crime HD
+http://secure.selling-team.net:80/live/carl2/2carl/904.ts
+#EXTINF:-1,Fox Crime SD
+http://secure.selling-team.net:80/live/carl2/2carl/28092.ts
+#EXTINF:-1,Fox Crime +1HD
+http://secure.selling-team.net:80/live/carl2/2carl/4170.ts
+#EXTINF:-1,Fox Crime +1 SD
+http://secure.selling-team.net:80/live/carl2/2carl/28093.ts
+#EXTINF:-1,Fox Crime +2HD
+http://secure.selling-team.net:80/live/carl2/2carl/4246.ts
+#EXTINF:-1,Fox Crime +24HD
+http://secure.selling-team.net:80/live/carl2/2carl/35954.ts
+#EXTINF:-1,Fox Crime +2 SD
+http://secure.selling-team.net:80/live/carl2/2carl/28094.ts
+#EXTINF:-1,Fox Comedy HD
+http://secure.selling-team.net:80/live/carl2/2carl/905.ts
+#EXTINF:-1,Fox Comedy SD
+http://secure.selling-team.net:80/live/carl2/2carl/28095.ts
+#EXTINF:-1,Fox Comedy +1HD
+http://secure.selling-team.net:80/live/carl2/2carl/4171.ts
+#EXTINF:-1,Fox Comedy +2HD
+http://secure.selling-team.net:80/live/carl2/2carl/26970.ts
+#EXTINF:-1,Fox Comedy +24HD
+http://secure.selling-team.net:80/live/carl2/2carl/35955.ts
+#EXTINF:-1,Fox Animation HD
+http://secure.selling-team.net:80/live/carl2/2carl/906.ts
+#EXTINF:-1,Fox Animation SD
+http://secure.selling-team.net:80/live/carl2/2carl/28096.ts
+#EXTINF:-1,Fox Animation +1HD
+http://secure.selling-team.net:80/live/carl2/2carl/4172.ts
+#EXTINF:-1,Fox Animation +2HD
+http://secure.selling-team.net:80/live/carl2/2carl/26969.ts
+#EXTINF:-1,Fox Animation +24HD
+http://secure.selling-team.net:80/live/carl2/2carl/35956.ts
+#EXTINF:-1,Paramount Channel HD
+http://secure.selling-team.net:80/live/carl2/2carl/17027.ts
+#EXTINF:-1,Paramount Channel +1HD
+http://secure.selling-team.net:80/live/carl2/2carl/26997.ts
+#EXTINF:-1,Paramount Channel +2HD
+http://secure.selling-team.net:80/live/carl2/2carl/26998.ts
+#EXTINF:-1,Comedy Central HD
+http://secure.selling-team.net:80/live/carl2/2carl/15679.ts
+#EXTINF:-1,Comedy Central +1HD
+http://secure.selling-team.net:80/live/carl2/2carl/16424.ts
+#EXTINF:-1,Comedy Central +24HD
+http://secure.selling-team.net:80/live/carl2/2carl/35975.ts
+#EXTINF:-1,Blaze HD
+http://secure.selling-team.net:80/live/carl2/2carl/61675.ts
+#EXTINF:-1,Spike
+http://secure.selling-team.net:80/live/carl2/2carl/1274.ts
+#EXTINF:-1,Spike +1
+http://secure.selling-team.net:80/live/carl2/2carl/26953.ts
+#EXTINF:-1,Food Network Italia
+http://secure.selling-team.net:80/live/carl2/2carl/89949.ts
+#EXTINF:-1,Alpha TV
+http://secure.selling-team.net:80/live/carl2/2carl/89948.ts
+#EXTINF:-1,Giallo
+http://secure.selling-team.net:80/live/carl2/2carl/4133.ts
+#EXTINF:-1,Giallo +1
+http://secure.selling-team.net:80/live/carl2/2carl/26952.ts
+#EXTINF:-1,La 5
+http://secure.selling-team.net:80/live/carl2/2carl/1623.ts
+#EXTINF:-1,La 5 +1
+http://secure.selling-team.net:80/live/carl2/2carl/26951.ts
+#EXTINF:-1,TV 2000
+http://secure.selling-team.net:80/live/carl2/2carl/2791.ts
+#EXTINF:-1,TV 2000 +1
+http://secure.selling-team.net:80/live/carl2/2carl/26950.ts
+#EXTINF:-1,Lei HD
+http://secure.selling-team.net:80/live/carl2/2carl/35090.ts
+#EXTINF:-1,Dove HD
+http://secure.selling-team.net:80/live/carl2/2carl/35092.ts
+#EXTINF:-1,La Effe
+http://secure.selling-team.net:80/live/carl2/2carl/116918.ts
+#EXTINF:-1,# === INTRATTENIMENTO ===
+http://en-joy.co:8000/live/Nando/123456/275.ts
+#EXTINF:-1,SKY UNO FHD
+http://en-joy.co:8000/live/Nando/123456/39300.ts
+#EXTINF:-1,SKY UNO HD
+http://en-joy.co:8000/live/Nando/123456/86.ts
+#EXTINF:-1,SKY UNO +1 HD
+http://en-joy.co:8000/live/Nando/123456/8081.ts
+#EXTINF:-1,SKY ATLANTIC FHD
+http://en-joy.co:8000/live/Nando/123456/39321.ts
+#EXTINF:-1,SKY ATLANTIC HD
+http://en-joy.co:8000/live/Nando/123456/2082.ts
+#EXTINF:-1,SKY ATLANTIC +1 HD
+http://en-joy.co:8000/live/Nando/123456/2083.ts
+#EXTINF:-1,MTV FHD
+http://en-joy.co:8000/live/Nando/123456/39536.ts
 #EXTINF:-1,MTV HD
-http://realspeedymomy.com:8000/live/Nando/123456/39537.ts
+http://en-joy.co:8000/live/Nando/123456/39537.ts
 #EXTINF:-1,FOX FHD
-http://realspeedymomy.com:8000/live/Nando/123456/39328.ts
+http://en-joy.co:8000/live/Nando/123456/39328.ts
 #EXTINF:-1,FOX HD
-http://realspeedymomy.com:8000/live/Nando/123456/87.ts
+http://en-joy.co:8000/live/Nando/123456/87.ts
 #EXTINF:-1,FOX LIFE FHD
-http://realspeedymomy.com:8000/live/Nando/123456/39544.ts
+http://en-joy.co:8000/live/Nando/123456/39544.ts
 #EXTINF:-1,FOX LIFE HD
-http://realspeedymomy.com:8000/live/Nando/123456/88.ts
+http://en-joy.co:8000/live/Nando/123456/88.ts
 #EXTINF:-1,FOX CRIME FHD
-http://realspeedymomy.com:8000/live/Nando/123456/39543.ts
+http://en-joy.co:8000/live/Nando/123456/39543.ts
 #EXTINF:-1,FOX CRIME HD
-http://realspeedymomy.com:8000/live/Nando/123456/90.ts
+http://en-joy.co:8000/live/Nando/123456/90.ts
 #EXTINF:-1,FOX COMEDY UHD
-http://realspeedymomy.com:8000/live/Nando/123456/39542.ts
+http://en-joy.co:8000/live/Nando/123456/39542.ts
 #EXTINF:-1,FOX COMEDY HD
-http://realspeedymomy.com:8000/live/Nando/123456/89.ts
+http://en-joy.co:8000/live/Nando/123456/89.ts
 #EXTINF:-1,FOX ANIMATION UHD
-http://realspeedymomy.com:8000/live/Nando/123456/39541.ts
+http://en-joy.co:8000/live/Nando/123456/39541.ts
 #EXTINF:-1,FOX ANIMATION HD
-http://realspeedymomy.com:8000/live/Nando/123456/91.ts
+http://en-joy.co:8000/live/Nando/123456/91.ts
 #EXTINF:-1,FOOD NETWORK
-http://realspeedymomy.com:8000/live/Nando/123456/40698.ts
+http://en-joy.co:8000/live/Nando/123456/40698.ts
 #EXTINF:-1,BLAZE HD
-http://realspeedymomy.com:8000/live/Nando/123456/38773.ts
+http://en-joy.co:8000/live/Nando/123456/38773.ts
 #EXTINF:-1,LEI
-http://realspeedymomy.com:8000/live/Nando/123456/94.ts
+http://en-joy.co:8000/live/Nando/123456/94.ts
 #EXTINF:-1,REAL TIME HD
-http://realspeedymomy.com:8000/live/Nando/123456/95.ts
+http://en-joy.co:8000/live/Nando/123456/95.ts
 #EXTINF:-1,DMAX
-http://realspeedymomy.com:8000/live/Nando/123456/137.ts
+http://en-joy.co:8000/live/Nando/123456/137.ts
 #EXTINF:-1,COMEDY CENTRAL
-http://realspeedymomy.com:8000/live/Nando/123456/11200.ts
+http://en-joy.co:8000/live/Nando/123456/11200.ts
 #EXTINF:-1,CI CRIME+INVESTIGATION HD
-http://realspeedymomy.com:8000/live/Nando/123456/48.ts
+http://en-joy.co:8000/live/Nando/123456/48.ts
 #EXTINF:-1,ID INVESTIGATION DISCOVERY
-http://realspeedymomy.com:8000/live/Nando/123456/30525.ts
+http://en-joy.co:8000/live/Nando/123456/30525.ts
+
