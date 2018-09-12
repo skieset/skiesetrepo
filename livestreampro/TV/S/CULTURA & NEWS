@@ -1,41 +1,43 @@
 #EXTM3U
-#EXTINF:-1,National Geographic HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/103.ts
-#EXTINF:-1,National Geographic Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/2456.ts
-#EXTINF:-1,National Geo People HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/105.ts
-#EXTINF:-1,National Geo Wild HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/104.ts
-#EXTINF:-1,Sky Arte HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/57.ts
-#EXTINF:-1,Animal Planet
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/150.ts
-#EXTINF:-1,Discovery Sci Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1115.ts
-#EXTINF:-1,Discovery Channel HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/141.ts
-#EXTINF:-1,Discovery Science HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/140.ts
-#EXTINF:-1,Discovery Travel e Living HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/139.ts
-#EXTINF:-1,Premium Investigation Discovery
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/78.ts
-#EXTINF:-1,Criminal Investigation HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/142.ts
-#EXTINF:-1,Dmax
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/135.ts
-#EXTINF:-1,Food Network
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/287.ts
-#EXTINF:-1,Caccia
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/148.ts
-#EXTINF:-1,Pesca
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/99.ts
-#EXTINF:-1,History
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/120.ts
-#EXTINF:-1,History Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1415.ts
-#EXTINF:-1,Rai Storia HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/65.ts
-#EXTINF:-1,Sky TG 24
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/11.ts
+#EXTINF:-1,# === DOCUMENTARI ===
+http://realspeedymomy.com:8000/live/Nando/123456/276.ts
+#EXTINF:-1,SKY ARTE HD
+http://realspeedymomy.com:8000/live/Nando/123456/143.ts
+#EXTINF:-1,HISTORY CHANNEL HD
+http://realspeedymomy.com:8000/live/Nando/123456/142.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://realspeedymomy.com:8000/live/Nando/123456/131.ts
+#EXTINF:-1,DISCOVERY SCI HD
+http://realspeedymomy.com:8000/live/Nando/123456/128.ts
+#EXTINF:-1,DISCOVERY TRAVEL&LIVING HD
+http://realspeedymomy.com:8000/live/Nando/123456/2199.ts
+#EXTINF:-1,NATIONAL GEO HD
+http://realspeedymomy.com:8000/live/Nando/123456/129.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://realspeedymomy.com:8000/live/Nando/123456/133.ts
+#EXTINF:-1,NAT GEO PEOPLE HD
+http://realspeedymomy.com:8000/live/Nando/123456/132.ts
+#EXTINF:-1,GAMBERO ROSSO HD
+http://realspeedymomy.com:8000/live/Nando/123456/138.ts
+#EXTINF:-1,ANIMAL PLANET
+http://realspeedymomy.com:8000/live/Nando/123456/140.ts
+#EXTINF:-1,MARCOPOLO
+http://realspeedymomy.com:8000/live/Nando/123456/144.ts
+#EXTINF:-1,ALICE
+http://realspeedymomy.com:8000/live/Nando/123456/2198.ts
+#EXTINF:-1,FOCUS
+http://realspeedymomy.com:8000/live/Nando/123456/135.ts
+#EXTINF:-1,RAI STORIA HD
+http://realspeedymomy.com:8000/live/Nando/123456/40744.ts
+#EXTINF:-1,DOVE TV
+http://realspeedymomy.com:8000/live/Nando/123456/82356.ts
+#EXTINF:-1,# === NOTIZIARI ===
+http://realspeedymomy.com:8000/live/Nando/123456/160.ts
+#EXTINF:-1,SKY TG24
+http://realspeedymomy.com:8000/live/Nando/123456/6579.ts
+#EXTINF:-1,TGCOM 24 HD
+http://realspeedymomy.com:8000/live/Nando/123456/162.ts
+#EXTINF:-1,TG NORBA24
+http://realspeedymomy.com:8000/live/Nando/123456/5188.ts
+#EXTINF:-1,RAI NEWS 24
+http://realspeedymomy.com:8000/live/Nando/123456/163.ts
