@@ -1,35 +1,47 @@
 #EXTM3U
-#EXTINF:-1,Sky Cinema 1 Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1087.ts
-#EXTINF:-1,Sky Cinema 1 HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/45.ts
-#EXTINF:-1,Sky Cinema  24 Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1094.ts
-#EXTINF:-1,Sky Cinema  24 HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/46.ts
-#EXTINF:-1,Sky Cinema Hits Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1090.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/40.ts
-#EXTINF:-1,Sky Cinema Family Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1091.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/41.ts
-#EXTINF:-1,Sky Cinema Max Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1089.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/39.ts
-#EXTINF:-1,Sky Cinema Passion Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1088.ts
-#EXTINF:-1,Sky Cinema Passion HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/38.ts
-#EXTINF:-1,Sky Cinema Cult Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1092.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/42.ts
-#EXTINF:-1,Sky Cinema Classic HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/44.ts
-#EXTINF:-1,Sky Cinema Comedy Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1093.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/43.ts
+#EXTINF:-1,SKY CINEMA 1 FULL HD
+http://realspeedymomy.com:8000/live/Nando/123456/95117.ts
+#EXTINF:-1,SKY CINEMA 1 HD
+http://realspeedymomy.com:8000/live/Nando/123456/2805.ts
+#EXTINF:-1,SKY CINEMA +1 FULL HD
+http://realspeedymomy.com:8000/live/Nando/123456/95033.ts
+#EXTINF:-1,SKY CINEMA +1 HD
+http://realspeedymomy.com:8000/live/Nando/123456/2802.ts
+#EXTINF:-1,SKY CINEMA +24 FULL HD
+http://realspeedymomy.com:8000/live/Nando/123456/82233.ts
+#EXTINF:-1,SKY CINEMA +24 HD
+http://realspeedymomy.com:8000/live/Nando/123456/2803.ts
+#EXTINF:-1,SKY CINEMA HITS FULL HD
+http://realspeedymomy.com:8000/live/Nando/123456/39312.ts
+#EXTINF:-1,CINEMA HITS HD
+http://realspeedymomy.com:8000/live/Nando/123456/2808.ts
+#EXTINF:-1,SKY CINEMA COMEDY FULL HD
+http://realspeedymomy.com:8000/live/Nando/123456/39315.ts
+#EXTINF:-1,CINEMA COMEDY HD
+http://realspeedymomy.com:8000/live/Nando/123456/2811.ts
+#EXTINF:-1,SKY CINEMA FAMILY FULL HD
+http://realspeedymomy.com:8000/live/Nando/123456/39313.ts
+#EXTINF:-1,CINEMA FAMILY HD
+http://realspeedymomy.com:8000/live/Nando/123456/2809.ts
+#EXTINF:-1,SKY CINEMA FAMILY +1 HD
+http://realspeedymomy.com:8000/live/Nando/123456/8080.ts
+#EXTINF:-1,SKY CINEMA MAX FULL HD
+http://realspeedymomy.com:8000/live/Nando/123456/39311.ts
+#EXTINF:-1,CINEMA MAX HD
+http://realspeedymomy.com:8000/live/Nando/123456/2806.ts
+#EXTINF:-1,CINEMA MAX +1 HD
+http://realspeedymomy.com:8000/live/Nando/123456/2804.ts
+#EXTINF:-1,SKY CINEMA PASSION FULL HD
+http://realspeedymomy.com:8000/live/Nando/123456/39310.ts
+#EXTINF:-1,CINEMA PASSION HD
+http://realspeedymomy.com:8000/live/Nando/123456/2807.ts
+#EXTINF:-1,SKY CINEMA CULT FULL HD
+http://realspeedymomy.com:8000/live/Nando/123456/39314.ts
+#EXTINF:-1,CINEMA CULT HD
+http://realspeedymomy.com:8000/live/Nando/123456/2810.ts
+#EXTINF:-1,CINEMA CULT +1 HD
+http://realspeedymomy.com:8000/live/Nando/123456/82207.ts
+#EXTINF:-1,SKY CINEMA CLASSIC FULL HD
+http://realspeedymomy.com:8000/live/Nando/123456/39316.ts
+#EXTINF:-1,CINEMA CLASSIC HD
+http://realspeedymomy.com:8000/live/Nando/123456/2812.ts
