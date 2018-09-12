@@ -1,29 +1,33 @@
 #EXTM3U
-#EXTINF:-1,Premium Cinema Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1608.ts
-#EXTINF:-1,Premium Cinema HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/81.ts
-#EXTINF:-1,Premium Cinema 24 HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/87.ts
-#EXTINF:-1,Premium Action HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/95.ts
-#EXTINF:-1,Premium Crime HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/79.ts
-#EXTINF:-1,Premium Stories Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/3004.ts
-#EXTINF:-1,Premium Stories
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/74.ts
-#EXTINF:-1,Premium Joi Full HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/3003.ts
-#EXTINF:-1,Premium Joi
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/77.ts
-#EXTINF:-1,Premium Studio Universal
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/73.ts
-#EXTINF:-1,Premium Cinema Energy HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/82.ts
-#EXTINF:-1,Premium Cinema Emotion HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/83.ts
-#EXTINF:-1,Premium Cinema Comedy HD
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/84.ts
-#EXTINF:-1,Canale 20 Mediaset
-http://m3u.iptvstreaming.org:25461/live/medicimirko@gmail.com/7xc80klrotgqwh95suoa/1512.ts
+#EXTINF:-1,PREMIUM CINEMA FULL-HD
+http://realspeedymomy.com:8000/live/Nando/123456/95044.ts
+#EXTINF:-1,PREMIUM CINEMA HD
+http://realspeedymomy.com:8000/live/Nando/123456/185.ts
+#EXTINF:-1,PREMIUM CINEMA COMEDY FULL-HD
+http://realspeedymomy.com:8000/live/Nando/123456/95042.ts
+#EXTINF:-1,PREMIUM CINEMA COMEDY HD
+http://realspeedymomy.com:8000/live/Nando/123456/195.ts
+#EXTINF:-1,PREMIUM CINEMA ENERGY FULL-HD
+http://realspeedymomy.com:8000/live/Nando/123456/95043.ts
+#EXTINF:-1,PREMIUM ENERGY HD
+http://realspeedymomy.com:8000/live/Nando/123456/193.ts
+#EXTINF:-1,PREMIUM EMOTION FULL HD
+http://realspeedymomy.com:8000/live/Nando/123456/95045.ts
+#EXTINF:-1,PREMIUM EMOTION
+http://realspeedymomy.com:8000/live/Nando/123456/194.ts
+#EXTINF:-1,PREMIUM CINEMA  24 FULL-HD
+http://realspeedymomy.com:8000/live/Nando/123456/95041.ts
+#EXTINF:-1,PREMIUM JOY
+http://realspeedymomy.com:8000/live/Nando/123456/197.ts
+#EXTINF:-1,Premium Action Full-HD
+http://realspeedymomy.com:8000/live/Nando/123456/95323.ts
+#EXTINF:-1,PREMIUM ACTION HD
+http://realspeedymomy.com:8000/live/Nando/123456/189.ts
+#EXTINF:-1,PREMIUM CRIME HD
+http://realspeedymomy.com:8000/live/Nando/123456/191.ts
+#EXTINF:-1,PREMIUM STORIES
+http://realspeedymomy.com:8000/live/Nando/123456/199.ts
+#EXTINF:-1,STUDIO UNIVERSAL
+http://realspeedymomy.com:8000/live/Nando/123456/196.ts
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://realspeedymomy.com:8000/live/Nando/123456/20724.ts
