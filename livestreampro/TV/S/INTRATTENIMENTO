@@ -1,48 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Sky Uno HD
-http://iptvhit.com/plus/it/play?23505a
-#EXTINF:-1,Sky Atlantic HD
-http://iptvhit.com/plus/it/play?23502a
-#EXTINF:-1,Sky Fox HD
-http://iptvhit.com/plus/it/play?23499a
-#EXTINF:-1,Sky Fox Life HD
-http://iptvhit.com/plus/it/play?23496a
-#EXTINF:-1,Sky Fox Crime HD
-http://iptvhit.com/plus/it/play?23494a
-#EXTINF:-1,Sky Fox Comedy HD
-http://iptvhit.com/plus/it/play?23492a
-#EXTINF:-1,Sky Fox Animation HD
-http://iptvhit.com/plus/it/play?23491a
-#EXTINF:-1,Crime Investigation HD
-http://iptvhit.com/plus/it/play?32657a
-#EXTINF:-1,Dmax
-http://iptvhit.com/plus/it/play?23507a
-#EXTINF:-1,Real Time
-http://iptvhit.com/plus/it/play?23506a
-#EXTINF:-1,Spike
-http://iptvhit.com/plus/it/play?23482a
-#EXTINF:-1,Blaze HD
-http://iptvhit.com/plus/it/play?23481a
-#EXTINF:-1,LaEffe
-http://iptvhit.com/plus/it/play?23480a
-#EXTINF:-1,Comedy Central
-http://iptvhit.com/plus/it/play?32453a
-#EXTINF:-1,Sky Classica
-http://iptvhit.com/plus/it/play?32708a
-#EXTINF:-1,Lei
-http://iptvhit.com/plus/it/play?23478a
-#EXTINF:-1,Cielo
-http://iptvhit.com/plus/it/play?23477a
-#EXTINF:-1,Top Crime
-http://iptvhit.com/plus/it/play?23476a
-#EXTINF:-1,Giallo
-http://iptvhit.com/plus/it/play?23475a
-#EXTINF:-1,Gambero Rosso HD
-http://iptvhit.com/plus/it/play?23474a
-#EXTINF:-1,Food Network Italia
-http://iptvhit.com/plus/it/play?32376a
-#EXTINF:-1,# === INTRATTENIMENTO ===
-http://en-joy.co:8000/live/Nando/123456/275.ts
 #EXTINF:-1,SKY UNO FHD
 http://en-joy.co:8000/live/Nando/123456/39300.ts
 #EXTINF:-1,SKY UNO HD
@@ -75,10 +31,8 @@ http://en-joy.co:8000/live/Nando/123456/90.ts
 http://en-joy.co:8000/live/Nando/123456/39542.ts
 #EXTINF:-1,FOX COMEDY HD
 http://en-joy.co:8000/live/Nando/123456/89.ts
-#EXTINF:-1,FOX ANIMATION UHD
-http://en-joy.co:8000/live/Nando/123456/39541.ts
 #EXTINF:-1,FOX ANIMATION HD
-http://en-joy.co:8000/live/Nando/123456/91.ts
+http://cdnlive1.win/live/cLkpCED84x/Q8xOEii1c2/87.m3u8
 #EXTINF:-1,FOOD NETWORK
 http://en-joy.co:8000/live/Nando/123456/40698.ts
 #EXTINF:-1,BLAZE HD
