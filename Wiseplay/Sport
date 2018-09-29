@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:-1,Sky Sport F1 FHD
-http://bestbuyiptv.link:6969/live/wandaskieset@outlook.it/RiJYyk4IZu/18158.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://live.now-dns.top:23000/live/graris/dpbox/2478.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://darklimitless.dyndns.org:19553/live/gennaro/gennaro/6940.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://dantelivetv.gq:37150/live/dantelivetv.gq/dantelivetv.gq/4.m3u8?Submit=Sky+Sport+24+HD
+#EXTINF:-1,Sky Sport F1 
+http://dantelivetv.gq:37150/live/dantelivetv.gq/dantelivetv.gq/3.m3u8?Submit=Sky+Sport+F1
+#EXTINF:-1,Sky Sport 1 HD
+http://dantelivetv.gq:37150/live/dantelivetv.gq/dantelivetv.gq/9.m3u8?Submit=Sky+Sport+Uno+HD
+#EXTINF:-1,Sky Sport Serie A
+http://dantelivetv.gq:37150/live/dantelivetv.gq/dantelivetv.gq/1.m3u8?Submit=Sky+Sport+Serie+A+HD
+#EXTINF:-1,Sky Sport Arena
+http://dantelivetv.gq:37150/live/dantelivetv.gq/dantelivetv.gq/7.m3u8?Submit=Sky+Sport+Arena+HD
