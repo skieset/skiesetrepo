@@ -1,4 +1,4 @@
 <item><title>                          [COLOR violet][B]2 BROKE GIRLS[/COLOR][/B]</title> <link>ignore</link></item>
 
 <item><title>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 1[/COLOR][/B][COLOR blue]________________[/COLOR]</title> <link>ignore</link></item>
-<jsonrpc>pplugin://plugin.video.pcloud-video-streaming/?folderID=1294758784</jsonrpc></item>
+<jsonrpc>plugin://plugin.video.pcloud-video-streaming/?folderID=1294758784</jsonrpc></item>
