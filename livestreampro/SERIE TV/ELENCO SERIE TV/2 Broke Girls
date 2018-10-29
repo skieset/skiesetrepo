@@ -1,14 +1,284 @@
 <item><title>                          [COLOR violet][B]2 BROKE GIRLS[/COLOR][/B]</title> <link>ignore</link></item>
 
-<item><title>[COLOR white][B]STAGIONE 1[/COLOR][/B]</title> <link>ignore</link>
-<jsonrpc>plugin://plugin.video.pcloud-video-streaming/?folderID=1294758784</jsonrpc></item>
-<item><title>[COLOR white][B]STAGIONE 2[/COLOR][/B]</title> <link>ignore</link>
-<jsonrpc>plugin://plugin.video.pcloud-video-streaming/?folderID=1301143489</jsonrpc></item>
-<item><title>[COLOR white][B]STAGIONE 3[/COLOR][/B]</title> <link>ignore</link>
-<jsonrpc>plugin://plugin.video.pcloud-video-streaming/?folderID=1303283544</jsonrpc></item>
-<item><title>[COLOR white][B]STAGIONE 4[/COLOR][/B]</title> <link>ignore</link>
-<jsonrpc></jsonrpc></item>
-<item><title>[COLOR white][B]STAGIONE 5[/COLOR][/B]</title> <link>ignore</link>
-<jsonrpc></jsonrpc></item>
-<item><title>[COLOR white][B]STAGIONE 6[/COLOR][/B]</title> <link>ignore</link>
-<jsonrpc></jsonrpc></item>
+
+<item><title>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 1[/COLOR][/B][COLOR blue]________________[/COLOR]</title> <link>ignore</link></item>
+<item><title>2 Broke Girls 1x01 E Una Nuova Occasione </title>
+<urlsolve>https://vivo.sx/8710baa602</urlsolve></item>
+<item><title>2 Broke Girls 1x02 E un ragazzo da mollare </title>
+<urlsolve>https://vivo.sx/78a52ca26f</urlsolve></item>
+<item><title>2 Broke Girls 1x03 E la maglietta di seconda mano </title>
+<urlsolve>https://vivo.sx/a4dc24cfe1</urlsolve></item>
+<item><title>2 Broke Girls 1x04 E i problemi dei ricchi </title>
+<urlsolve>https://vivo.sx/7d0dd17e58</urlsolve></item>
+<item><title>2 Broke Girls 1x05 E la festa anni 90 </title>
+<urlsolve>https://vivo.sx/7a944d1f11</urlsolve></item>
+<item><title>2 Broke Girls 1x06 E il letto a scomparsa </title>
+<urlsolve>https://vivo.sx/7484ee9cb6</urlsolve></item>
+<item><title>2 Broke Girls 1x07 E i dolci insulti </title>
+<urlsolve>https://vivo.sx/b57d02d3f9</urlsolve></item>
+<item><title>2 Broke Girls 1x08 E la sindrome di accaparramento </title>
+<urlsolve>https://vivo.sx/b1961b4f65</urlsolve></item>
+<item><title>2 Broke Girls 1x09 E il fondo per le piccole spese </title>
+<urlsolve>https://vivo.sx/9d4064e96e</urlsolve></item>
+<item><title>2 Broke Girls 1x10 E il magico mondo di Babbo Natale </title>
+<urlsolve>https://vivo.sx/5cdcfa2bc3</urlsolve></item>
+<item><title>2 Broke Girls 1x11 E la cruda realta </title>
+<urlsolve>https://vivo.sx/0d9a7311d8</urlsolve></item>
+<item><title>2 Broke Girls 1x12 E la vendita a sorpresa </title>
+<urlsolve>https://vivo.sx/9667417574</urlsolve></item>
+<item><title>2 Broke Girls 1x13 E l ingrediente a sorpresa </title>
+<urlsolve>https://vivo.sx/6262696464</urlsolve></item>
+<item><title>2 Broke Girls 1x14 E la vicina del piano di sopra </title>
+<urlsolve>https://vivo.sx/a4d7ea4ba9</urlsolve></item>
+<item><title>2 Broke Girls 1x15 E il punto cieco </title>
+<urlsolve>https://vivo.sx/5ad49f3b25</urlsolve></item>
+<item><title>2 Broke Girls 1x16 E i cuori infranti </title>
+<urlsolve>https://vivo.sx/0d0ea7638d</urlsolve></item>
+<item><title>2 Broke Girls 1x17 E le tradizioni </title>
+<urlsolve>https://vivo.sx/b14a77ba1b</urlsolve></item>
+<item><title>2 Broke Girls 1x18 E le storie di una notte </title>
+<urlsolve>https://vivo.sx/672b19c531</urlsolve></item>
+<item><title>2 Broke Girls 1x19 E la vacanza di primavera </title>
+<urlsolve>https://vivo.sx/e179535128</urlsolve></item>
+<item><title>2 Broke Girls 1x20 E il denaro drogato </title>
+<urlsolve>https://vivo.sx/7654bd54d7</urlsolve></item>
+<item><title>2 Broke Girls 1x21 E la guerra delle borse </title>
+<urlsolve>https://vivo.sx/40d03df3b3</urlsolve></item>
+<item><title>2 Broke Girls 1x22 E la crema di burro </title>
+<urlsolve>https://vivo.sx/17d6e43e4e</urlsolve></item>
+<item><title>2 Broke Girls 1x23-24 E i nuovi orizzonti </title>
+<urlsolve>https://vivo.sx/54b8fa1a75</urlsolve></item>
+
+<item><title>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 2[/COLOR][/B][COLOR blue]________________[/COLOR]</title> <link>ignore</link></item>
+<item><title>2 Broke Girls 2x01 E il bottino nascosto </title>
+<urlsolve>https://vivo.sx/aec44548d9</urlsolve></item>
+<item><title>2 Broke Girls 2x02 E la collana di perle </title>
+<urlsolve>https://vivo.sx/2055e8a870</urlsolve></item>
+<item><title>2 Broke Girls 2x03 E la rapina in casa </title>
+<urlsolve>https://vivo.sx/ecb62c2ced</urlsolve></item>
+<item><title>2 Broke Girls 2x04 E la guerra dei cupcake </title>
+<urlsolve>https://vivo.sx/fc8aa28797</urlsolve></item>
+<item><title>2 Broke Girls 2x05 E la carta preapprovata </title>
+<urlsolve>https://vivo.sx/09a032fd82</urlsolve></item>
+<item><title>2 Broke Girls 2x06 E le caramelle da uno sconosciuto </title>
+<urlsolve>https://vivo.sx/0e5afbd7f4</urlsolve></item>
+<item><title>2 Broke Girls 2x07 E le tentazioni della citta </title>
+<urlsolve>https://vivo.sx/e00259b8e9</urlsolve></item>
+<item><title>2 Broke Girls 2x08 E l uovo speciale </title>
+<urlsolve>https://vivo.sx/8c861a0f6b</urlsolve></item>
+<item><title>2 Broke Girls 2x09 E il nuovo capo </title>
+<urlsolve>https://vivo.sx/4637a84a5f</urlsolve></item>
+<item><title>2 Broke Girls 2x10 E la grande inaugurazione </title>
+<urlsolve>https://vivo.sx/9f30a8b335</urlsolve></item>
+<item><title>2 Broke Girls 2x11 E il socio occulto </title>
+<urlsolve>https://vivo.sx/d507d3585c</urlsolve></item>
+<item><title>2 Broke Girls 2x12 E le feste da sballo </title>
+<urlsolve>https://vivo.sx/3d7156dc1e</urlsolve></item>
+<item><title>2 Broke Girls 2x13 E il weekend con gli orsi </title>
+<urlsolve>https://vivo.sx/e8a3d6cace</urlsolve></item>
+<item><title>2 Broke Girls 2x14 E la notte in bianco </title>
+<urlsolve>https://vivo.sx/cced2404d1</urlsolve></item>
+<item><title>2 Broke Girls 2x15 E la Truffa Psichica </title>
+<urlsolve>https://vivo.sx/e97c541dbe</urlsolve></item>
+<item><title>2 Broke Girls 2x16 E Il Jet Privato </title>
+<urlsolve>https://vivo.sx/b915b3d0a7</urlsolve></item>
+<item><title>2 Broke Girls 2x17 E l Anca Rotta </title>
+<urlsolve>https://vivo.sx/c3e8daf1b2</urlsolve></item>
+<item><title>2 Broke Girls 2x18 E I Segni Del Cielo </title>
+<urlsolve>https://vivo.sx/0fd601605e</urlsolve></item>
+<item><title>2 Broke Girls 2x19 E l Impiego Temporaneo </title>
+<urlsolve>https://vivo.sx/c96d67aa70</urlsolve></item>
+<item><title>2 Broke Girls 2x20 E Il Grande Buco </title>
+<urlsolve>https://vivo.sx/8255338579</urlsolve></item>
+<item><title>2 Broke Girls 2x21 E un vuoto da riempire </title>
+<urlsolve>https://vivo.sx/456c048233</urlsolve></item>
+<item><title>2 Broke Girls 2x22 E Il Lavoro Da Comparse </title>
+<urlsolve>https://vivo.sx/b53b61f95e</urlsolve></item>
+
+<item><title>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 3[/COLOR][/B][COLOR blue]________________[/COLOR]</title> <link>ignore</link></item>
+<item><title>2 Broke Girls 3x01 E L Inaugurazione Discreta  </title>
+<urlsolve>https://vivo.sx/dbf25d5860</urlsolve></item>
+<item><title>2 Broke Girls 3x02 E Lo Schiaffo A Pagamento  </title>
+<urlsolve>https://vivo.sx/d9e20a6fc7</urlsolve></item>
+<item><title>2 Broke Girls 3x03 E L Amica Reincarnata  </title>
+<urlsolve>https://vivo.sx/a452953fb4</urlsolve></item>
+<item><title>2 Broke Girls 3x04 E La Macchina Per Il Cappuccino </title>
+<urlsolve>https://vivo.sx/3791e996cf</urlsolve></item>
+<item><title>2 Broke Girls 3x05 E Due Cose In Una </title>
+<urlsolve>https://vivo.sx/b3ca20ea27</urlsolve></item>
+<item><title>2 Broke Girls 3x06 E Le Lenzuola Nuove </title>
+<urlsolve>https://vivo.sx/c93353aa36</urlsolve></item>
+<item><title>2 Broke Girls 3x07 E La Visita A Sorpresa </title>
+<urlsolve>https://vivo.sx/b7de61b278</urlsolve></item>
+<item><title>2 Broke Girls 3x08 E Il Solito Bidone </title>
+<urlsolve>https://vivo.sx/13f457cb7b</urlsolve></item>
+<item><title>2 Broke Girls 3x09 E La Scuola Di Pasticceria </title>
+<urlsolve>https://vivo.sx/9140a06375</urlsolve></item>
+<item><title>2 Broke Girls 3x10 E La Festa A Sorpresa </title>
+<urlsolve>https://vivo.sx/b7e3b2e2ef</urlsolve></item>
+<item><title>2 Broke Girls 3x11 E La Vita Dopo La Morte </title>
+<urlsolve>https://vivo.sx/b4a7f02aa4</urlsolve></item>
+<item><title>2 Broke Girls 3x12 E Il Bacio Alla Francese </title>
+<urlsolve>https://vivo.sx/3af225cfce</urlsolve></item>
+<item><title>2 Broke Girls 3x13 E La Pagnotta Bagnata </title>
+<urlsolve>https://vivo.sx/c083041303</urlsolve></item>
+<item><title>2 Broke Girls 3x14 E Il Rischio Della Felicita </title>
+<urlsolve>https://vivo.sx/ae775beb53</urlsolve></item>
+<item><title>2 Broke Girls 3x15 E La Glassa Sulla Torta </title>
+<urlsolve>https://vivo.sx/47138af6c1</urlsolve></item>
+<item><title>2 Broke Girls 3x16 E Il Nuovo Bancomat </title>
+<urlsolve>https://vivo.sx/929e30047f</urlsolve></item>
+<item><title>2 Broke Girls 3x17 E La Videochiamata </title>
+<urlsolve>https://vivo.sx/9db9b0e628</urlsolve></item>
+<item><title>2 Broke Girls 3x18 E Il Quasi Divorzio </title>
+<urlsolve>https://vivo.sx/b63b46f8a7</urlsolve></item>
+<item><title>2 Broke Girls 3x19 E Il Bacio Irlandese </title>
+<urlsolve>https://vivo.sx/3b4dbc8ce0</urlsolve></item>
+<item><title>2 Broke Girls 3x20 E La Pasticceria Da Comprare </title>
+<urlsolve>https://vivo.sx/0dbe088d80</urlsolve></item>
+<item><title>2 Broke Girls 3x21 E La Torta Nuziale </title>
+<urlsolve>https://vivo.sx/c6738993e4</urlsolve></item>
+<item><title>2 Broke Girls 3x22 E Il Rinnovo Del Contratto </title>
+<urlsolve>https://vivo.sx/11611fb71a</urlsolve></item>
+<item><title>2 Broke Girls 3x23 E i soldi facili </title>
+<urlsolve>https://vivo.sx/e87125d829</urlsolve></item>
+<item><title>2 Broke Girls 3x24 E L Ultimo Esame </title>
+<urlsolve>https://vivo.sx/ca26dfaa1b</urlsolve></item>
+
+<item><title>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 4[/COLOR][/B][COLOR blue]________________[/COLOR]</title> <link>ignore</link></item>
+<item><title>2 Broke Girls 4x01 E il problema dei reality</title>
+<urlsolve>https://vivo.sx/694f76cf7a</urlsolve></item>
+<item><title>2 Broke Girls 4x02 E l'amante senza nome</title>
+<urlsolve>https://vivo.sx/bc3e13c751</urlsolve></item>
+<item><title>2 Broke Girls 4x03 E l'infanzia incompresa</title>
+<urlsolve>https://vivo.sx/cce2b830fb</urlsolve></item>
+<item><title>2 Broke Girls 4x04 E le consegne a domicilio</title>
+<urlsolve>https://vivo.sx/5d527cac49</urlsolve></item>
+<item><title>2 Broke Girls 4x05 E il nuovo marchio</title>
+<urlsolve>https://vivo.sx/1509658994</urlsolve></item>
+<item><title>2 Broke Girls 4x06 E l'appartamento per modelle</title>
+<urlsolve>https://vivo.sx/47bbcc5542</urlsolve></item>
+<item><title>2 Broke Girls 4x07 E il prestito per Natale</title>
+<urlsolve>https://vivo.sx/3dfbd0fcc0</urlsolve></item>
+<item><title>2 Broke Girls 4x08 E il lavoro divertente</title>
+<urlsolve>https://vivo.sx/81033779a7</urlsolve></item>
+<item><title>2 Broke Girls 4x09 E l'automobile dei sogni</title>
+<urlsolve>https://vivo.sx/271cade60d</urlsolve></item>
+<item><title>2 Broke Girls 4x10 E la crisi del trasloco</title>
+<urlsolve>https://vivo.sx/2d3e21870b</urlsolve></item>
+<item><title>2 Broke Girls 4x11 E gli anelli dimenticati</title>
+<urlsolve>https://vivo.sx/9ac2167fe0</urlsolve></item>
+<item><title>2 Broke Girls 4x12 E il furto delle magliette</title>
+<urlsolve>https://vivo.sx/223d6481f6</urlsolve></item>
+<item><title>2 Broke Girls 4x13 E la grande sporcizia</title>
+<urlsolve>https://vivo.sx/68c42e9ab9</urlsolve></item>
+<item><title>2 Broke Girls 4x14 E le prigioniere dei cupcake</title>
+<urlsolve>https://vivo.sx/316586af64</urlsolve></item>
+<item><title>2 Broke Girls 4x15 E il gatto grasso</title>
+<urlsolve>https://vivo.sx/d471820e74</urlsolve></item>
+<item><title>2 Broke Girls 4x16 E il saldo sotto zero</title>
+<urlsolve>https://vivo.sx/7d935a66cc</urlsolve></item>
+<item><title>2 Broke Girls 4x17 E il flirt proibito</title>
+<urlsolve>https://vivo.sx/1f7fcbb199</urlsolve></item>
+<item><title>2 Broke Girls 4x18 E il test del buon gusto</title>
+<urlsolve>https://vivo.sx/4377a6d234</urlsolve></item>
+<item><title>2 Broke Girls 4x19 E lo stile irlandese</title>
+<urlsolve>https://vivo.sx/b2fbdefffb</urlsolve></item>
+<item><title>2 Broke Girls 4x20 E il servizio fotografico</title>
+<urlsolve>https://vivo.sx/964bf2f26c</urlsolve></item>
+<item><title>2 Broke Girls 4x21 E le aspettative deluse</title>
+<urlsolve>https://vivo.sx/9a7c7bc429</urlsolve></item>
+<item><title>2 Broke Girls 4x22 E il proprio fallimento</title>
+<urlsolve>https://vivo.sx/80791e07a8</urlsolve></item>
+
+<item><title>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 5[/COLOR][/B][COLOR blue]________________[/COLOR]</title> <link>ignore</link></item>
+<item><title>2 Broke Girls 5x01 E la palla da demolizione</title>
+<urlsolve>https://vivo.sx/0b17e288e1</urlsolve></item>
+<item><title>2 Broke Girls 5x02 E i succhi stimolanti</title>
+<urlsolve>https://vivo.sx/abec909af4</urlsolve></item>
+<item><title>2 Broke Girls 5x03 E il "sembra un bebè"</title>
+<urlsolve>https://vivo.sx/e06f5783bc</urlsolve></item>
+<item><title>2 Broke Girls 5x04 E le cose dette E non dette</title>
+<urlsolve>https://vivo.sx/c3609da312</urlsolve></item>
+<item><title>2 Broke Girls 5x05 E lo spirito di squadra</title>
+<urlsolve>https://vivo.sx/9ae3bd1753</urlsolve></item>
+<item><title>2 Broke Girls 5x06 E l'irregolarità delle parti basse</title>
+<urlsolve>https://vivo.sx/4e0f0c142c</urlsolve></item>
+<item><title>2 Broke Girls 5x07 E il debutto in società</title>
+<urlsolve>https://vivo.sx/df2459adc6</urlsolve></item>
+<item><title>2 Broke Girls 5x08 E l'ossessione del basket</title>
+<urlsolve>https://vivo.sx/b3e54e6d7b</urlsolve></item>
+<item><title>2 Broke Girls 5x09 E il problema del sax</title>
+<urlsolve>https://vivo.sx/2ddb13d6a6</urlsolve></item>
+<item><title>2 Broke Girls 5x10 E la mancanza di nuovi amici</title>
+<urlsolve>https://vivo.sx/548b53b800</urlsolve></item>
+<item><title>2 Broke Girls 5x11 E le ragazze immagine</title>
+<urlsolve>https://vivo.sx/f5db5e7ddf</urlsolve></item>
+<item><title>2 Broke Girls 5x12 E lo show dei racconta-storie</title>
+<urlsolve>https://vivo.sx/0d7c335187</urlsolve></item>
+<item><title>2 Broke Girls 5x13 E il bagaglio smarrito</title>
+<urlsolve>https://vivo.sx/f047864689</urlsolve></item>
+<item><title>2 Broke Girls 5x14 E "puoi scommetterci le chiappe"</title>
+<urlsolve>https://vivo.sx/05e76e7ccc</urlsolve></item>
+<item><title>2 Broke Girls 5x15 E la grande fuga</title>
+<urlsolve>https://vivo.sx/6ddc790ee9</urlsolve></item>
+<item><title>2 Broke Girls 5x16 E il party bus</title>
+<urlsolve>https://vivo.sx/e0760af28b</urlsolve></item>
+<item><title>2 Broke Girls 5x17 E le luci della rivolta</title>
+<urlsolve>https://vivo.sx/9a233f7be4</urlsolve></item>
+<item><title>2 Broke Girls 5x18 E la via d'uscita</title>
+<urlsolve>https://vivo.sx/1b2c013c67</urlsolve></item>
+<item><title>2 Broke Girls 5x19 E l'appartamento "killer"</title>
+<urlsolve>https://vivo.sx/4456dd0d70</urlsolve></item>
+<item><title>2 Broke Girls 5x20 E la collaborazione finita male</title>
+<urlsolve>https://vivo.sx/69a33c75d1</urlsolve></item>
+<item><title>2 Broke Girls 5x21 E i trenta centimetri</title>
+<urlsolve>https://vivo.sx/54b5babe0e</urlsolve></item>
+<item><title>2 Broke Girls 5x22 E la grande scommessa</title>
+<urlsolve>https://vivo.sx/02d0d9e6ef</urlsolve></item>
+
+<item><title>[COLOR blue]________________[/COLOR][COLOR white][B]STAGIONE 6[/COLOR][/B][COLOR blue]________________[/COLOR]</title> <link>ignore</link></item>
+<item><title>2 Broke Girls 6x01 E Le Due Inaugurazioni Parte 1  </title>
+<urlsolve>https://vivo.sx/7f3e31ae5c</urlsolve></item>
+<item><title>2 Broke Girls 6x02 E Le Due Inaugurazioni Parte 2  </title>
+<urlsolve>https://vivo.sx/f4888a5740</urlsolve></item>
+<item><title>2 Broke Girls 6x03 E Il Film Anni 80  </title>
+<urlsolve>https://vivo.sx/dd47cb0d2b</urlsolve></item>
+<item><title>2 Broke Girls 6x04 E Il Dramma Della Madrina  </title>
+<urlsolve>https://vivo.sx/6a455b4b3f</urlsolve></item>
+<item><title>2 Broke Girls 6x05 E L Esperienza Al College  </title>
+<urlsolve>https://vivo.sx/c57792ead3</urlsolve></item>
+<item><title>2 Broke Girls 6x06 E La Cubana In Gita  </title>
+<urlsolve>https://vivo.sx/184541cc7f</urlsolve></item>
+<item><title>2 Broke Girls 6x07 E La Bambola Sophie  </title>
+<urlsolve>https://vivo.sx/479b6e45e6</urlsolve></item>
+<item><title>2 Broke Girls 6x08 E Il Francobollo Con Anatra</title>
+<urlsolve>https://vivo.sx/237b32bc64</urlsolve></item>
+<item><title>2 Broke Girls 6x09 E La Serata Face Time</title>
+<urlsolve>https://vivo.sx/db100521e1</urlsolve></item>
+<item><title>2 Broke Girls 6x10 E I Ricchi Giramondo  </title>
+<urlsolve>https://vivo.sx/538639f069</urlsolve></item>
+<item><title>2 Broke Girls 6x11 E Il Dito Di Una Donna  </title>
+<urlsolve>https://vivo.sx/a25efd48c3</urlsolve></item>
+<item><title>2 Broke Girls 6x12 E Il Battello Che Ci Passa In Mezzo </title>
+<urlsolve>https://vivo.sx/41a4740d2c</urlsolve></item>
+<item><title>2 Broke Girls 6x13 E La Morta Che Stalkera  </title>
+<urlsolve>https://vivo.sx/62d04415b9</urlsolve></item>
+<item><title>2 Broke Girls 6x14 E Le Ristrutturazioni Urgenti</title>
+<urlsolve>https://vivo.sx/5b0ebf7f0d</urlsolve></item>
+<item><title>2 Broke Girls 6x15 E Il Senso Della Tartaruga</title>
+<urlsolve>https://vivo.sx/0f8ae25bb6</urlsolve></item>
+<item><title>2 Broke Girls 6x16 E Il Momento Della Provocazione</title>
+<urlsolve>https://vivo.sx/67e2f849e0</urlsolve></item>
+<item><title>2 Broke Girls 6x17 E La Jessica Shmessica</title>
+<urlsolve>https://vivo.sx/b9c6473a52</urlsolve></item>
+<item><title>2 Broke Girls 6x18 E Quel Pomeriggio Di Un Giorno Da Padri</title>
+<urlsolve>https://vivo.sx/ee3153978f</urlsolve></item>
+<item><title>2 Broke Girls 6x19 E Il Bambino Segreto</title>
+<urlsolve>https://vivo.sx/515949c2e2</urlsolve></item>
+<item><title>2 Broke Girls 6x20 E Il Bowling</title>
+<urlsolve>https://vivo.sx/9f32c30e03</urlsolve></item>
+<item><title>2 Broke Girls 6x21 E La Conferenza Stampa </title>
+<urlsolve>https://vivo.sx/4f72375122</urlsolve></item>
+<item><title>2 Broke Girls 6x22 E 2 Ragazze Squattrinate  </title>
+<urlsolve>https://vivo.sx/6210e4d501</urlsolve></item>
