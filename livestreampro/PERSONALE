@@ -2,22 +2,16 @@
 
 <item><title> </title><link>http://ignorame</link></item>
 
-item><title>[B][COLOR white]->  [COLOR blue] GUIDA TV [/COLOR][/B]</title><link>ignore</link>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/GUIDATV</externallink></item>
-
-<item><title>[B][COLOR white]->  [COLOR blue] TV [/COLOR][/B]</title><link>http://ignorame</link>
-<externallink>https://rebrand.ly/skiesetTV$$TSDOWNLOADER$$</externallink></item>
-
-item><title>[B][COLOR white]->  [COLOR blue] SPORT [/COLOR][/B]</title><link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SPORT/Menu%20sport</externallink></item>
+<item><title>[B][COLOR white]->  [COLOR blue] SERIE TV [/COLOR][/B]</title><link>http://ignorame</link>
+<jsonrpc>davs://skieset:r63a66m97@cloud.allsync.com:443/remote.php/webdav/serie%20tv/</jsonrpc></item>
 
 <item><title>[B][COLOR white]->  [COLOR blue] SERIE TV ANIMATE [/COLOR][/B]</title><link>http://ignorame</link>
 <jsonrpc>davs://skieset:r63a66m97@cloud.allsync.com:443/remote.php/webdav/serie%20animate/</jsonrpc></item>
 
 <item><title>[B][COLOR white]->  [COLOR blue] FILM [/COLOR][/B]</title><link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/FILM/FILM%20MENU</externallink></item>
+<jsonrpc>davs://skieset:r63a66m97@cloud.allsync.com:443/remote.php/webdav/film/</jsonrpc></item>
 
-<item><title>[B][COLOR white]->  [COLOR blue] PROGRAMMI TV[/COLOR][/B]</title><link>http://ignorame</link>
-<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/MENU%20PROGRAMMI%20TV</externallink></item>
+<item><title>[B][COLOR white]->  [COLOR blue] PROGRAMMI TV [/COLOR][/B]</title><link>http://ignorame</link>
+<jsonrpc>davs://skieset:r63a66m97@cloud.allsync.com:443/remote.php/webdav/programmi%20tv/</jsonrpc></item>
 
 
