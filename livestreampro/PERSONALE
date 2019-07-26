@@ -1,17 +1,28 @@
-<item><title>[COLOR white]________________[/COLOR][COLOR violet][B]MENU[/COLOR][/B][COLOR white]________________[/COLOR]</title> <link>ignore</link></item>
-
 <item><title> </title><link>http://ignorame</link></item>
 
-<item><title>[B][COLOR white]->  [COLOR blue] SERIE TV [/COLOR][/B]</title><link>http://ignorame</link>
-<jsonrpc>davs://skieset:r63a66m97@cloud.allsync.com:443/remote.php/webdav/serie%20tv/</jsonrpc></item>
+<item><title>[B][COLOR white]->  [COLOR blue] GUIDA TV [/COLOR][/B]</title><link>ignore</link>
+item><title>[B][COLOR white]->  [COLOR blue] GUIDA TV [/COLOR][/B]</title><link>ignore</link>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/TV/GUIDATV</externallink></item>
 
-<item><title>[B][COLOR white]->  [COLOR blue] SERIE TV ANIMATE [/COLOR][/B]</title><link>http://ignorame</link>
-<jsonrpc>davs://skieset:r63a66m97@cloud.allsync.com:443/remote.php/webdav/serie%20animate/</jsonrpc></item>
+<item><title>[B][COLOR white]->  [COLOR blue] CERCA CANALE TV [/COLOR][/B]</title><link>ignore</link>
+<jsonrpc>plugin://plugin.video.evilkingplus30/?fanart=image%3a%2f%2f%252fstorage%252femulated%252f0%252fAndroid%252fdata%252fmygica.media.center%252ffiles%252f.mygica%252faddons%252fscript.module.evilsearch%252ffanart.jpg%2f&amp;mode=53&amp;name=%5bB%5d%5bCOLOR%20cyan%5dCerca%5b%2fB%5d%5b%2fCOLOR%5d&amp;url=plugin%3a%2f%2fscript.module.evilsearch%2f%3faction%3daddSearch</jsonrpc></item>
+
+<item><title>[B][COLOR white]->  [COLOR blue] CANALI TV [/COLOR][/B]</title><link>http://ignorame</link>
+<item><title>[B][COLOR white]->  [COLOR blue] TV [/COLOR][/B]</title><link>http://ignorame</link>
+<externallink>https://rebrand.ly/skiesetTV$$TSDOWNLOADER$$</externallink></item>
+
+<item><title>[B][COLOR white]->  [COLOR blue] SPORT [/COLOR][/B]</title><link>http://ignorame</link>
+item><title>[B][COLOR white]->  [COLOR blue] SPORT [/COLOR][/B]</title><link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SPORT/Menu%20sport</externallink></item>
+
+<item><title>[B][COLOR white]->  [COLOR blue] SERIE TV [/COLOR][/B]</title><link>http://ignorame</link>
+<item><title>[B][COLOR white]->  [COLOR blue] SERIE [/COLOR][/B]</title><link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/SERIE%20TV/SERIE%20TV%20MENU</externallink></item>
 
 <item><title>[B][COLOR white]->  [COLOR blue] FILM [/COLOR][/B]</title><link>http://ignorame</link>
-<jsonrpc>davs://skieset:r63a66m97@cloud.allsync.com:443/remote.php/webdav/film/</jsonrpc></item>
+@@ -23,5 +20,4 @@
+<item><title>[B][COLOR white]->  [COLOR blue] PROGRAMMI TV[/COLOR][/B]</title><link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/PROGRAMMITV/MENU%20PROGRAMMI%20TV</externallink></item>
 
-<item><title>[B][COLOR white]->  [COLOR blue] PROGRAMMI TV [/COLOR][/B]</title><link>http://ignorame</link>
-<jsonrpc>davs://skieset:r63a66m97@cloud.allsync.com:443/remote.php/webdav/programmi%20tv/</jsonrpc></item>
-
-
+<item><title>[B][COLOR white]->  [COLOR blue] MUSICA[/COLOR][/B]</title><link>http://ignorame</link>
+<externallink>https://raw.githubusercontent.com/skieset/skiesetrepo/master/livestreampro/MUSICA/MENU%20MUSICA</externallink></item>
