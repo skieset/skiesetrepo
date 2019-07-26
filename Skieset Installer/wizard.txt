@@ -1,5 +1,0 @@
-name="Skieset Installer"
-url="https://archive.org/download/SkiesetInstaller/Kodi%20Backup.zip"
-img="https://raw.githubusercontent.com/skieset/skiesetrepo/master/Skieset%20Installer/icon.png"
-fanart="https://raw.githubusercontent.com/skieset/skiesetrepo/master/Skieset%20Installer/icon.png"
-description="Installer for Kodi"
